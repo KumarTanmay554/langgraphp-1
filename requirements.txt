@@ -35,3 +35,4 @@ langchain_groq
 supabase
 langchain-nvidia-ai-endpoints
 langgraph
+langchain-huggingface
