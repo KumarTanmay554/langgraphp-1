@@ -1,0 +1,2001 @@
+DEALER_ID,DEALER_NAME,DEALER_BRANCH,Pincode,City,State,Category,FOS_NAME,FOS_CODE,STATUS
+922422772,Dealer_0,Branch_84,411409,Pune,Maharashtra,Small Appliances,FOS_0,941593883,Inactive
+956382239,Dealer_1,Branch_38,411580,Pune,Maharashtra,Luggage,FOS_1,923252065,Mod Active
+797289945,Dealer_2,Branch_70,411623,Pune,Maharashtra,Sports Equipment,FOS_2,989626340,Inactive
+924450850,Dealer_3,Branch_34,411916,Pune,Maharashtra,Gyms And Spas,FOS_3,984994115,Inactive
+277058802,Dealer_4,Branch_64,411711,Pune,Maharashtra,Power Tools,FOS_4,975130785,Inactive
+748521518,Dealer_5,Branch_68,411854,Pune,Maharashtra,Vehicle Care / Servicing,FOS_5,938008119,Active
+280320424,Dealer_6,Branch_31,411263,Pune,Maharashtra,Furnishing,FOS_6,912784177,Inactive
+159019159,Dealer_7,Branch_72,411618,Pune,Maharashtra,Water Purifier,FOS_7,994454758,Mod Active
+295498956,Dealer_8,Branch_60,411346,Pune,Maharashtra,Power Backup,FOS_8,952767537,Active
+659051437,Dealer_9,Branch_90,411434,Pune,Maharashtra,Power Tools,FOS_9,922631857,Active
+253695020,Dealer_10,Branch_23,411283,Pune,Maharashtra,Paints And Hardware,FOS_10,918482959,Active
+316683467,Dealer_11,Branch_87,411655,Pune,Maharashtra,Pets Accessories,FOS_11,979207461,Inactive
+572340569,Dealer_12,Branch_82,411547,Pune,Maharashtra,Luggage,FOS_12,924714322,Inactive
+697171393,Dealer_13,Branch_77,411597,Pune,Maharashtra,Footwear,FOS_13,993350581,Active
+926603683,Dealer_14,Branch_81,411791,Pune,Maharashtra,Lighting,FOS_14,967807557,Mod Active
+150533368,Dealer_15,Branch_32,411277,Pune,Maharashtra,Power Tools,FOS_15,995632977,Inactive
+290911957,Dealer_16,Branch_19,411583,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_16,996403196,Mod Active
+804597469,Dealer_17,Branch_49,411193,Pune,Maharashtra,Handicrafts,FOS_17,948278661,Mod Active
+727434000,Dealer_18,Branch_12,411023,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_18,980160404,Mod Active
+907967199,Dealer_19,Branch_45,411867,Pune,Maharashtra,Travel Agencies,FOS_19,945062767,Inactive
+849393424,Dealer_20,Branch_42,411676,Pune,Maharashtra,Apparels,FOS_20,946466050,Mod Active
+791999767,Dealer_21,Branch_52,411722,Pune,Maharashtra,Others,FOS_21,903516717,Mod Active
+289894783,Dealer_22,Branch_14,411194,Pune,Maharashtra,Furnishing,FOS_22,968879393,Active
+370667504,Dealer_23,Branch_26,411024,Pune,Maharashtra,Tyres,FOS_23,943213683,Mod Active
+628093286,Dealer_24,Branch_7,411393,Pune,Maharashtra,Power Backup,FOS_24,909594895,Active
+879370965,Dealer_25,Branch_80,411058,Pune,Maharashtra,Toys,FOS_25,936823434,Inactive
+624628714,Dealer_26,Branch_57,411055,Pune,Maharashtra,Handicrafts,FOS_26,926120791,Active
+986089605,Dealer_27,Branch_29,411228,Pune,Maharashtra,Handicrafts,FOS_27,921613609,Inactive
+312739551,Dealer_28,Branch_34,411104,Pune,Maharashtra,Pharmacy,FOS_28,917105754,Mod Active
+890342788,Dealer_29,Branch_37,411300,Pune,Maharashtra,Travel Agencies,FOS_29,931008299,Inactive
+471072133,Dealer_30,Branch_9,411668,Pune,Maharashtra,Remi Gas Kit,FOS_30,919107983,Inactive
+722528764,Dealer_31,Branch_66,411343,Pune,Maharashtra,Bike Accessories,FOS_31,906443606,Active
+247784822,Dealer_32,Branch_52,411405,Pune,Maharashtra,Crockery And House Hold Items,FOS_32,920343065,Mod Active
+524929436,Dealer_33,Branch_27,411953,Pune,Maharashtra,Bike Accessories,FOS_33,938614214,Active
+109062887,Dealer_34,Branch_46,411713,Pune,Maharashtra,Musical Instruments,FOS_34,959054112,Inactive
+353936543,Dealer_35,Branch_55,411983,Pune,Maharashtra,Gyms And Spas,FOS_35,947501173,Inactive
+650334799,Dealer_36,Branch_3,411118,Pune,Maharashtra,Toys,FOS_36,976904515,Inactive
+989531487,Dealer_37,Branch_17,411178,Pune,Maharashtra,High End Stationery,FOS_37,947430405,Mod Active
+727091658,Dealer_38,Branch_41,411944,Pune,Maharashtra,Handicrafts,FOS_38,993384776,Mod Active
+579744559,Dealer_39,Branch_2,411768,Pune,Maharashtra,Footwear,FOS_39,997945885,Mod Active
+735619892,Dealer_40,Branch_39,411234,Pune,Maharashtra,Gyms And Spas,FOS_40,952039021,Inactive
+246330319,Dealer_41,Branch_70,411084,Pune,Maharashtra,Watches,FOS_41,974545104,Active
+438197587,Dealer_42,Branch_43,411274,Pune,Maharashtra,Cycles,FOS_42,986434351,Inactive
+699528263,Dealer_43,Branch_46,411144,Pune,Maharashtra,Travel Agencies,FOS_43,991875293,Active
+491427740,Dealer_44,Branch_46,411258,Pune,Maharashtra,Luggage,FOS_44,991063245,Mod Active
+457134932,Dealer_45,Branch_93,411036,Pune,Maharashtra,Cycles,FOS_45,955199028,Active
+807558045,Dealer_46,Branch_98,411282,Pune,Maharashtra,Hotels,FOS_46,921248332,Mod Active
+440965734,Dealer_47,Branch_48,411069,Pune,Maharashtra,Diagnostics,FOS_47,911603235,Mod Active
+663895535,Dealer_48,Branch_39,411762,Pune,Maharashtra,Paints And Hardware,FOS_48,940442950,Active
+320709939,Dealer_49,Branch_54,411417,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_49,983833256,Active
+916180806,Dealer_50,Branch_41,411941,Pune,Maharashtra,Tyres,FOS_50,972802407,Active
+481719139,Dealer_51,Branch_77,411614,Pune,Maharashtra,Pharmacy,FOS_51,969736801,Mod Active
+870454879,Dealer_52,Branch_25,411886,Pune,Maharashtra,Others,FOS_52,932430179,Mod Active
+614433035,Dealer_53,Branch_85,411207,Pune,Maharashtra,Travel Agencies,FOS_53,965528478,Inactive
+192210265,Dealer_54,Branch_27,411008,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_54,992156554,Inactive
+723386478,Dealer_55,Branch_29,411762,Pune,Maharashtra,Sewing Machines.,FOS_55,971794902,Inactive
+284191877,Dealer_56,Branch_50,411844,Pune,Maharashtra,Musical Instruments,FOS_56,985988297,Inactive
+390426769,Dealer_57,Branch_40,411739,Pune,Maharashtra,Power Tools,FOS_57,931237651,Active
+234786718,Dealer_58,Branch_53,411486,Pune,Maharashtra,Power Tools,FOS_58,949114012,Active
+420483445,Dealer_59,Branch_78,411122,Pune,Maharashtra,Computer Accessories,FOS_59,945390188,Inactive
+935246497,Dealer_60,Branch_72,411112,Pune,Maharashtra,Computer Accessories,FOS_60,990910907,Inactive
+759960905,Dealer_61,Branch_1,411361,Pune,Maharashtra,Crockery And House Hold Items,FOS_61,938965760,Mod Active
+767710614,Dealer_62,Branch_4,411942,Pune,Maharashtra,Departmental Stores,FOS_62,991530756,Inactive
+665199932,Dealer_63,Branch_85,411527,Pune,Maharashtra,Tyres,FOS_63,982609564,Inactive
+562104651,Dealer_64,Branch_40,411135,Pune,Maharashtra,Small Appliances,FOS_64,993691522,Active
+384761597,Dealer_65,Branch_25,411722,Pune,Maharashtra,LFR,FOS_65,906567047,Inactive
+365593367,Dealer_66,Branch_17,411412,Pune,Maharashtra,Power Backup,FOS_66,994834490,Active
+806492002,Dealer_67,Branch_5,411894,Pune,Maharashtra,Diagnostics,FOS_67,956173658,Mod Active
+684739721,Dealer_68,Branch_83,411199,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_68,905501099,Mod Active
+867370651,Dealer_69,Branch_68,411777,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_69,921587829,Mod Active
+155527182,Dealer_70,Branch_76,411636,Pune,Maharashtra,Eyewear,FOS_70,976465402,Active
+461922889,Dealer_71,Branch_89,411674,Pune,Maharashtra,Home Security Systems,FOS_71,966064236,Inactive
+469537762,Dealer_72,Branch_87,411464,Pune,Maharashtra,Sports Equipment,FOS_72,955847415,Active
+120552274,Dealer_73,Branch_71,411982,Pune,Maharashtra,Musical Instruments,FOS_73,947878431,Inactive
+165796576,Dealer_74,Branch_55,411966,Pune,Maharashtra,Pharmacy,FOS_74,918957920,Active
+995252311,Dealer_75,Branch_17,411418,Pune,Maharashtra,Medical Accessories,FOS_75,970031552,Active
+392935958,Dealer_76,Branch_85,411303,Pune,Maharashtra,Pets Accessories,FOS_76,964405294,Inactive
+163820610,Dealer_77,Branch_72,411553,Pune,Maharashtra,Lighting,FOS_77,967628501,Mod Active
+473633066,Dealer_78,Branch_94,411913,Pune,Maharashtra,Hotels,FOS_78,914231585,Inactive
+526492490,Dealer_79,Branch_62,411553,Pune,Maharashtra,Others,FOS_79,966491465,Mod Active
+294810261,Dealer_80,Branch_39,411853,Pune,Maharashtra,Crockery And House Hold Items,FOS_80,918881274,Mod Active
+548431374,Dealer_81,Branch_97,411578,Pune,Maharashtra,Insurance,FOS_81,968856426,Active
+167379609,Dealer_82,Branch_64,411740,Pune,Maharashtra,Medical Accessories,FOS_82,974075273,Inactive
+154309540,Dealer_83,Branch_47,411745,Pune,Maharashtra,Gyms And Spas,FOS_83,906830263,Mod Active
+122414914,Dealer_84,Branch_49,411924,Pune,Maharashtra,Departmental Stores,FOS_84,952157494,Active
+601592072,Dealer_85,Branch_65,411951,Pune,Maharashtra,Apparels,FOS_85,949470211,Active
+329446232,Dealer_86,Branch_37,411366,Pune,Maharashtra,Travel Agencies,FOS_86,966327185,Mod Active
+792680235,Dealer_87,Branch_7,411668,Pune,Maharashtra,Musical Instruments,FOS_87,922973495,Mod Active
+370249699,Dealer_88,Branch_24,411939,Pune,Maharashtra,Others,FOS_88,940532902,Active
+694668279,Dealer_89,Branch_14,411222,Pune,Maharashtra,Handicrafts,FOS_89,998296166,Active
+657407619,Dealer_90,Branch_95,411752,Pune,Maharashtra,Cycles,FOS_90,943484933,Mod Active
+192753582,Dealer_91,Branch_53,411090,Pune,Maharashtra,Footwear,FOS_91,962106800,Active
+840349851,Dealer_92,Branch_62,411826,Pune,Maharashtra,Furnishing,FOS_92,951586837,Inactive
+744821638,Dealer_93,Branch_65,411031,Pune,Maharashtra,Pets Accessories,FOS_93,939953418,Inactive
+368850983,Dealer_94,Branch_80,411675,Pune,Maharashtra,Tyres,FOS_94,949384292,Inactive
+902858701,Dealer_95,Branch_22,411836,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_95,967724529,Inactive
+748795165,Dealer_96,Branch_79,411361,Pune,Maharashtra,Travel Agencies,FOS_96,916189217,Active
+561004824,Dealer_97,Branch_95,411231,Pune,Maharashtra,Pharmacy,FOS_97,927016945,Mod Active
+688005487,Dealer_98,Branch_92,411181,Pune,Maharashtra,Small Appliances,FOS_98,940466961,Active
+180486204,Dealer_99,Branch_87,411385,Pune,Maharashtra,Apparels,FOS_99,942847967,Active
+517080550,Dealer_100,Branch_49,411305,Pune,Maharashtra,Departmental Stores,FOS_100,934019382,Inactive
+228640212,Dealer_101,Branch_80,411749,Pune,Maharashtra,Apparels,FOS_101,960882198,Inactive
+462559669,Dealer_102,Branch_29,411854,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_102,915480039,Inactive
+548586795,Dealer_103,Branch_10,411784,Pune,Maharashtra,Power Tools,FOS_103,986316443,Active
+572542401,Dealer_104,Branch_64,411310,Pune,Maharashtra,Large Applainces,FOS_104,995692059,Mod Active
+555887495,Dealer_105,Branch_45,411794,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_105,954280970,Inactive
+689117440,Dealer_106,Branch_21,411646,Pune,Maharashtra,Watches,FOS_106,925698473,Active
+564368140,Dealer_107,Branch_46,411022,Pune,Maharashtra,Apparels,FOS_107,920217432,Active
+178398740,Dealer_108,Branch_79,411200,Pune,Maharashtra,Others,FOS_108,911863756,Mod Active
+199968900,Dealer_109,Branch_73,411829,Pune,Maharashtra,Power Backup,FOS_109,952081746,Mod Active
+105339158,Dealer_110,Branch_8,411954,Pune,Maharashtra,Pets Accessories,FOS_110,953744899,Mod Active
+866859938,Dealer_111,Branch_56,411738,Pune,Maharashtra,LFR,FOS_111,937009987,Active
+943384798,Dealer_112,Branch_48,411331,Pune,Maharashtra,Remi Gas Kit,FOS_112,989003316,Active
+319637607,Dealer_113,Branch_25,411865,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_113,980251335,Mod Active
+665798651,Dealer_114,Branch_15,411917,Pune,Maharashtra,Footwear,FOS_114,955441016,Active
+432943369,Dealer_115,Branch_23,411644,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_115,962360700,Active
+898338517,Dealer_116,Branch_43,411771,Pune,Maharashtra,Remi Gas Kit,FOS_116,985096456,Inactive
+914795140,Dealer_117,Branch_26,411871,Pune,Maharashtra,Luggage,FOS_117,971795078,Active
+634466824,Dealer_118,Branch_10,411756,Pune,Maharashtra,Luggage,FOS_118,917975922,Mod Active
+335192394,Dealer_119,Branch_35,411320,Pune,Maharashtra,Handicrafts,FOS_119,972568836,Active
+818377288,Dealer_120,Branch_27,411733,Pune,Maharashtra,Pets Accessories,FOS_120,917751146,Mod Active
+232211331,Dealer_121,Branch_74,411878,Pune,Maharashtra,Power Backup,FOS_121,987359990,Active
+813174523,Dealer_122,Branch_96,411138,Pune,Maharashtra,Others,FOS_122,956662803,Inactive
+825354607,Dealer_123,Branch_28,411912,Pune,Maharashtra,High End Stationery,FOS_123,924854918,Mod Active
+204613234,Dealer_124,Branch_69,411918,Pune,Maharashtra,Medical Accessories,FOS_124,930419283,Mod Active
+728859826,Dealer_125,Branch_71,411323,Pune,Maharashtra,Others,FOS_125,911996164,Inactive
+777333621,Dealer_126,Branch_93,411902,Pune,Maharashtra,Power Tools,FOS_126,967599494,Mod Active
+649963011,Dealer_127,Branch_51,411514,Pune,Maharashtra,Furnishing,FOS_127,935224823,Active
+573366614,Dealer_128,Branch_43,411313,Pune,Maharashtra,Others,FOS_128,964887822,Active
+658218657,Dealer_129,Branch_74,411130,Pune,Maharashtra,E-Bike,FOS_129,911368204,Mod Active
+805237855,Dealer_130,Branch_85,411177,Pune,Maharashtra,Diagnostics,FOS_130,923791744,Mod Active
+952331369,Dealer_131,Branch_69,411265,Pune,Maharashtra,Travel Agencies,FOS_131,900433007,Mod Active
+511572043,Dealer_132,Branch_73,411806,Pune,Maharashtra,High End Stationery,FOS_132,994337715,Inactive
+911631228,Dealer_133,Branch_11,411935,Pune,Maharashtra,Water Purifier,FOS_133,951210004,Inactive
+187450912,Dealer_134,Branch_48,411410,Pune,Maharashtra,Remi Gas Kit,FOS_134,914888624,Inactive
+159267605,Dealer_135,Branch_76,411762,Pune,Maharashtra,Power Tools,FOS_135,978353249,Inactive
+654902100,Dealer_136,Branch_44,411219,Pune,Maharashtra,Diagnostics,FOS_136,956143854,Inactive
+500161385,Dealer_137,Branch_54,411607,Pune,Maharashtra,Pharmacy,FOS_137,921972510,Active
+751594235,Dealer_138,Branch_84,411159,Pune,Maharashtra,Others,FOS_138,978188651,Active
+682483715,Dealer_139,Branch_97,411555,Pune,Maharashtra,Spa And Salon,FOS_139,941218397,Mod Active
+889550678,Dealer_140,Branch_24,411672,Pune,Maharashtra,Bike Accessories,FOS_140,947235646,Active
+376517818,Dealer_141,Branch_73,411313,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_141,922119275,Inactive
+525698220,Dealer_142,Branch_90,411156,Pune,Maharashtra,Home Security Systems,FOS_142,916789406,Mod Active
+463829515,Dealer_143,Branch_34,411539,Pune,Maharashtra,Furnishing,FOS_143,934998110,Inactive
+414401233,Dealer_144,Branch_74,411130,Pune,Maharashtra,Small Appliances,FOS_144,999108225,Active
+328259923,Dealer_145,Branch_53,411453,Pune,Maharashtra,Eyewear,FOS_145,906930331,Active
+311705708,Dealer_146,Branch_51,411975,Pune,Maharashtra,Diagnostics,FOS_146,980037336,Inactive
+630499775,Dealer_147,Branch_4,411011,Pune,Maharashtra,Musical Instruments,FOS_147,950705119,Inactive
+827766319,Dealer_148,Branch_34,411603,Pune,Maharashtra,Toys,FOS_148,924375377,Active
+558453087,Dealer_149,Branch_5,411032,Pune,Maharashtra,Crockery And House Hold Items,FOS_149,965178283,Mod Active
+690440523,Dealer_150,Branch_32,411540,Pune,Maharashtra,LFR,FOS_150,935394280,Mod Active
+121027401,Dealer_151,Branch_56,411873,Pune,Maharashtra,Cycles,FOS_151,959584618,Mod Active
+904020977,Dealer_152,Branch_81,411798,Pune,Maharashtra,Hotels,FOS_152,917874026,Mod Active
+739568888,Dealer_153,Branch_77,411306,Pune,Maharashtra,Power Tools,FOS_153,937112574,Inactive
+802941651,Dealer_154,Branch_48,411497,Pune,Maharashtra,Computer Accessories,FOS_154,949155623,Active
+687904037,Dealer_155,Branch_54,411569,Pune,Maharashtra,Cycles,FOS_155,968186278,Mod Active
+899528901,Dealer_156,Branch_50,411245,Pune,Maharashtra,Vehicle Care / Servicing,FOS_156,900225251,Inactive
+423297323,Dealer_157,Branch_38,411117,Pune,Maharashtra,Lighting,FOS_157,964121692,Mod Active
+151762191,Dealer_158,Branch_69,411937,Pune,Maharashtra,Paints And Hardware,FOS_158,900189323,Active
+485966223,Dealer_159,Branch_58,411318,Pune,Maharashtra,Power Backup,FOS_159,933938150,Mod Active
+571833668,Dealer_160,Branch_29,411671,Pune,Maharashtra,Cycles,FOS_160,934559846,Inactive
+324555975,Dealer_161,Branch_17,411513,Pune,Maharashtra,Luggage,FOS_161,916864584,Active
+152641040,Dealer_162,Branch_90,411644,Pune,Maharashtra,Small Appliances,FOS_162,953417038,Inactive
+878083807,Dealer_163,Branch_41,411690,Pune,Maharashtra,Diagnostics,FOS_163,990526848,Active
+829235679,Dealer_164,Branch_19,411024,Pune,Maharashtra,Sewing Machines.,FOS_164,939578004,Active
+531952948,Dealer_165,Branch_54,411838,Pune,Maharashtra,Sports Equipment,FOS_165,917514027,Active
+233640370,Dealer_166,Branch_1,411216,Pune,Maharashtra,Travel Agencies,FOS_166,903922001,Active
+616806459,Dealer_167,Branch_45,411860,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_167,965525952,Active
+666026117,Dealer_168,Branch_31,411719,Pune,Maharashtra,Eyewear,FOS_168,991526131,Mod Active
+459929962,Dealer_169,Branch_82,411751,Pune,Maharashtra,Bike Accessories,FOS_169,994796383,Inactive
+559236414,Dealer_170,Branch_91,411776,Pune,Maharashtra,Handicrafts,FOS_170,988776904,Active
+217589746,Dealer_171,Branch_29,411559,Pune,Maharashtra,Cycles,FOS_171,955650147,Active
+198796669,Dealer_172,Branch_52,411668,Pune,Maharashtra,E-Bike,FOS_172,909546242,Mod Active
+714321673,Dealer_173,Branch_11,411084,Pune,Maharashtra,Eyewear,FOS_173,995152005,Active
+743088355,Dealer_174,Branch_51,411001,Pune,Maharashtra,Spa And Salon,FOS_174,956241541,Mod Active
+767830017,Dealer_175,Branch_58,411760,Pune,Maharashtra,Home Security Systems,FOS_175,983711220,Mod Active
+286606073,Dealer_176,Branch_49,411370,Pune,Maharashtra,Insurance,FOS_176,921868788,Mod Active
+177202476,Dealer_177,Branch_87,411119,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_177,919865995,Mod Active
+609334927,Dealer_178,Branch_72,411643,Pune,Maharashtra,Apparels,FOS_178,958068729,Inactive
+418210385,Dealer_179,Branch_9,411145,Pune,Maharashtra,Handicrafts,FOS_179,933430158,Mod Active
+951871791,Dealer_180,Branch_89,411410,Pune,Maharashtra,Vehicle Care / Servicing,FOS_180,940901273,Inactive
+397720862,Dealer_181,Branch_35,411554,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_181,933197880,Mod Active
+869298708,Dealer_182,Branch_15,411889,Pune,Maharashtra,Bike Accessories,FOS_182,997048726,Active
+328932981,Dealer_183,Branch_15,411757,Pune,Maharashtra,Home Security Systems,FOS_183,938178273,Active
+946687520,Dealer_184,Branch_68,411766,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_184,996417058,Mod Active
+853277862,Dealer_185,Branch_91,411566,Pune,Maharashtra,Furnishing,FOS_185,955028179,Mod Active
+698242865,Dealer_186,Branch_98,411699,Pune,Maharashtra,Gyms And Spas,FOS_186,918558467,Mod Active
+104817401,Dealer_187,Branch_96,411250,Pune,Maharashtra,Sewing Machines.,FOS_187,945415949,Mod Active
+238127748,Dealer_188,Branch_41,411608,Pune,Maharashtra,Lighting,FOS_188,935672453,Active
+146768468,Dealer_189,Branch_72,411866,Pune,Maharashtra,Paints And Hardware,FOS_189,995088290,Active
+460457785,Dealer_190,Branch_68,411165,Pune,Maharashtra,Power Backup,FOS_190,992857141,Active
+600148102,Dealer_191,Branch_36,411485,Pune,Maharashtra,Spa And Salon,FOS_191,979465369,Inactive
+740568103,Dealer_192,Branch_33,411761,Pune,Maharashtra,Others,FOS_192,972321896,Inactive
+366764448,Dealer_193,Branch_51,411120,Pune,Maharashtra,Vehicle Care / Servicing,FOS_193,938436512,Mod Active
+773120452,Dealer_194,Branch_6,411987,Pune,Maharashtra,Remi Gas Kit,FOS_194,943032141,Active
+796679997,Dealer_195,Branch_80,411750,Pune,Maharashtra,Home Security Systems,FOS_195,991429567,Active
+517490043,Dealer_196,Branch_36,411103,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_196,943025213,Inactive
+278094372,Dealer_197,Branch_10,411729,Pune,Maharashtra,Handicrafts,FOS_197,946264867,Mod Active
+675397403,Dealer_198,Branch_92,411379,Pune,Maharashtra,Eyewear,FOS_198,924105954,Active
+319670562,Dealer_199,Branch_40,411286,Pune,Maharashtra,Handicrafts,FOS_199,934588322,Inactive
+514964894,Dealer_200,Branch_72,411306,Pune,Maharashtra,Others,FOS_200,987608975,Mod Active
+292237610,Dealer_201,Branch_96,411488,Pune,Maharashtra,Water Purifier,FOS_201,965244892,Inactive
+146513144,Dealer_202,Branch_46,411461,Pune,Maharashtra,Hotels,FOS_202,940072339,Active
+907012330,Dealer_203,Branch_33,411678,Pune,Maharashtra,Small Appliances,FOS_203,967420403,Inactive
+411920192,Dealer_204,Branch_58,411792,Pune,Maharashtra,Handicrafts,FOS_204,980201198,Inactive
+708005588,Dealer_205,Branch_84,411540,Pune,Maharashtra,Handicrafts,FOS_205,967821877,Active
+945432368,Dealer_206,Branch_34,411322,Pune,Maharashtra,Gyms And Spas,FOS_206,974752173,Inactive
+398899169,Dealer_207,Branch_94,411009,Pune,Maharashtra,Departmental Stores,FOS_207,951272993,Mod Active
+164008128,Dealer_208,Branch_95,411817,Pune,Maharashtra,E-Bike,FOS_208,901072254,Inactive
+516272252,Dealer_209,Branch_67,411805,Pune,Maharashtra,Water Purifier,FOS_209,938987029,Mod Active
+564831322,Dealer_210,Branch_1,411029,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_210,903159347,Active
+961660643,Dealer_211,Branch_82,411201,Pune,Maharashtra,Cycles,FOS_211,950922517,Inactive
+838404921,Dealer_212,Branch_1,411470,Pune,Maharashtra,Apparels,FOS_212,951711432,Active
+884404205,Dealer_213,Branch_8,411674,Pune,Maharashtra,Power Backup,FOS_213,950567132,Inactive
+994215990,Dealer_214,Branch_69,411148,Pune,Maharashtra,Diagnostics,FOS_214,990954843,Active
+530343234,Dealer_215,Branch_38,411561,Pune,Maharashtra,E-Bike,FOS_215,995562888,Mod Active
+486220546,Dealer_216,Branch_13,411546,Pune,Maharashtra,Departmental Stores,FOS_216,914962830,Inactive
+685092907,Dealer_217,Branch_55,411412,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_217,999537712,Inactive
+792439788,Dealer_218,Branch_93,411051,Pune,Maharashtra,Eyewear,FOS_218,936405972,Active
+409264485,Dealer_219,Branch_31,411348,Pune,Maharashtra,Furnishing,FOS_219,910253888,Mod Active
+785145087,Dealer_220,Branch_21,411343,Pune,Maharashtra,Gyms And Spas,FOS_220,904498574,Inactive
+828829304,Dealer_221,Branch_56,411779,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_221,922521828,Active
+445332169,Dealer_222,Branch_62,411134,Pune,Maharashtra,Handicrafts,FOS_222,900639650,Inactive
+378944178,Dealer_223,Branch_4,411135,Pune,Maharashtra,Footwear,FOS_223,920129077,Active
+188323844,Dealer_224,Branch_6,411154,Pune,Maharashtra,Watches,FOS_224,997101852,Inactive
+550249658,Dealer_225,Branch_45,411321,Pune,Maharashtra,Eyewear,FOS_225,920470301,Mod Active
+882073703,Dealer_226,Branch_84,411797,Pune,Maharashtra,Eyewear,FOS_226,994159101,Active
+409126342,Dealer_227,Branch_6,411036,Pune,Maharashtra,High End Stationery,FOS_227,957865979,Inactive
+578715572,Dealer_228,Branch_48,411968,Pune,Maharashtra,Handicrafts,FOS_228,947604525,Active
+472889547,Dealer_229,Branch_47,411941,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_229,932472361,Inactive
+193545829,Dealer_230,Branch_7,411583,Pune,Maharashtra,Power Backup,FOS_230,991540396,Mod Active
+688489138,Dealer_231,Branch_65,411949,Pune,Maharashtra,Sewing Machines.,FOS_231,922696032,Active
+333437650,Dealer_232,Branch_31,411674,Pune,Maharashtra,Power Tools,FOS_232,921368277,Mod Active
+883169358,Dealer_233,Branch_30,411163,Pune,Maharashtra,Sewing Machines.,FOS_233,998372325,Mod Active
+781858999,Dealer_234,Branch_79,411365,Pune,Maharashtra,Tyres,FOS_234,974513936,Inactive
+936288562,Dealer_235,Branch_80,411563,Pune,Maharashtra,Medical Accessories,FOS_235,990166885,Inactive
+806050489,Dealer_236,Branch_16,411840,Pune,Maharashtra,Diagnostics,FOS_236,976424502,Active
+481388520,Dealer_237,Branch_64,411036,Pune,Maharashtra,High End Stationery,FOS_237,933433894,Inactive
+569823948,Dealer_238,Branch_23,411656,Pune,Maharashtra,Power Tools,FOS_238,916626048,Active
+538835703,Dealer_239,Branch_69,411769,Pune,Maharashtra,Power Backup,FOS_239,925171564,Inactive
+653293168,Dealer_240,Branch_15,411841,Pune,Maharashtra,Pets Accessories,FOS_240,930448615,Mod Active
+341425678,Dealer_241,Branch_22,411773,Pune,Maharashtra,High End Stationery,FOS_241,916409512,Mod Active
+398677712,Dealer_242,Branch_60,411588,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_242,944567782,Inactive
+625180082,Dealer_243,Branch_24,411839,Pune,Maharashtra,Pharmacy,FOS_243,921166578,Mod Active
+264039122,Dealer_244,Branch_10,411634,Pune,Maharashtra,Others,FOS_244,963274365,Active
+841941858,Dealer_245,Branch_43,411406,Pune,Maharashtra,Computer Accessories,FOS_245,980126717,Active
+393677563,Dealer_246,Branch_75,411018,Pune,Maharashtra,Furnishing,FOS_246,936399660,Inactive
+732176425,Dealer_247,Branch_95,411995,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_247,926679910,Mod Active
+512287364,Dealer_248,Branch_61,411021,Pune,Maharashtra,Water Purifier,FOS_248,971466511,Active
+873650970,Dealer_249,Branch_18,411729,Pune,Maharashtra,Vehicle Care / Servicing,FOS_249,913719519,Active
+446041092,Dealer_250,Branch_72,411406,Pune,Maharashtra,Pets Accessories,FOS_250,986985556,Active
+681613230,Dealer_251,Branch_16,411253,Pune,Maharashtra,Pets Accessories,FOS_251,968997803,Mod Active
+198314776,Dealer_252,Branch_18,411783,Pune,Maharashtra,Lighting,FOS_252,903762634,Active
+978504523,Dealer_253,Branch_90,411379,Pune,Maharashtra,Hotels,FOS_253,989272162,Active
+650004064,Dealer_254,Branch_89,411939,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_254,907907893,Inactive
+340376222,Dealer_255,Branch_98,411212,Pune,Maharashtra,Spa And Salon,FOS_255,954362035,Inactive
+205245665,Dealer_256,Branch_16,411122,Pune,Maharashtra,Small Appliances,FOS_256,928004203,Active
+900343501,Dealer_257,Branch_57,411025,Pune,Maharashtra,Gyms And Spas,FOS_257,936413284,Mod Active
+336259899,Dealer_258,Branch_52,411007,Pune,Maharashtra,Spa And Salon,FOS_258,978774567,Mod Active
+780813361,Dealer_259,Branch_53,411414,Pune,Maharashtra,Sports Equipment,FOS_259,963325943,Inactive
+568981188,Dealer_260,Branch_24,411651,Pune,Maharashtra,E-Bike,FOS_260,994534574,Inactive
+665176670,Dealer_261,Branch_43,411877,Pune,Maharashtra,Sewing Machines.,FOS_261,948853888,Mod Active
+334603587,Dealer_262,Branch_54,411682,Pune,Maharashtra,Handicrafts,FOS_262,904817289,Inactive
+861282403,Dealer_263,Branch_89,411484,Pune,Maharashtra,LFR,FOS_263,949916580,Inactive
+430223343,Dealer_264,Branch_86,411087,Pune,Maharashtra,Crockery And House Hold Items,FOS_264,936812716,Active
+115420942,Dealer_265,Branch_99,411613,Pune,Maharashtra,Luggage,FOS_265,901246516,Mod Active
+209908834,Dealer_266,Branch_6,411994,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_266,998511822,Mod Active
+597865221,Dealer_267,Branch_38,411604,Pune,Maharashtra,Others,FOS_267,936542320,Mod Active
+633723120,Dealer_268,Branch_55,411400,Pune,Maharashtra,High End Stationery,FOS_268,981903594,Active
+638872092,Dealer_269,Branch_4,411056,Pune,Maharashtra,Large Applainces,FOS_269,968894753,Mod Active
+161275114,Dealer_270,Branch_83,411063,Pune,Maharashtra,Lighting,FOS_270,907265560,Inactive
+143701467,Dealer_271,Branch_27,411204,Pune,Maharashtra,E-Bike,FOS_271,916640621,Inactive
+839437513,Dealer_272,Branch_18,411743,Pune,Maharashtra,Pets Accessories,FOS_272,915235096,Inactive
+806858993,Dealer_273,Branch_7,411866,Pune,Maharashtra,Footwear,FOS_273,902337932,Mod Active
+417626962,Dealer_274,Branch_46,411560,Pune,Maharashtra,LFR,FOS_274,921376449,Active
+151697411,Dealer_275,Branch_57,411344,Pune,Maharashtra,Crockery And House Hold Items,FOS_275,940827389,Inactive
+786541039,Dealer_276,Branch_33,411406,Pune,Maharashtra,Sports Equipment,FOS_276,954264681,Mod Active
+704101842,Dealer_277,Branch_98,411816,Pune,Maharashtra,Toys,FOS_277,995996517,Inactive
+710527649,Dealer_278,Branch_36,411360,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_278,902554174,Active
+107228796,Dealer_279,Branch_84,411878,Pune,Maharashtra,Computer Accessories,FOS_279,970183941,Active
+733004071,Dealer_280,Branch_53,411067,Pune,Maharashtra,Tyres,FOS_280,979487788,Active
+238761504,Dealer_281,Branch_42,411309,Pune,Maharashtra,High End Stationery,FOS_281,917036100,Mod Active
+383180920,Dealer_282,Branch_60,411758,Pune,Maharashtra,Furnishing,FOS_282,910655143,Mod Active
+741506028,Dealer_283,Branch_4,411340,Pune,Maharashtra,Pharmacy,FOS_283,951216464,Active
+153039061,Dealer_284,Branch_78,411345,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_284,935094033,Inactive
+485287782,Dealer_285,Branch_5,411500,Pune,Maharashtra,Insurance,FOS_285,955836303,Active
+916677370,Dealer_286,Branch_25,411645,Pune,Maharashtra,Travel Agencies,FOS_286,972538840,Inactive
+912448503,Dealer_287,Branch_69,411659,Pune,Maharashtra,Small Appliances,FOS_287,917833118,Mod Active
+246285406,Dealer_288,Branch_31,411413,Pune,Maharashtra,Medical Accessories,FOS_288,940186857,Mod Active
+771315875,Dealer_289,Branch_19,411640,Pune,Maharashtra,Luggage,FOS_289,960169333,Inactive
+700256363,Dealer_290,Branch_5,411418,Pune,Maharashtra,Diagnostics,FOS_290,982628858,Active
+654025730,Dealer_291,Branch_90,411889,Pune,Maharashtra,Toys,FOS_291,996170690,Mod Active
+485278188,Dealer_292,Branch_20,411144,Pune,Maharashtra,Lighting,FOS_292,997607511,Active
+974667030,Dealer_293,Branch_21,411424,Pune,Maharashtra,Apparels,FOS_293,938051303,Inactive
+908951236,Dealer_294,Branch_44,411722,Pune,Maharashtra,Crockery And House Hold Items,FOS_294,992179349,Mod Active
+136859040,Dealer_295,Branch_21,411253,Pune,Maharashtra,Small Appliances,FOS_295,976974693,Mod Active
+210682179,Dealer_296,Branch_83,411813,Pune,Maharashtra,Power Tools,FOS_296,905662329,Mod Active
+552526789,Dealer_297,Branch_50,411503,Pune,Maharashtra,Musical Instruments,FOS_297,916583692,Active
+131097015,Dealer_298,Branch_2,411387,Pune,Maharashtra,Power Backup,FOS_298,949270629,Mod Active
+132615395,Dealer_299,Branch_69,411205,Pune,Maharashtra,Sports Equipment,FOS_299,927494769,Mod Active
+293770933,Dealer_300,Branch_3,411024,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_300,975825916,Mod Active
+515692032,Dealer_301,Branch_23,411203,Pune,Maharashtra,Others,FOS_301,997535522,Mod Active
+638940072,Dealer_302,Branch_35,411283,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_302,967201601,Active
+384829524,Dealer_303,Branch_38,411843,Pune,Maharashtra,Hotels,FOS_303,987566944,Active
+450633948,Dealer_304,Branch_44,411045,Pune,Maharashtra,Handicrafts,FOS_304,947576921,Mod Active
+836033766,Dealer_305,Branch_10,411737,Pune,Maharashtra,Travel Agencies,FOS_305,942301144,Inactive
+726956726,Dealer_306,Branch_55,411109,Pune,Maharashtra,Cycles,FOS_306,910956837,Active
+361237364,Dealer_307,Branch_70,411271,Pune,Maharashtra,Diagnostics,FOS_307,931314788,Inactive
+420692998,Dealer_308,Branch_26,411448,Pune,Maharashtra,Power Backup,FOS_308,935323073,Inactive
+553958881,Dealer_309,Branch_82,411013,Pune,Maharashtra,Gyms And Spas,FOS_309,914309769,Mod Active
+898175037,Dealer_310,Branch_12,411646,Pune,Maharashtra,Furnishing,FOS_310,988432670,Active
+751523546,Dealer_311,Branch_12,411349,Pune,Maharashtra,Power Tools,FOS_311,908981941,Mod Active
+379916847,Dealer_312,Branch_43,411421,Pune,Maharashtra,Tyres,FOS_312,986297560,Mod Active
+974931855,Dealer_313,Branch_47,411972,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_313,989876686,Active
+910236462,Dealer_314,Branch_45,411863,Pune,Maharashtra,Power Tools,FOS_314,904017726,Inactive
+495456568,Dealer_315,Branch_47,411519,Pune,Maharashtra,Footwear,FOS_315,954939047,Inactive
+475595414,Dealer_316,Branch_36,411121,Pune,Maharashtra,High End Stationery,FOS_316,988831226,Mod Active
+275133063,Dealer_317,Branch_35,411438,Pune,Maharashtra,Gyms And Spas,FOS_317,941062354,Inactive
+848327174,Dealer_318,Branch_20,411332,Pune,Maharashtra,Apparels,FOS_318,926803041,Mod Active
+159860348,Dealer_319,Branch_46,411103,Pune,Maharashtra,Crockery And House Hold Items,FOS_319,971017946,Mod Active
+855008768,Dealer_320,Branch_89,411324,Pune,Maharashtra,Gyms And Spas,FOS_320,971414393,Inactive
+954091461,Dealer_321,Branch_42,411830,Pune,Maharashtra,Handicrafts,FOS_321,911640880,Mod Active
+134955614,Dealer_322,Branch_80,411769,Pune,Maharashtra,Eyewear,FOS_322,959354222,Mod Active
+271621025,Dealer_323,Branch_63,411158,Pune,Maharashtra,Watches,FOS_323,922962205,Inactive
+709280913,Dealer_324,Branch_65,411388,Pune,Maharashtra,Remi Gas Kit,FOS_324,962222830,Inactive
+100036522,Dealer_325,Branch_70,411822,Pune,Maharashtra,Sports Equipment,FOS_325,966093219,Inactive
+273354336,Dealer_326,Branch_82,411688,Pune,Maharashtra,Toys,FOS_326,992683015,Inactive
+896007423,Dealer_327,Branch_11,411393,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_327,911632552,Mod Active
+397208205,Dealer_328,Branch_96,411613,Pune,Maharashtra,E-Bike,FOS_328,921781544,Active
+509146425,Dealer_329,Branch_11,411174,Pune,Maharashtra,Travel Agencies,FOS_329,945653356,Mod Active
+107886185,Dealer_330,Branch_56,411916,Pune,Maharashtra,High End Stationery,FOS_330,939711012,Active
+238056771,Dealer_331,Branch_48,411062,Pune,Maharashtra,Hotels,FOS_331,976681595,Mod Active
+173369648,Dealer_332,Branch_62,411249,Pune,Maharashtra,Water Purifier,FOS_332,921220207,Active
+274480063,Dealer_333,Branch_45,411601,Pune,Maharashtra,Bike Accessories,FOS_333,956777574,Active
+665377858,Dealer_334,Branch_95,411958,Pune,Maharashtra,Luggage,FOS_334,937094512,Inactive
+460259432,Dealer_335,Branch_62,411472,Pune,Maharashtra,Footwear,FOS_335,929866448,Mod Active
+185063834,Dealer_336,Branch_43,411677,Pune,Maharashtra,Gyms And Spas,FOS_336,918975250,Inactive
+350846899,Dealer_337,Branch_2,411798,Pune,Maharashtra,Lighting,FOS_337,971550810,Mod Active
+504945318,Dealer_338,Branch_1,411771,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_338,920280035,Mod Active
+225292831,Dealer_339,Branch_40,411657,Pune,Maharashtra,Sewing Machines.,FOS_339,988310141,Mod Active
+988359320,Dealer_340,Branch_46,411281,Pune,Maharashtra,Vehicle Care / Servicing,FOS_340,957877956,Inactive
+429532412,Dealer_341,Branch_37,411469,Pune,Maharashtra,Cycles,FOS_341,928121264,Active
+723456874,Dealer_342,Branch_21,411782,Pune,Maharashtra,Toys,FOS_342,928747637,Inactive
+717544559,Dealer_343,Branch_58,411990,Pune,Maharashtra,Water Purifier,FOS_343,988820497,Mod Active
+209389414,Dealer_344,Branch_77,411398,Pune,Maharashtra,Sewing Machines.,FOS_344,931538263,Mod Active
+756642005,Dealer_345,Branch_4,411833,Pune,Maharashtra,Remi Gas Kit,FOS_345,922035522,Active
+290914434,Dealer_346,Branch_45,411687,Pune,Maharashtra,Others,FOS_346,905825571,Active
+809670847,Dealer_347,Branch_30,411738,Pune,Maharashtra,High End Stationery,FOS_347,910612731,Active
+241113227,Dealer_348,Branch_15,411304,Pune,Maharashtra,LFR,FOS_348,911086634,Inactive
+669384422,Dealer_349,Branch_84,411799,Pune,Maharashtra,Water Purifier,FOS_349,933056398,Mod Active
+646421048,Dealer_350,Branch_45,411993,Pune,Maharashtra,Apparels,FOS_350,975320321,Mod Active
+327319815,Dealer_351,Branch_17,411706,Pune,Maharashtra,Pets Accessories,FOS_351,913642661,Inactive
+868406503,Dealer_352,Branch_12,411376,Pune,Maharashtra,Others,FOS_352,953624617,Inactive
+460895890,Dealer_353,Branch_45,411839,Pune,Maharashtra,Hotels,FOS_353,987360591,Inactive
+731492049,Dealer_354,Branch_69,411683,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_354,963283622,Inactive
+968406930,Dealer_355,Branch_78,411503,Pune,Maharashtra,Cycles,FOS_355,961997210,Active
+479497281,Dealer_356,Branch_20,411474,Pune,Maharashtra,Departmental Stores,FOS_356,918816343,Active
+877601135,Dealer_357,Branch_72,411929,Pune,Maharashtra,Pharmacy,FOS_357,929496343,Active
+159040324,Dealer_358,Branch_45,411497,Pune,Maharashtra,Gyms And Spas,FOS_358,955958282,Inactive
+219998251,Dealer_359,Branch_84,411246,Pune,Maharashtra,Tyres,FOS_359,947386665,Active
+992479052,Dealer_360,Branch_35,411555,Pune,Maharashtra,Insurance,FOS_360,915371796,Inactive
+950529709,Dealer_361,Branch_63,411151,Pune,Maharashtra,Water Purifier,FOS_361,945945888,Inactive
+822057361,Dealer_362,Branch_26,411594,Pune,Maharashtra,Hotels,FOS_362,986588618,Mod Active
+558436878,Dealer_363,Branch_29,411095,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_363,919419461,Mod Active
+531244197,Dealer_364,Branch_40,411060,Pune,Maharashtra,Watches,FOS_364,965989502,Active
+152891636,Dealer_365,Branch_14,411160,Pune,Maharashtra,Eyewear,FOS_365,923655299,Inactive
+181619787,Dealer_366,Branch_84,411323,Pune,Maharashtra,Home Security Systems,FOS_366,998566258,Active
+943506557,Dealer_367,Branch_58,411718,Pune,Maharashtra,LFR,FOS_367,903412538,Active
+945979896,Dealer_368,Branch_79,411418,Pune,Maharashtra,Furnishing,FOS_368,968149377,Mod Active
+283148480,Dealer_369,Branch_46,411584,Pune,Maharashtra,Musical Instruments,FOS_369,998072427,Mod Active
+665464055,Dealer_370,Branch_86,411674,Pune,Maharashtra,Sports Equipment,FOS_370,913227961,Active
+628271103,Dealer_371,Branch_60,411903,Pune,Maharashtra,Diagnostics,FOS_371,923956678,Mod Active
+192075244,Dealer_372,Branch_24,411691,Pune,Maharashtra,Gyms And Spas,FOS_372,931161290,Inactive
+472055888,Dealer_373,Branch_70,411493,Pune,Maharashtra,Footwear,FOS_373,915132667,Active
+878326316,Dealer_374,Branch_2,411193,Pune,Maharashtra,Home Security Systems,FOS_374,973965350,Active
+561455313,Dealer_375,Branch_32,411506,Pune,Maharashtra,Paints And Hardware,FOS_375,983962102,Mod Active
+145350656,Dealer_376,Branch_1,411056,Pune,Maharashtra,Travel Agencies,FOS_376,988115575,Mod Active
+989940676,Dealer_377,Branch_26,411288,Pune,Maharashtra,Sewing Machines.,FOS_377,982008463,Active
+405378173,Dealer_378,Branch_74,411400,Pune,Maharashtra,Cycles,FOS_378,983445401,Mod Active
+692151388,Dealer_379,Branch_47,411343,Pune,Maharashtra,Vehicle Care / Servicing,FOS_379,972554129,Inactive
+239115756,Dealer_380,Branch_79,411912,Pune,Maharashtra,Computer Accessories,FOS_380,952220699,Mod Active
+770461228,Dealer_381,Branch_85,411782,Pune,Maharashtra,Large Applainces,FOS_381,936585736,Inactive
+781399792,Dealer_382,Branch_42,411397,Pune,Maharashtra,Spa And Salon,FOS_382,919123200,Mod Active
+129196967,Dealer_383,Branch_69,411464,Pune,Maharashtra,Footwear,FOS_383,948614438,Mod Active
+115973347,Dealer_384,Branch_10,411020,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_384,921861282,Active
+375957474,Dealer_385,Branch_21,411116,Pune,Maharashtra,Pets Accessories,FOS_385,911819924,Active
+695759334,Dealer_386,Branch_40,411127,Pune,Maharashtra,Apparels,FOS_386,910905314,Inactive
+349474752,Dealer_387,Branch_60,411643,Pune,Maharashtra,Lighting,FOS_387,985280609,Active
+842156726,Dealer_388,Branch_7,411948,Pune,Maharashtra,Cycles,FOS_388,911355574,Inactive
+801456057,Dealer_389,Branch_25,411414,Pune,Maharashtra,Furnishing,FOS_389,963669960,Mod Active
+142232928,Dealer_390,Branch_88,411880,Pune,Maharashtra,Paints And Hardware,FOS_390,942749171,Mod Active
+672531289,Dealer_391,Branch_49,411550,Pune,Maharashtra,High End Stationery,FOS_391,903573498,Active
+156664014,Dealer_392,Branch_84,411664,Pune,Maharashtra,Remi Gas Kit,FOS_392,972169477,Mod Active
+713286845,Dealer_393,Branch_64,411599,Pune,Maharashtra,Lighting,FOS_393,921077616,Mod Active
+833471707,Dealer_394,Branch_76,411284,Pune,Maharashtra,Home Security Systems,FOS_394,946601070,Mod Active
+524602669,Dealer_395,Branch_78,411056,Pune,Maharashtra,Handicrafts,FOS_395,947320171,Active
+751832154,Dealer_396,Branch_95,411178,Pune,Maharashtra,Power Backup,FOS_396,981621752,Mod Active
+521294625,Dealer_397,Branch_28,411286,Pune,Maharashtra,Cycles,FOS_397,921718030,Active
+922932686,Dealer_398,Branch_91,411603,Pune,Maharashtra,Eyewear,FOS_398,929599749,Inactive
+288760349,Dealer_399,Branch_67,411427,Pune,Maharashtra,High End Stationery,FOS_399,937323474,Inactive
+152923951,Dealer_400,Branch_72,411976,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_400,923055961,Active
+492666899,Dealer_401,Branch_96,411683,Pune,Maharashtra,Medical Accessories,FOS_401,962977538,Inactive
+598474933,Dealer_402,Branch_86,411088,Pune,Maharashtra,Toys,FOS_402,975834663,Mod Active
+649904437,Dealer_403,Branch_88,411622,Pune,Maharashtra,Lighting,FOS_403,950799930,Mod Active
+624742555,Dealer_404,Branch_57,411012,Pune,Maharashtra,LFR,FOS_404,986856155,Active
+263522664,Dealer_405,Branch_86,411484,Pune,Maharashtra,Travel Agencies,FOS_405,949020461,Inactive
+648457201,Dealer_406,Branch_68,411494,Pune,Maharashtra,Hotels,FOS_406,940361172,Active
+187838920,Dealer_407,Branch_40,411241,Pune,Maharashtra,Spa And Salon,FOS_407,983305732,Active
+285040722,Dealer_408,Branch_22,411552,Pune,Maharashtra,Small Appliances,FOS_408,926384641,Active
+157663991,Dealer_409,Branch_65,411884,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_409,952031925,Inactive
+151191643,Dealer_410,Branch_14,411116,Pune,Maharashtra,Pets Accessories,FOS_410,985748991,Inactive
+269708912,Dealer_411,Branch_60,411896,Pune,Maharashtra,Bike Accessories,FOS_411,960809297,Mod Active
+130138879,Dealer_412,Branch_70,411609,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_412,969362804,Mod Active
+801990969,Dealer_413,Branch_94,411336,Pune,Maharashtra,Spa And Salon,FOS_413,919840488,Active
+288539027,Dealer_414,Branch_22,411109,Pune,Maharashtra,Toys,FOS_414,963744311,Inactive
+908546693,Dealer_415,Branch_34,411305,Pune,Maharashtra,Tyres,FOS_415,940267664,Active
+813374127,Dealer_416,Branch_86,411705,Pune,Maharashtra,Toys,FOS_416,925299427,Inactive
+803912309,Dealer_417,Branch_32,411743,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_417,915117829,Inactive
+371711745,Dealer_418,Branch_69,411545,Pune,Maharashtra,Toys,FOS_418,928219488,Inactive
+768209161,Dealer_419,Branch_74,411717,Pune,Maharashtra,Vehicle Care / Servicing,FOS_419,930707798,Inactive
+949949758,Dealer_420,Branch_81,411016,Pune,Maharashtra,Pharmacy,FOS_420,912390394,Mod Active
+147685487,Dealer_421,Branch_86,411297,Pune,Maharashtra,Cycles,FOS_421,931017027,Mod Active
+286432176,Dealer_422,Branch_79,411860,Pune,Maharashtra,High End Stationery,FOS_422,908485935,Mod Active
+884605161,Dealer_423,Branch_64,411450,Pune,Maharashtra,Power Backup,FOS_423,982010597,Active
+699046946,Dealer_424,Branch_2,411645,Pune,Maharashtra,Sewing Machines.,FOS_424,920232891,Active
+426279120,Dealer_425,Branch_46,411448,Pune,Maharashtra,Crockery And House Hold Items,FOS_425,903765208,Mod Active
+482837272,Dealer_426,Branch_4,411110,Pune,Maharashtra,Sports Equipment,FOS_426,900016123,Mod Active
+168381256,Dealer_427,Branch_53,411868,Pune,Maharashtra,Handicrafts,FOS_427,984760125,Inactive
+908129473,Dealer_428,Branch_25,411928,Pune,Maharashtra,Crockery And House Hold Items,FOS_428,936484921,Mod Active
+377440366,Dealer_429,Branch_98,411930,Pune,Maharashtra,Departmental Stores,FOS_429,910782259,Mod Active
+847867780,Dealer_430,Branch_75,411783,Pune,Maharashtra,E-Bike,FOS_430,923326215,Inactive
+133867744,Dealer_431,Branch_94,411986,Pune,Maharashtra,Medical Accessories,FOS_431,998421217,Inactive
+615454926,Dealer_432,Branch_28,411325,Pune,Maharashtra,High End Stationery,FOS_432,921600716,Active
+629350256,Dealer_433,Branch_47,411620,Pune,Maharashtra,Lighting,FOS_433,997232360,Mod Active
+331654681,Dealer_434,Branch_34,411682,Pune,Maharashtra,Remi Gas Kit,FOS_434,957878900,Active
+494263506,Dealer_435,Branch_55,411826,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_435,908497654,Active
+136937790,Dealer_436,Branch_91,411455,Pune,Maharashtra,Spa And Salon,FOS_436,952159065,Active
+356370078,Dealer_437,Branch_42,411875,Pune,Maharashtra,Diagnostics,FOS_437,979407758,Mod Active
+901391429,Dealer_438,Branch_14,411676,Pune,Maharashtra,Lighting,FOS_438,984679858,Active
+611824687,Dealer_439,Branch_41,411447,Pune,Maharashtra,Sewing Machines.,FOS_439,968904924,Inactive
+614635791,Dealer_440,Branch_37,411022,Pune,Maharashtra,Remi Gas Kit,FOS_440,902227869,Inactive
+497650843,Dealer_441,Branch_24,411507,Pune,Maharashtra,Musical Instruments,FOS_441,971250874,Inactive
+568135189,Dealer_442,Branch_34,411430,Pune,Maharashtra,Watches,FOS_442,943170200,Active
+419998751,Dealer_443,Branch_86,411295,Pune,Maharashtra,Sewing Machines.,FOS_443,968477182,Inactive
+875587135,Dealer_444,Branch_61,411678,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_444,946025631,Active
+645949709,Dealer_445,Branch_43,411950,Pune,Maharashtra,Sports Equipment,FOS_445,958616026,Active
+668482327,Dealer_446,Branch_67,411413,Pune,Maharashtra,Diagnostics,FOS_446,958317640,Inactive
+615148627,Dealer_447,Branch_5,411588,Pune,Maharashtra,Power Backup,FOS_447,928507410,Inactive
+110879402,Dealer_448,Branch_48,411000,Pune,Maharashtra,Computer Accessories,FOS_448,977733432,Active
+691729004,Dealer_449,Branch_27,411039,Pune,Maharashtra,E-Bike,FOS_449,932974232,Mod Active
+572347134,Dealer_450,Branch_41,411756,Pune,Maharashtra,Travel Agencies,FOS_450,903881233,Active
+362753616,Dealer_451,Branch_43,411628,Pune,Maharashtra,Apparels,FOS_451,921648247,Active
+988948979,Dealer_452,Branch_32,411424,Pune,Maharashtra,Gyms And Spas,FOS_452,924908706,Inactive
+278726971,Dealer_453,Branch_74,411178,Pune,Maharashtra,Luggage,FOS_453,901608008,Inactive
+996307022,Dealer_454,Branch_9,411084,Pune,Maharashtra,Crockery And House Hold Items,FOS_454,976943633,Active
+405815969,Dealer_455,Branch_60,411043,Pune,Maharashtra,Musical Instruments,FOS_455,966017112,Inactive
+489113562,Dealer_456,Branch_34,411961,Pune,Maharashtra,Luggage,FOS_456,975079053,Active
+445725664,Dealer_457,Branch_30,411099,Pune,Maharashtra,High End Stationery,FOS_457,929516108,Inactive
+619322139,Dealer_458,Branch_7,411142,Pune,Maharashtra,Spa And Salon,FOS_458,981705021,Inactive
+616279998,Dealer_459,Branch_33,411787,Pune,Maharashtra,Spa And Salon,FOS_459,925458125,Active
+261105798,Dealer_460,Branch_61,411232,Pune,Maharashtra,Luggage,FOS_460,990198039,Active
+426612771,Dealer_461,Branch_53,411660,Pune,Maharashtra,Computer Accessories,FOS_461,986921555,Inactive
+283074877,Dealer_462,Branch_5,411990,Pune,Maharashtra,Travel Agencies,FOS_462,971527201,Active
+436661752,Dealer_463,Branch_59,411439,Pune,Maharashtra,Musical Instruments,FOS_463,913433800,Mod Active
+391914226,Dealer_464,Branch_73,411132,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_464,957542725,Active
+207328896,Dealer_465,Branch_55,411878,Pune,Maharashtra,Sports Equipment,FOS_465,917976461,Inactive
+895178395,Dealer_466,Branch_34,411249,Pune,Maharashtra,Small Appliances,FOS_466,983084398,Inactive
+717204289,Dealer_467,Branch_7,411470,Pune,Maharashtra,Medical Accessories,FOS_467,902382501,Inactive
+375287864,Dealer_468,Branch_99,411477,Pune,Maharashtra,Luggage,FOS_468,971227313,Inactive
+673066904,Dealer_469,Branch_12,411975,Pune,Maharashtra,Paints And Hardware,FOS_469,920420594,Mod Active
+492861378,Dealer_470,Branch_18,411319,Pune,Maharashtra,Handicrafts,FOS_470,967001454,Inactive
+956812134,Dealer_471,Branch_61,411767,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_471,997329671,Mod Active
+278556092,Dealer_472,Branch_73,411329,Pune,Maharashtra,Paints And Hardware,FOS_472,946478314,Active
+174412448,Dealer_473,Branch_19,411500,Pune,Maharashtra,LFR,FOS_473,994588848,Mod Active
+181733001,Dealer_474,Branch_25,411012,Pune,Maharashtra,Lighting,FOS_474,926315922,Inactive
+841952621,Dealer_475,Branch_17,411362,Pune,Maharashtra,E-Bike,FOS_475,937407735,Mod Active
+166350323,Dealer_476,Branch_87,411501,Pune,Maharashtra,Furnishing,FOS_476,931875039,Active
+464751180,Dealer_477,Branch_39,411798,Pune,Maharashtra,Small Appliances,FOS_477,914273990,Inactive
+554751668,Dealer_478,Branch_60,411037,Pune,Maharashtra,Toys,FOS_478,984615786,Mod Active
+603394441,Dealer_479,Branch_90,411824,Pune,Maharashtra,Gyms And Spas,FOS_479,993037656,Mod Active
+754311322,Dealer_480,Branch_44,411513,Pune,Maharashtra,Sewing Machines.,FOS_480,969971567,Inactive
+391018875,Dealer_481,Branch_4,411791,Pune,Maharashtra,Travel Agencies,FOS_481,955427593,Mod Active
+113557985,Dealer_482,Branch_33,411000,Pune,Maharashtra,Diagnostics,FOS_482,976838587,Inactive
+247183310,Dealer_483,Branch_92,411960,Pune,Maharashtra,Eyewear,FOS_483,999970367,Inactive
+439460930,Dealer_484,Branch_1,411974,Pune,Maharashtra,Lighting,FOS_484,961825899,Mod Active
+468189769,Dealer_485,Branch_93,411081,Pune,Maharashtra,Travel Agencies,FOS_485,982325685,Active
+468297668,Dealer_486,Branch_94,411805,Pune,Maharashtra,Tyres,FOS_486,917230987,Inactive
+533394519,Dealer_487,Branch_11,411880,Pune,Maharashtra,Bike Accessories,FOS_487,939503805,Inactive
+871484618,Dealer_488,Branch_43,411204,Pune,Maharashtra,Computer Accessories,FOS_488,912353025,Active
+107007041,Dealer_489,Branch_77,411240,Pune,Maharashtra,Paints And Hardware,FOS_489,948035410,Active
+322507234,Dealer_490,Branch_10,411585,Pune,Maharashtra,Vehicle Care / Servicing,FOS_490,942887435,Mod Active
+422894725,Dealer_491,Branch_95,411477,Pune,Maharashtra,Cycles,FOS_491,973005017,Inactive
+782512833,Dealer_492,Branch_25,411592,Pune,Maharashtra,Luggage,FOS_492,937913107,Mod Active
+880548364,Dealer_493,Branch_6,411477,Pune,Maharashtra,Others,FOS_493,921583558,Active
+599557209,Dealer_494,Branch_38,411832,Pune,Maharashtra,Computer Accessories,FOS_494,994732584,Inactive
+865722376,Dealer_495,Branch_63,411604,Pune,Maharashtra,Bike Accessories,FOS_495,998530347,Inactive
+948788741,Dealer_496,Branch_2,411971,Pune,Maharashtra,Spa And Salon,FOS_496,928571223,Inactive
+709722028,Dealer_497,Branch_75,411908,Pune,Maharashtra,Pets Accessories,FOS_497,954516496,Mod Active
+213182354,Dealer_498,Branch_49,411853,Pune,Maharashtra,Cycles,FOS_498,915550013,Inactive
+477447707,Dealer_499,Branch_46,411800,Pune,Maharashtra,LFR,FOS_499,981952683,Mod Active
+145348350,Dealer_500,Branch_31,411945,Pune,Maharashtra,Departmental Stores,FOS_500,951688382,Inactive
+881551936,Dealer_501,Branch_47,411920,Pune,Maharashtra,E-Bike,FOS_501,998436964,Inactive
+678651547,Dealer_502,Branch_21,411514,Pune,Maharashtra,Lighting,FOS_502,997033192,Inactive
+436582641,Dealer_503,Branch_31,411342,Pune,Maharashtra,Watches,FOS_503,991936589,Active
+638653539,Dealer_504,Branch_17,411291,Pune,Maharashtra,Eyewear,FOS_504,928719942,Active
+918573667,Dealer_505,Branch_90,411969,Pune,Maharashtra,Lighting,FOS_505,982805184,Mod Active
+571885256,Dealer_506,Branch_24,411257,Pune,Maharashtra,Power Backup,FOS_506,969836608,Inactive
+291616306,Dealer_507,Branch_81,411652,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_507,937336837,Inactive
+352503697,Dealer_508,Branch_51,411831,Pune,Maharashtra,Others,FOS_508,911032845,Active
+102220541,Dealer_509,Branch_33,411243,Pune,Maharashtra,Gyms And Spas,FOS_509,937112868,Mod Active
+168138039,Dealer_510,Branch_68,411038,Pune,Maharashtra,Gyms And Spas,FOS_510,957940941,Mod Active
+896027811,Dealer_511,Branch_88,411618,Pune,Maharashtra,Tyres,FOS_511,908683876,Mod Active
+439848031,Dealer_512,Branch_49,411183,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_512,951974868,Mod Active
+243807207,Dealer_513,Branch_24,411209,Pune,Maharashtra,Watches,FOS_513,961397359,Active
+778759506,Dealer_514,Branch_54,411549,Pune,Maharashtra,E-Bike,FOS_514,917266939,Mod Active
+376359568,Dealer_515,Branch_22,411800,Pune,Maharashtra,Footwear,FOS_515,944534306,Inactive
+652749324,Dealer_516,Branch_56,411568,Pune,Maharashtra,Insurance,FOS_516,902144957,Inactive
+365428081,Dealer_517,Branch_93,411035,Pune,Maharashtra,Gyms And Spas,FOS_517,987134630,Mod Active
+917229302,Dealer_518,Branch_10,411494,Pune,Maharashtra,Tyres,FOS_518,921016676,Active
+168587017,Dealer_519,Branch_9,411670,Pune,Maharashtra,Watches,FOS_519,915672340,Active
+566613547,Dealer_520,Branch_99,411416,Pune,Maharashtra,Insurance,FOS_520,912260709,Inactive
+954589387,Dealer_521,Branch_91,411341,Pune,Maharashtra,Tyres,FOS_521,930969720,Inactive
+957023831,Dealer_522,Branch_59,411646,Pune,Maharashtra,Pharmacy,FOS_522,903851274,Mod Active
+646837556,Dealer_523,Branch_15,411785,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_523,932127728,Active
+254382002,Dealer_524,Branch_75,411409,Pune,Maharashtra,Sports Equipment,FOS_524,958307159,Active
+981473988,Dealer_525,Branch_40,411414,Pune,Maharashtra,Hotels,FOS_525,967272859,Active
+524073892,Dealer_526,Branch_64,411653,Pune,Maharashtra,Eyewear,FOS_526,932513959,Active
+365008551,Dealer_527,Branch_44,411836,Pune,Maharashtra,Hotels,FOS_527,929249162,Inactive
+570405152,Dealer_528,Branch_62,411339,Pune,Maharashtra,Sports Equipment,FOS_528,941245326,Mod Active
+333842497,Dealer_529,Branch_25,411003,Pune,Maharashtra,Diagnostics,FOS_529,950877650,Mod Active
+911510431,Dealer_530,Branch_87,411539,Pune,Maharashtra,Crockery And House Hold Items,FOS_530,945570030,Active
+904224233,Dealer_531,Branch_96,411884,Pune,Maharashtra,Large Applainces,FOS_531,901386337,Active
+650974912,Dealer_532,Branch_31,411301,Pune,Maharashtra,Vehicle Care / Servicing,FOS_532,906059879,Inactive
+276042851,Dealer_533,Branch_98,411679,Pune,Maharashtra,Footwear,FOS_533,935073540,Mod Active
+579019582,Dealer_534,Branch_15,411434,Pune,Maharashtra,Computer Accessories,FOS_534,943983585,Mod Active
+216902536,Dealer_535,Branch_96,411084,Pune,Maharashtra,Power Backup,FOS_535,944833299,Active
+828285988,Dealer_536,Branch_40,411187,Pune,Maharashtra,Diagnostics,FOS_536,951822318,Inactive
+740408624,Dealer_537,Branch_51,411912,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_537,992933987,Mod Active
+253128685,Dealer_538,Branch_59,411704,Pune,Maharashtra,Power Backup,FOS_538,980757103,Inactive
+712952953,Dealer_539,Branch_58,411041,Pune,Maharashtra,Travel Agencies,FOS_539,914792575,Inactive
+964180283,Dealer_540,Branch_86,411754,Pune,Maharashtra,Watches,FOS_540,913268209,Inactive
+745848980,Dealer_541,Branch_61,411435,Pune,Maharashtra,Computer Accessories,FOS_541,904434155,Mod Active
+758756689,Dealer_542,Branch_78,411133,Pune,Maharashtra,Others,FOS_542,908143045,Inactive
+812519845,Dealer_543,Branch_38,411215,Pune,Maharashtra,Remi Gas Kit,FOS_543,988326196,Active
+185446204,Dealer_544,Branch_94,411971,Pune,Maharashtra,Pharmacy,FOS_544,986489483,Inactive
+560058418,Dealer_545,Branch_73,411398,Pune,Maharashtra,Toys,FOS_545,922703070,Mod Active
+528054862,Dealer_546,Branch_30,411014,Pune,Maharashtra,Handicrafts,FOS_546,907164328,Active
+707399218,Dealer_547,Branch_66,411484,Pune,Maharashtra,Power Backup,FOS_547,993298690,Mod Active
+837207554,Dealer_548,Branch_40,411645,Pune,Maharashtra,Insurance,FOS_548,920839844,Active
+186811009,Dealer_549,Branch_6,411354,Pune,Maharashtra,Eyewear,FOS_549,935223734,Active
+121817922,Dealer_550,Branch_89,411969,Pune,Maharashtra,Handicrafts,FOS_550,978217675,Inactive
+248117537,Dealer_551,Branch_49,411419,Pune,Maharashtra,Diagnostics,FOS_551,933253059,Mod Active
+591881699,Dealer_552,Branch_34,411465,Pune,Maharashtra,Remi Gas Kit,FOS_552,978606231,Active
+989142542,Dealer_553,Branch_86,411501,Pune,Maharashtra,Sports Equipment,FOS_553,996680946,Active
+568126478,Dealer_554,Branch_37,411344,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_554,998344283,Mod Active
+717025022,Dealer_555,Branch_77,411355,Pune,Maharashtra,Water Purifier,FOS_555,911212458,Active
+441758868,Dealer_556,Branch_7,411669,Pune,Maharashtra,Paints And Hardware,FOS_556,964255426,Inactive
+345553165,Dealer_557,Branch_3,411616,Pune,Maharashtra,Gyms And Spas,FOS_557,955925601,Active
+415515982,Dealer_558,Branch_78,411883,Pune,Maharashtra,High End Stationery,FOS_558,954266229,Active
+396969696,Dealer_559,Branch_72,411087,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_559,919366639,Active
+425493126,Dealer_560,Branch_8,411161,Pune,Maharashtra,Others,FOS_560,994556228,Inactive
+330627408,Dealer_561,Branch_71,411350,Pune,Maharashtra,Diagnostics,FOS_561,968109693,Active
+337988858,Dealer_562,Branch_3,411118,Pune,Maharashtra,Watches,FOS_562,966634504,Inactive
+627739592,Dealer_563,Branch_72,411875,Pune,Maharashtra,Watches,FOS_563,963276835,Inactive
+492360286,Dealer_564,Branch_38,411248,Pune,Maharashtra,Hotels,FOS_564,937662287,Inactive
+976766700,Dealer_565,Branch_98,411839,Pune,Maharashtra,Bike Accessories,FOS_565,986774195,Mod Active
+522322936,Dealer_566,Branch_21,411965,Pune,Maharashtra,LFR,FOS_566,984082108,Mod Active
+920952955,Dealer_567,Branch_94,411122,Pune,Maharashtra,Water Purifier,FOS_567,905575963,Active
+943940386,Dealer_568,Branch_13,411035,Pune,Maharashtra,Crockery And House Hold Items,FOS_568,905770112,Mod Active
+758543882,Dealer_569,Branch_58,411180,Pune,Maharashtra,Large Applainces,FOS_569,979691138,Active
+967122340,Dealer_570,Branch_77,411361,Pune,Maharashtra,Footwear,FOS_570,961204374,Active
+899745200,Dealer_571,Branch_10,411157,Pune,Maharashtra,Crockery And House Hold Items,FOS_571,961538117,Mod Active
+311701301,Dealer_572,Branch_75,411747,Pune,Maharashtra,Insurance,FOS_572,968692844,Active
+300909760,Dealer_573,Branch_48,411102,Pune,Maharashtra,Lighting,FOS_573,951935804,Inactive
+546109994,Dealer_574,Branch_9,411798,Pune,Maharashtra,Cycles,FOS_574,971755830,Active
+591328282,Dealer_575,Branch_22,411217,Pune,Maharashtra,Handicrafts,FOS_575,946065922,Inactive
+926761255,Dealer_576,Branch_23,411912,Pune,Maharashtra,Remi Gas Kit,FOS_576,920477158,Mod Active
+704347672,Dealer_577,Branch_32,411509,Pune,Maharashtra,Sewing Machines.,FOS_577,973829540,Mod Active
+213603132,Dealer_578,Branch_82,411896,Pune,Maharashtra,Vehicle Care / Servicing,FOS_578,928061232,Inactive
+773126168,Dealer_579,Branch_48,411898,Pune,Maharashtra,Sports Equipment,FOS_579,992279657,Mod Active
+320888059,Dealer_580,Branch_33,411170,Pune,Maharashtra,Diagnostics,FOS_580,981479876,Mod Active
+397723027,Dealer_581,Branch_59,411756,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_581,928883261,Inactive
+629001816,Dealer_582,Branch_99,411274,Pune,Maharashtra,Handicrafts,FOS_582,971915583,Inactive
+975765299,Dealer_583,Branch_72,411038,Pune,Maharashtra,Gyms And Spas,FOS_583,945710598,Active
+153092024,Dealer_584,Branch_14,411362,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_584,922097975,Active
+428936358,Dealer_585,Branch_3,411468,Pune,Maharashtra,Handicrafts,FOS_585,973456992,Mod Active
+866732732,Dealer_586,Branch_9,411624,Pune,Maharashtra,Eyewear,FOS_586,943904515,Inactive
+930503143,Dealer_587,Branch_62,411171,Pune,Maharashtra,Gyms And Spas,FOS_587,988541117,Inactive
+540934445,Dealer_588,Branch_98,411101,Pune,Maharashtra,Handicrafts,FOS_588,911322778,Inactive
+932245951,Dealer_589,Branch_22,411054,Pune,Maharashtra,High End Stationery,FOS_589,946565940,Active
+750093409,Dealer_590,Branch_97,411927,Pune,Maharashtra,Diagnostics,FOS_590,979984065,Active
+971281605,Dealer_591,Branch_90,411295,Pune,Maharashtra,Others,FOS_591,986941137,Mod Active
+168557384,Dealer_592,Branch_7,411827,Pune,Maharashtra,Bike Accessories,FOS_592,912450557,Mod Active
+744755294,Dealer_593,Branch_19,411634,Pune,Maharashtra,Paints And Hardware,FOS_593,958824059,Inactive
+414471307,Dealer_594,Branch_41,411743,Pune,Maharashtra,Footwear,FOS_594,965954432,Inactive
+739951746,Dealer_595,Branch_47,411881,Pune,Maharashtra,Others,FOS_595,904305686,Mod Active
+171837690,Dealer_596,Branch_60,411109,Pune,Maharashtra,Gyms And Spas,FOS_596,979713207,Active
+301291530,Dealer_597,Branch_97,411069,Pune,Maharashtra,Paints And Hardware,FOS_597,906952091,Active
+582940894,Dealer_598,Branch_35,411484,Pune,Maharashtra,Musical Instruments,FOS_598,938585692,Inactive
+797552434,Dealer_599,Branch_87,411581,Pune,Maharashtra,Gyms And Spas,FOS_599,948985190,Inactive
+853583061,Dealer_600,Branch_95,411658,Pune,Maharashtra,LFR,FOS_600,997754129,Active
+704870671,Dealer_601,Branch_95,411457,Pune,Maharashtra,Water Purifier,FOS_601,910704556,Active
+906674824,Dealer_602,Branch_25,411026,Pune,Maharashtra,Cycles,FOS_602,946388204,Mod Active
+784045929,Dealer_603,Branch_68,411881,Pune,Maharashtra,Crockery And House Hold Items,FOS_603,924211709,Mod Active
+571568295,Dealer_604,Branch_10,411307,Pune,Maharashtra,Paints And Hardware,FOS_604,950270502,Active
+407020103,Dealer_605,Branch_40,411512,Pune,Maharashtra,Pharmacy,FOS_605,907609174,Mod Active
+955643308,Dealer_606,Branch_16,411059,Pune,Maharashtra,Sports Equipment,FOS_606,938391966,Mod Active
+702890859,Dealer_607,Branch_78,411805,Pune,Maharashtra,Handicrafts,FOS_607,951494755,Inactive
+147917111,Dealer_608,Branch_57,411946,Pune,Maharashtra,Pharmacy,FOS_608,922070880,Inactive
+832953140,Dealer_609,Branch_92,411631,Pune,Maharashtra,Footwear,FOS_609,984075675,Active
+495478445,Dealer_610,Branch_99,411498,Pune,Maharashtra,Departmental Stores,FOS_610,949384864,Mod Active
+390509270,Dealer_611,Branch_70,411419,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_611,952834648,Inactive
+134880947,Dealer_612,Branch_78,411500,Pune,Maharashtra,Insurance,FOS_612,943750800,Active
+940641165,Dealer_613,Branch_60,411437,Pune,Maharashtra,Crockery And House Hold Items,FOS_613,997023027,Inactive
+324381509,Dealer_614,Branch_93,411407,Pune,Maharashtra,Pets Accessories,FOS_614,977273531,Active
+806494942,Dealer_615,Branch_57,411233,Pune,Maharashtra,Large Applainces,FOS_615,908014805,Inactive
+832555095,Dealer_616,Branch_92,411465,Pune,Maharashtra,Handicrafts,FOS_616,960865712,Mod Active
+438550757,Dealer_617,Branch_17,411624,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_617,928471479,Mod Active
+307880630,Dealer_618,Branch_97,411450,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_618,974015684,Mod Active
+699989995,Dealer_619,Branch_28,411391,Pune,Maharashtra,Gyms And Spas,FOS_619,919892540,Mod Active
+434840453,Dealer_620,Branch_17,411448,Pune,Maharashtra,High End Stationery,FOS_620,962123497,Inactive
+479936939,Dealer_621,Branch_2,411335,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_621,988527104,Active
+772037050,Dealer_622,Branch_7,411218,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_622,993008378,Mod Active
+262740854,Dealer_623,Branch_65,411534,Pune,Maharashtra,Vehicle Care / Servicing,FOS_623,916530407,Active
+888807611,Dealer_624,Branch_42,411221,Pune,Maharashtra,Watches,FOS_624,972830016,Active
+183365134,Dealer_625,Branch_42,411940,Pune,Maharashtra,Sports Equipment,FOS_625,985542181,Inactive
+368775113,Dealer_626,Branch_15,411303,Pune,Maharashtra,Lighting,FOS_626,964183013,Mod Active
+343317637,Dealer_627,Branch_33,411038,Pune,Maharashtra,E-Bike,FOS_627,985931064,Active
+829079483,Dealer_628,Branch_64,411319,Pune,Maharashtra,Computer Accessories,FOS_628,995782911,Inactive
+785573070,Dealer_629,Branch_57,411183,Pune,Maharashtra,Bike Accessories,FOS_629,966520591,Mod Active
+921207814,Dealer_630,Branch_35,411632,Pune,Maharashtra,Others,FOS_630,933009447,Active
+797032392,Dealer_631,Branch_25,411417,Pune,Maharashtra,Computer Accessories,FOS_631,921750441,Inactive
+897595375,Dealer_632,Branch_57,411985,Pune,Maharashtra,Vehicle Care / Servicing,FOS_632,965197922,Mod Active
+987996301,Dealer_633,Branch_18,411457,Pune,Maharashtra,Lighting,FOS_633,931503269,Mod Active
+891803429,Dealer_634,Branch_64,411695,Pune,Maharashtra,Travel Agencies,FOS_634,983536560,Active
+599204499,Dealer_635,Branch_8,411612,Pune,Maharashtra,Footwear,FOS_635,992540118,Active
+991059542,Dealer_636,Branch_46,411769,Pune,Maharashtra,Eyewear,FOS_636,938274910,Mod Active
+549129101,Dealer_637,Branch_32,411652,Pune,Maharashtra,Watches,FOS_637,999565488,Inactive
+918380570,Dealer_638,Branch_53,411673,Pune,Maharashtra,Computer Accessories,FOS_638,934689431,Inactive
+463046033,Dealer_639,Branch_10,411660,Pune,Maharashtra,Medical Accessories,FOS_639,999097179,Mod Active
+977967829,Dealer_640,Branch_24,411745,Pune,Maharashtra,LFR,FOS_640,916452022,Mod Active
+742814508,Dealer_641,Branch_86,411519,Pune,Maharashtra,Home Security Systems,FOS_641,976204050,Active
+459758168,Dealer_642,Branch_23,411741,Pune,Maharashtra,Insurance,FOS_642,947803765,Active
+736745422,Dealer_643,Branch_7,411769,Pune,Maharashtra,Spa And Salon,FOS_643,913209463,Active
+506171696,Dealer_644,Branch_68,411627,Pune,Maharashtra,Others,FOS_644,951015217,Inactive
+382324110,Dealer_645,Branch_41,411100,Pune,Maharashtra,Home Security Systems,FOS_645,912944063,Inactive
+680643163,Dealer_646,Branch_42,411031,Pune,Maharashtra,Power Tools,FOS_646,954652211,Mod Active
+400239552,Dealer_647,Branch_71,411820,Pune,Maharashtra,Paints And Hardware,FOS_647,963379149,Mod Active
+835356208,Dealer_648,Branch_52,411102,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_648,959606397,Inactive
+835029514,Dealer_649,Branch_11,411384,Pune,Maharashtra,Lighting,FOS_649,906411041,Mod Active
+825299971,Dealer_650,Branch_26,411057,Pune,Maharashtra,Sewing Machines.,FOS_650,993428589,Active
+791733102,Dealer_651,Branch_7,411373,Pune,Maharashtra,Cycles,FOS_651,906050381,Inactive
+658255803,Dealer_652,Branch_48,411829,Pune,Maharashtra,Furnishing,FOS_652,960978416,Mod Active
+957671901,Dealer_653,Branch_62,411826,Pune,Maharashtra,Travel Agencies,FOS_653,925874696,Inactive
+561040267,Dealer_654,Branch_92,411578,Pune,Maharashtra,Crockery And House Hold Items,FOS_654,934086075,Active
+164115540,Dealer_655,Branch_36,411192,Pune,Maharashtra,Apparels,FOS_655,998049492,Active
+463738315,Dealer_656,Branch_16,411892,Pune,Maharashtra,Paints And Hardware,FOS_656,985264825,Mod Active
+425616134,Dealer_657,Branch_62,411193,Pune,Maharashtra,Computer Accessories,FOS_657,937169344,Inactive
+322942213,Dealer_658,Branch_67,411084,Pune,Maharashtra,Apparels,FOS_658,978598757,Mod Active
+803646327,Dealer_659,Branch_83,411315,Pune,Maharashtra,Travel Agencies,FOS_659,932148629,Mod Active
+150520310,Dealer_660,Branch_84,411012,Pune,Maharashtra,Small Appliances,FOS_660,983459449,Mod Active
+395563928,Dealer_661,Branch_71,411300,Pune,Maharashtra,Spa And Salon,FOS_661,925578866,Inactive
+624544487,Dealer_662,Branch_30,411965,Pune,Maharashtra,Others,FOS_662,915340729,Mod Active
+874578576,Dealer_663,Branch_55,411883,Pune,Maharashtra,Lighting,FOS_663,957451648,Inactive
+955483625,Dealer_664,Branch_44,411437,Pune,Maharashtra,Medical Accessories,FOS_664,995548352,Mod Active
+806447152,Dealer_665,Branch_28,411445,Pune,Maharashtra,Others,FOS_665,923875054,Mod Active
+880070487,Dealer_666,Branch_61,411651,Pune,Maharashtra,LFR,FOS_666,926744933,Mod Active
+794128106,Dealer_667,Branch_87,411626,Pune,Maharashtra,Musical Instruments,FOS_667,911976905,Inactive
+579224752,Dealer_668,Branch_8,411646,Pune,Maharashtra,Medical Accessories,FOS_668,962333896,Active
+776947180,Dealer_669,Branch_44,411197,Pune,Maharashtra,Paints And Hardware,FOS_669,903927902,Inactive
+454572038,Dealer_670,Branch_33,411013,Pune,Maharashtra,Pets Accessories,FOS_670,955842836,Inactive
+654830171,Dealer_671,Branch_40,411594,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_671,941866006,Active
+699016779,Dealer_672,Branch_8,411871,Pune,Maharashtra,Apparels,FOS_672,992920475,Inactive
+103193303,Dealer_673,Branch_67,411013,Pune,Maharashtra,Remi Gas Kit,FOS_673,963012102,Active
+823335003,Dealer_674,Branch_9,411665,Pune,Maharashtra,Pets Accessories,FOS_674,920467067,Inactive
+642365343,Dealer_675,Branch_17,411127,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_675,950559104,Active
+793495870,Dealer_676,Branch_67,411057,Pune,Maharashtra,Small Appliances,FOS_676,964279158,Active
+853493502,Dealer_677,Branch_16,411172,Pune,Maharashtra,Eyewear,FOS_677,992228638,Mod Active
+719362233,Dealer_678,Branch_74,411360,Pune,Maharashtra,Remi Gas Kit,FOS_678,914234298,Active
+200584798,Dealer_679,Branch_61,411393,Pune,Maharashtra,Luggage,FOS_679,975874820,Mod Active
+381799471,Dealer_680,Branch_25,411208,Pune,Maharashtra,Furnishing,FOS_680,954492180,Inactive
+823094022,Dealer_681,Branch_50,411659,Pune,Maharashtra,Departmental Stores,FOS_681,974553365,Active
+782762562,Dealer_682,Branch_73,411398,Pune,Maharashtra,Water Purifier,FOS_682,916516962,Active
+786203150,Dealer_683,Branch_23,411154,Pune,Maharashtra,Watches,FOS_683,964799073,Active
+268755605,Dealer_684,Branch_75,411351,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_684,921729477,Active
+461206766,Dealer_685,Branch_52,411761,Pune,Maharashtra,Power Backup,FOS_685,958800972,Active
+669970986,Dealer_686,Branch_31,411795,Pune,Maharashtra,Hotels,FOS_686,937670724,Inactive
+820436110,Dealer_687,Branch_1,411626,Pune,Maharashtra,Power Backup,FOS_687,971844939,Mod Active
+485680615,Dealer_688,Branch_95,411260,Pune,Maharashtra,Furnishing,FOS_688,953659323,Mod Active
+321380174,Dealer_689,Branch_70,411156,Pune,Maharashtra,Power Backup,FOS_689,965288574,Inactive
+785703919,Dealer_690,Branch_24,411648,Pune,Maharashtra,Home Security Systems,FOS_690,987990949,Mod Active
+161651739,Dealer_691,Branch_91,411198,Pune,Maharashtra,Power Backup,FOS_691,954764642,Inactive
+746343129,Dealer_692,Branch_47,411349,Pune,Maharashtra,Medical Accessories,FOS_692,919624245,Inactive
+939644177,Dealer_693,Branch_80,411690,Pune,Maharashtra,Handicrafts,FOS_693,948677571,Active
+732550604,Dealer_694,Branch_57,411475,Pune,Maharashtra,Computer Accessories,FOS_694,988453567,Mod Active
+669891325,Dealer_695,Branch_1,411250,Pune,Maharashtra,Furnishing,FOS_695,953077558,Active
+517543811,Dealer_696,Branch_81,411858,Pune,Maharashtra,Paints And Hardware,FOS_696,919091553,Inactive
+292047394,Dealer_697,Branch_90,411373,Pune,Maharashtra,Spa And Salon,FOS_697,968586886,Active
+858290821,Dealer_698,Branch_93,411334,Pune,Maharashtra,Small Appliances,FOS_698,933635524,Active
+840567253,Dealer_699,Branch_16,411814,Pune,Maharashtra,High End Stationery,FOS_699,986997146,Inactive
+698528487,Dealer_700,Branch_8,411270,Pune,Maharashtra,Footwear,FOS_700,990120478,Inactive
+336416079,Dealer_701,Branch_33,411994,Pune,Maharashtra,Watches,FOS_701,936858918,Active
+180539794,Dealer_702,Branch_54,411389,Pune,Maharashtra,Medical Accessories,FOS_702,972589652,Mod Active
+471254014,Dealer_703,Branch_2,411826,Pune,Maharashtra,Sports Equipment,FOS_703,986477391,Inactive
+962678452,Dealer_704,Branch_30,411103,Pune,Maharashtra,Gyms And Spas,FOS_704,903328701,Active
+468325830,Dealer_705,Branch_89,411650,Pune,Maharashtra,Gyms And Spas,FOS_705,925796167,Active
+487356076,Dealer_706,Branch_75,411468,Pune,Maharashtra,Eyewear,FOS_706,907129033,Active
+127213913,Dealer_707,Branch_97,411849,Pune,Maharashtra,Pets Accessories,FOS_707,980665974,Mod Active
+595040909,Dealer_708,Branch_95,411877,Pune,Maharashtra,Lighting,FOS_708,967627344,Inactive
+570090575,Dealer_709,Branch_25,411426,Pune,Maharashtra,High End Stationery,FOS_709,982285439,Inactive
+396685268,Dealer_710,Branch_14,411729,Pune,Maharashtra,Musical Instruments,FOS_710,919601672,Inactive
+945917966,Dealer_711,Branch_31,411793,Pune,Maharashtra,Watches,FOS_711,973179207,Mod Active
+916338644,Dealer_712,Branch_23,411138,Pune,Maharashtra,Luggage,FOS_712,952219199,Active
+266610148,Dealer_713,Branch_16,411691,Pune,Maharashtra,Travel Agencies,FOS_713,985155114,Active
+369249815,Dealer_714,Branch_8,411075,Pune,Maharashtra,Diagnostics,FOS_714,988092632,Mod Active
+953237381,Dealer_715,Branch_59,411533,Pune,Maharashtra,E-Bike,FOS_715,958054212,Mod Active
+526800576,Dealer_716,Branch_10,411652,Pune,Maharashtra,Sewing Machines.,FOS_716,969262634,Inactive
+163482331,Dealer_717,Branch_12,411421,Pune,Maharashtra,Pets Accessories,FOS_717,930711098,Inactive
+594293968,Dealer_718,Branch_65,411817,Pune,Maharashtra,Cycles,FOS_718,978943757,Inactive
+182097198,Dealer_719,Branch_22,411695,Pune,Maharashtra,Sports Equipment,FOS_719,970614594,Mod Active
+160750004,Dealer_720,Branch_35,411518,Pune,Maharashtra,Tyres,FOS_720,953797264,Mod Active
+869706254,Dealer_721,Branch_93,411592,Pune,Maharashtra,Crockery And House Hold Items,FOS_721,928339594,Mod Active
+342667650,Dealer_722,Branch_31,411102,Pune,Maharashtra,Furnishing,FOS_722,934861072,Mod Active
+689915144,Dealer_723,Branch_89,411143,Pune,Maharashtra,Eyewear,FOS_723,944708717,Active
+984938126,Dealer_724,Branch_22,411570,Pune,Maharashtra,LFR,FOS_724,929592081,Active
+785222101,Dealer_725,Branch_44,411611,Pune,Maharashtra,Lighting,FOS_725,996789654,Active
+663664900,Dealer_726,Branch_89,411577,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_726,980224223,Active
+526173810,Dealer_727,Branch_58,411430,Pune,Maharashtra,Gyms And Spas,FOS_727,971976760,Active
+662657476,Dealer_728,Branch_5,411042,Pune,Maharashtra,Power Tools,FOS_728,914908625,Mod Active
+889188381,Dealer_729,Branch_12,411640,Pune,Maharashtra,Sports Equipment,FOS_729,907237190,Mod Active
+960391660,Dealer_730,Branch_76,411181,Pune,Maharashtra,Musical Instruments,FOS_730,901352289,Mod Active
+782522356,Dealer_731,Branch_29,411489,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_731,930671356,Mod Active
+197696068,Dealer_732,Branch_32,411935,Pune,Maharashtra,Crockery And House Hold Items,FOS_732,989537784,Mod Active
+139685994,Dealer_733,Branch_70,411703,Pune,Maharashtra,E-Bike,FOS_733,915922118,Inactive
+242142645,Dealer_734,Branch_46,411971,Pune,Maharashtra,Furnishing,FOS_734,902175186,Inactive
+412162542,Dealer_735,Branch_75,411286,Pune,Maharashtra,Pharmacy,FOS_735,918413377,Active
+476724937,Dealer_736,Branch_12,411860,Pune,Maharashtra,Footwear,FOS_736,976575601,Inactive
+140296380,Dealer_737,Branch_67,411446,Pune,Maharashtra,Tyres,FOS_737,919261159,Inactive
+261909200,Dealer_738,Branch_35,411008,Pune,Maharashtra,Small Appliances,FOS_738,930649993,Inactive
+543132349,Dealer_739,Branch_23,411725,Pune,Maharashtra,Musical Instruments,FOS_739,947260374,Inactive
+444555826,Dealer_740,Branch_23,411688,Pune,Maharashtra,Remi Gas Kit,FOS_740,928240029,Inactive
+132602261,Dealer_741,Branch_7,411859,Pune,Maharashtra,Small Appliances,FOS_741,963460486,Mod Active
+263352239,Dealer_742,Branch_41,411014,Pune,Maharashtra,High End Stationery,FOS_742,963164148,Active
+499049564,Dealer_743,Branch_50,411095,Pune,Maharashtra,Luggage,FOS_743,924218826,Active
+342227228,Dealer_744,Branch_50,411347,Pune,Maharashtra,Musical Instruments,FOS_744,916933321,Active
+879466633,Dealer_745,Branch_69,411516,Pune,Maharashtra,Toys,FOS_745,959053131,Inactive
+497568353,Dealer_746,Branch_34,411140,Pune,Maharashtra,High End Stationery,FOS_746,964764414,Active
+291457004,Dealer_747,Branch_78,411605,Pune,Maharashtra,Watches,FOS_747,931912730,Inactive
+406421814,Dealer_748,Branch_96,411310,Pune,Maharashtra,Luggage,FOS_748,952539309,Inactive
+705509227,Dealer_749,Branch_6,411984,Pune,Maharashtra,Pets Accessories,FOS_749,917026590,Inactive
+173381598,Dealer_750,Branch_23,411673,Pune,Maharashtra,LFR,FOS_750,976988006,Mod Active
+898299195,Dealer_751,Branch_34,411864,Pune,Maharashtra,Handicrafts,FOS_751,973745579,Mod Active
+942783907,Dealer_752,Branch_53,411259,Pune,Maharashtra,Medical Accessories,FOS_752,908742200,Active
+198250984,Dealer_753,Branch_83,411665,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_753,903150845,Mod Active
+879956458,Dealer_754,Branch_57,411948,Pune,Maharashtra,Travel Agencies,FOS_754,958991693,Mod Active
+775535924,Dealer_755,Branch_95,411877,Pune,Maharashtra,Water Purifier,FOS_755,972652484,Inactive
+925821990,Dealer_756,Branch_33,411454,Pune,Maharashtra,Computer Accessories,FOS_756,999132064,Mod Active
+312476200,Dealer_757,Branch_93,411433,Pune,Maharashtra,Toys,FOS_757,943368955,Inactive
+663953100,Dealer_758,Branch_6,411963,Pune,Maharashtra,Computer Accessories,FOS_758,979852965,Inactive
+783443943,Dealer_759,Branch_9,411204,Pune,Maharashtra,Home Security Systems,FOS_759,996697038,Active
+617990455,Dealer_760,Branch_98,411003,Pune,Maharashtra,Sports Equipment,FOS_760,983278768,Inactive
+905297123,Dealer_761,Branch_62,411424,Pune,Maharashtra,Hotels,FOS_761,951371520,Inactive
+240517204,Dealer_762,Branch_64,411658,Pune,Maharashtra,Handicrafts,FOS_762,909349420,Inactive
+144793278,Dealer_763,Branch_75,411184,Pune,Maharashtra,Toys,FOS_763,977791404,Inactive
+453121746,Dealer_764,Branch_87,411825,Pune,Maharashtra,Crockery And House Hold Items,FOS_764,964979620,Inactive
+602172821,Dealer_765,Branch_13,411755,Pune,Maharashtra,Tyres,FOS_765,971613067,Inactive
+509693097,Dealer_766,Branch_83,411309,Pune,Maharashtra,Paints And Hardware,FOS_766,902918929,Inactive
+520228518,Dealer_767,Branch_36,411513,Pune,Maharashtra,Home Security Systems,FOS_767,982343671,Mod Active
+512302553,Dealer_768,Branch_14,411863,Pune,Maharashtra,Furnishing,FOS_768,992928936,Inactive
+506714919,Dealer_769,Branch_28,411565,Pune,Maharashtra,Diagnostics,FOS_769,988472734,Mod Active
+917356021,Dealer_770,Branch_73,411744,Pune,Maharashtra,Insurance,FOS_770,910750202,Inactive
+235994932,Dealer_771,Branch_32,411212,Pune,Maharashtra,Furnishing,FOS_771,970641602,Inactive
+653247689,Dealer_772,Branch_95,411989,Pune,Maharashtra,Cycles,FOS_772,957941689,Mod Active
+579195483,Dealer_773,Branch_2,411539,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_773,965820274,Inactive
+233536805,Dealer_774,Branch_92,411704,Pune,Maharashtra,Luggage,FOS_774,942122867,Inactive
+142107612,Dealer_775,Branch_65,411215,Pune,Maharashtra,Sports Equipment,FOS_775,925898292,Mod Active
+734919247,Dealer_776,Branch_60,411773,Pune,Maharashtra,Pharmacy,FOS_776,981006366,Mod Active
+257006013,Dealer_777,Branch_27,411544,Pune,Maharashtra,Hotels,FOS_777,944387860,Mod Active
+448890933,Dealer_778,Branch_51,411934,Pune,Maharashtra,Travel Agencies,FOS_778,975190879,Inactive
+323586119,Dealer_779,Branch_67,411734,Pune,Maharashtra,Travel Agencies,FOS_779,995611232,Active
+403368944,Dealer_780,Branch_81,411350,Pune,Maharashtra,Toys,FOS_780,923384646,Inactive
+166355626,Dealer_781,Branch_99,411536,Pune,Maharashtra,Eyewear,FOS_781,916495349,Mod Active
+873414805,Dealer_782,Branch_93,411060,Pune,Maharashtra,Sewing Machines.,FOS_782,941347277,Inactive
+337709632,Dealer_783,Branch_72,411040,Pune,Maharashtra,Toys,FOS_783,932481046,Inactive
+618619402,Dealer_784,Branch_27,411576,Pune,Maharashtra,Toys,FOS_784,938249155,Mod Active
+392632565,Dealer_785,Branch_13,411803,Pune,Maharashtra,Musical Instruments,FOS_785,937106121,Active
+225885986,Dealer_786,Branch_93,411262,Pune,Maharashtra,Bike Accessories,FOS_786,944632650,Active
+658985630,Dealer_787,Branch_60,411220,Pune,Maharashtra,Vehicle Care / Servicing,FOS_787,964336942,Active
+958825519,Dealer_788,Branch_32,411648,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_788,984438364,Active
+743417655,Dealer_789,Branch_69,411906,Pune,Maharashtra,Medical Accessories,FOS_789,919740250,Inactive
+820432260,Dealer_790,Branch_65,411832,Pune,Maharashtra,Computer Accessories,FOS_790,926799453,Mod Active
+708709557,Dealer_791,Branch_38,411879,Pune,Maharashtra,Spa And Salon,FOS_791,978328823,Mod Active
+414227093,Dealer_792,Branch_26,411586,Pune,Maharashtra,Pharmacy,FOS_792,906372182,Active
+124569052,Dealer_793,Branch_45,411548,Pune,Maharashtra,Departmental Stores,FOS_793,984606597,Mod Active
+156855182,Dealer_794,Branch_68,411363,Pune,Maharashtra,Sewing Machines.,FOS_794,980676157,Mod Active
+508120379,Dealer_795,Branch_34,411934,Pune,Maharashtra,Toys,FOS_795,913884570,Mod Active
+179723924,Dealer_796,Branch_74,411820,Pune,Maharashtra,High End Stationery,FOS_796,901768505,Active
+368289190,Dealer_797,Branch_82,411634,Pune,Maharashtra,Remi Gas Kit,FOS_797,941873873,Active
+580052956,Dealer_798,Branch_77,411829,Pune,Maharashtra,Tyres,FOS_798,992871593,Inactive
+533985225,Dealer_799,Branch_38,411640,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_799,956416154,Inactive
+120706918,Dealer_800,Branch_19,411367,Pune,Maharashtra,E-Bike,FOS_800,963353447,Inactive
+131403762,Dealer_801,Branch_73,411470,Pune,Maharashtra,Power Backup,FOS_801,993427602,Inactive
+300540847,Dealer_802,Branch_93,411715,Pune,Maharashtra,Watches,FOS_802,982805108,Inactive
+789638441,Dealer_803,Branch_40,411335,Pune,Maharashtra,Footwear,FOS_803,913781630,Inactive
+932084629,Dealer_804,Branch_79,411630,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_804,962092874,Active
+917144960,Dealer_805,Branch_9,411366,Pune,Maharashtra,Power Tools,FOS_805,990716841,Inactive
+876213616,Dealer_806,Branch_6,411810,Pune,Maharashtra,Vehicle Care / Servicing,FOS_806,972791856,Mod Active
+347850324,Dealer_807,Branch_3,411547,Pune,Maharashtra,Travel Agencies,FOS_807,981745887,Active
+891811695,Dealer_808,Branch_53,411684,Pune,Maharashtra,Small Appliances,FOS_808,965356780,Inactive
+847412717,Dealer_809,Branch_18,411378,Pune,Maharashtra,Sewing Machines.,FOS_809,941014049,Inactive
+353506356,Dealer_810,Branch_3,411080,Pune,Maharashtra,Travel Agencies,FOS_810,947643520,Inactive
+942641410,Dealer_811,Branch_1,411122,Pune,Maharashtra,Others,FOS_811,902269694,Inactive
+627364359,Dealer_812,Branch_18,411331,Pune,Maharashtra,Cycles,FOS_812,968966131,Inactive
+659635293,Dealer_813,Branch_12,411207,Pune,Maharashtra,Gyms And Spas,FOS_813,956593569,Mod Active
+931750787,Dealer_814,Branch_15,411845,Pune,Maharashtra,Pets Accessories,FOS_814,958220448,Mod Active
+657624665,Dealer_815,Branch_40,411428,Pune,Maharashtra,Footwear,FOS_815,903536327,Inactive
+129066267,Dealer_816,Branch_40,411675,Pune,Maharashtra,Power Tools,FOS_816,951577077,Mod Active
+240195853,Dealer_817,Branch_33,411808,Pune,Maharashtra,Power Backup,FOS_817,990832777,Inactive
+599777634,Dealer_818,Branch_47,411756,Pune,Maharashtra,Departmental Stores,FOS_818,940186320,Mod Active
+844375053,Dealer_819,Branch_76,411129,Pune,Maharashtra,Lighting,FOS_819,978831087,Active
+671278664,Dealer_820,Branch_37,411616,Pune,Maharashtra,Insurance,FOS_820,928389833,Inactive
+279937628,Dealer_821,Branch_57,411608,Pune,Maharashtra,Bike Accessories,FOS_821,910156580,Inactive
+707342815,Dealer_822,Branch_2,411005,Pune,Maharashtra,Crockery And House Hold Items,FOS_822,934919654,Inactive
+569052216,Dealer_823,Branch_39,411798,Pune,Maharashtra,Eyewear,FOS_823,931782645,Active
+855151634,Dealer_824,Branch_59,411173,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_824,970631801,Active
+606186161,Dealer_825,Branch_86,411751,Pune,Maharashtra,Insurance,FOS_825,957368980,Mod Active
+426752995,Dealer_826,Branch_67,411595,Pune,Maharashtra,Musical Instruments,FOS_826,993477239,Inactive
+443630748,Dealer_827,Branch_92,411264,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_827,984214383,Inactive
+692706926,Dealer_828,Branch_98,411720,Pune,Maharashtra,Crockery And House Hold Items,FOS_828,979778895,Inactive
+223991631,Dealer_829,Branch_26,411254,Pune,Maharashtra,Computer Accessories,FOS_829,986479995,Mod Active
+313064243,Dealer_830,Branch_13,411135,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_830,903633213,Mod Active
+741053479,Dealer_831,Branch_23,411924,Pune,Maharashtra,High End Stationery,FOS_831,991481674,Active
+126511641,Dealer_832,Branch_96,411898,Pune,Maharashtra,Handicrafts,FOS_832,904261762,Active
+540522208,Dealer_833,Branch_42,411978,Pune,Maharashtra,Computer Accessories,FOS_833,909584986,Inactive
+450801730,Dealer_834,Branch_53,411202,Pune,Maharashtra,Vehicle Care / Servicing,FOS_834,998632207,Active
+616997988,Dealer_835,Branch_86,411220,Pune,Maharashtra,Paints And Hardware,FOS_835,944357979,Inactive
+919727153,Dealer_836,Branch_47,411534,Pune,Maharashtra,Crockery And House Hold Items,FOS_836,939773616,Active
+643903317,Dealer_837,Branch_92,411366,Pune,Maharashtra,Diagnostics,FOS_837,953983413,Active
+742641011,Dealer_838,Branch_18,411860,Pune,Maharashtra,Eyewear,FOS_838,993653352,Active
+114505408,Dealer_839,Branch_61,411433,Pune,Maharashtra,Tyres,FOS_839,990745381,Inactive
+554580973,Dealer_840,Branch_45,411521,Pune,Maharashtra,Sports Equipment,FOS_840,909378987,Inactive
+520743034,Dealer_841,Branch_77,411728,Pune,Maharashtra,Footwear,FOS_841,986642075,Inactive
+528103224,Dealer_842,Branch_57,411004,Pune,Maharashtra,Large Applainces,FOS_842,906389908,Active
+477370964,Dealer_843,Branch_70,411773,Pune,Maharashtra,Sewing Machines.,FOS_843,918489138,Mod Active
+722533603,Dealer_844,Branch_21,411041,Pune,Maharashtra,Toys,FOS_844,982052670,Inactive
+570058433,Dealer_845,Branch_11,411525,Pune,Maharashtra,Departmental Stores,FOS_845,932097201,Inactive
+754815537,Dealer_846,Branch_6,411562,Pune,Maharashtra,Departmental Stores,FOS_846,943579380,Mod Active
+780584311,Dealer_847,Branch_43,411977,Pune,Maharashtra,Tyres,FOS_847,961201095,Active
+575862883,Dealer_848,Branch_66,411106,Pune,Maharashtra,Paints And Hardware,FOS_848,908594564,Inactive
+601131666,Dealer_849,Branch_75,411254,Pune,Maharashtra,Computer Accessories,FOS_849,912997606,Inactive
+606864580,Dealer_850,Branch_38,411991,Pune,Maharashtra,Furnishing,FOS_850,968438386,Inactive
+106943202,Dealer_851,Branch_74,411265,Pune,Maharashtra,Travel Agencies,FOS_851,935715372,Mod Active
+720956493,Dealer_852,Branch_93,411549,Pune,Maharashtra,Bike Accessories,FOS_852,961684459,Active
+944685259,Dealer_853,Branch_42,411667,Pune,Maharashtra,Travel Agencies,FOS_853,907690161,Mod Active
+721678990,Dealer_854,Branch_62,411591,Pune,Maharashtra,Power Backup,FOS_854,975034988,Mod Active
+819070830,Dealer_855,Branch_20,411940,Pune,Maharashtra,Small Appliances,FOS_855,997458179,Inactive
+727287710,Dealer_856,Branch_15,411884,Pune,Maharashtra,Computer Accessories,FOS_856,930125451,Active
+763072779,Dealer_857,Branch_33,411180,Pune,Maharashtra,Musical Instruments,FOS_857,962106990,Inactive
+114920781,Dealer_858,Branch_76,411135,Pune,Maharashtra,Tyres,FOS_858,906955691,Active
+676609616,Dealer_859,Branch_91,411800,Pune,Maharashtra,Watches,FOS_859,950566403,Inactive
+602460000,Dealer_860,Branch_45,411660,Pune,Maharashtra,Crockery And House Hold Items,FOS_860,977003573,Mod Active
+222854216,Dealer_861,Branch_28,411547,Pune,Maharashtra,Water Purifier,FOS_861,911590956,Mod Active
+347293648,Dealer_862,Branch_23,411569,Pune,Maharashtra,Toys,FOS_862,917242395,Inactive
+174787233,Dealer_863,Branch_83,411609,Pune,Maharashtra,Home Security Systems,FOS_863,931317775,Inactive
+389332208,Dealer_864,Branch_8,411662,Pune,Maharashtra,Luggage,FOS_864,998134653,Mod Active
+463663821,Dealer_865,Branch_98,411061,Pune,Maharashtra,Remi Gas Kit,FOS_865,939509124,Inactive
+357480235,Dealer_866,Branch_97,411368,Pune,Maharashtra,Small Appliances,FOS_866,958794007,Inactive
+476338590,Dealer_867,Branch_4,411207,Pune,Maharashtra,Water Purifier,FOS_867,960381778,Active
+593807509,Dealer_868,Branch_1,411126,Pune,Maharashtra,Insurance,FOS_868,964027857,Inactive
+915496585,Dealer_869,Branch_28,411700,Pune,Maharashtra,Water Purifier,FOS_869,953053579,Inactive
+333521443,Dealer_870,Branch_21,411204,Pune,Maharashtra,Computer Accessories,FOS_870,968036968,Inactive
+394327570,Dealer_871,Branch_41,411334,Pune,Maharashtra,E-Bike,FOS_871,928890268,Mod Active
+552841529,Dealer_872,Branch_63,411338,Pune,Maharashtra,Furnishing,FOS_872,961272022,Active
+915612692,Dealer_873,Branch_3,411073,Pune,Maharashtra,Home Security Systems,FOS_873,967622718,Inactive
+961596866,Dealer_874,Branch_10,411748,Pune,Maharashtra,LFR,FOS_874,980119267,Active
+469210494,Dealer_875,Branch_71,411020,Pune,Maharashtra,Remi Gas Kit,FOS_875,939865196,Mod Active
+258624678,Dealer_876,Branch_77,411458,Pune,Maharashtra,Power Tools,FOS_876,910462820,Inactive
+340574007,Dealer_877,Branch_6,411230,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_877,957836074,Mod Active
+243312279,Dealer_878,Branch_56,411473,Pune,Maharashtra,Hotels,FOS_878,912732259,Active
+483702357,Dealer_879,Branch_91,411406,Pune,Maharashtra,Power Backup,FOS_879,999534867,Inactive
+551148141,Dealer_880,Branch_48,411623,Pune,Maharashtra,Vehicle Care / Servicing,FOS_880,944971297,Active
+973404238,Dealer_881,Branch_52,411814,Pune,Maharashtra,Hotels,FOS_881,926154035,Inactive
+146300462,Dealer_882,Branch_48,411443,Pune,Maharashtra,Small Appliances,FOS_882,948253552,Mod Active
+935200589,Dealer_883,Branch_87,411380,Pune,Maharashtra,Toys,FOS_883,996164215,Inactive
+547344364,Dealer_884,Branch_69,411047,Pune,Maharashtra,Furnishing,FOS_884,971200160,Active
+379553246,Dealer_885,Branch_12,411762,Pune,Maharashtra,Eyewear,FOS_885,920184852,Inactive
+514582625,Dealer_886,Branch_59,411591,Pune,Maharashtra,Sports Equipment,FOS_886,919885489,Active
+885981930,Dealer_887,Branch_48,411773,Pune,Maharashtra,Pets Accessories,FOS_887,985423994,Inactive
+690308792,Dealer_888,Branch_91,411179,Pune,Maharashtra,Musical Instruments,FOS_888,960658752,Inactive
+303662925,Dealer_889,Branch_37,411491,Pune,Maharashtra,LFR,FOS_889,983285240,Active
+986061114,Dealer_890,Branch_77,411009,Pune,Maharashtra,Diagnostics,FOS_890,959603088,Inactive
+531859673,Dealer_891,Branch_12,411121,Pune,Maharashtra,Large Applainces,FOS_891,926462431,Inactive
+601583898,Dealer_892,Branch_4,411147,Pune,Maharashtra,Gyms And Spas,FOS_892,954427252,Active
+939580420,Dealer_893,Branch_94,411120,Pune,Maharashtra,Computer Accessories,FOS_893,988922316,Inactive
+265937954,Dealer_894,Branch_91,411405,Pune,Maharashtra,Water Purifier,FOS_894,976721437,Inactive
+761411903,Dealer_895,Branch_28,411877,Pune,Maharashtra,Home Security Systems,FOS_895,973456413,Mod Active
+950071430,Dealer_896,Branch_86,411912,Pune,Maharashtra,Water Purifier,FOS_896,993499715,Inactive
+938730477,Dealer_897,Branch_49,411699,Pune,Maharashtra,Gyms And Spas,FOS_897,996641103,Active
+222953684,Dealer_898,Branch_3,411378,Pune,Maharashtra,Footwear,FOS_898,944169956,Mod Active
+324450090,Dealer_899,Branch_60,411238,Pune,Maharashtra,Diagnostics,FOS_899,908190491,Inactive
+984079858,Dealer_900,Branch_38,411456,Pune,Maharashtra,Tyres,FOS_900,934848934,Active
+936534390,Dealer_901,Branch_7,411237,Pune,Maharashtra,Pets Accessories,FOS_901,916897356,Active
+692600660,Dealer_902,Branch_98,411105,Pune,Maharashtra,Sports Equipment,FOS_902,936842402,Active
+815468403,Dealer_903,Branch_57,411950,Pune,Maharashtra,Musical Instruments,FOS_903,916581397,Active
+962019984,Dealer_904,Branch_5,411741,Pune,Maharashtra,Crockery And House Hold Items,FOS_904,946779275,Mod Active
+798971372,Dealer_905,Branch_79,411294,Pune,Maharashtra,Handicrafts,FOS_905,939926355,Mod Active
+492154258,Dealer_906,Branch_28,411922,Pune,Maharashtra,Musical Instruments,FOS_906,961039475,Active
+247231453,Dealer_907,Branch_34,411141,Pune,Maharashtra,Small Appliances,FOS_907,943762068,Mod Active
+345242296,Dealer_908,Branch_65,411441,Pune,Maharashtra,LFR,FOS_908,926105971,Inactive
+943054410,Dealer_909,Branch_2,411944,Pune,Maharashtra,Paints And Hardware,FOS_909,990806534,Active
+661799951,Dealer_910,Branch_79,411182,Pune,Maharashtra,E-Bike,FOS_910,937912198,Mod Active
+220058084,Dealer_911,Branch_54,411040,Pune,Maharashtra,Toys,FOS_911,955262787,Inactive
+200663085,Dealer_912,Branch_65,411945,Pune,Maharashtra,Others,FOS_912,974357432,Mod Active
+471306436,Dealer_913,Branch_98,411222,Pune,Maharashtra,Departmental Stores,FOS_913,950348246,Inactive
+451651123,Dealer_914,Branch_37,411980,Pune,Maharashtra,Departmental Stores,FOS_914,950264785,Mod Active
+901015238,Dealer_915,Branch_77,411876,Pune,Maharashtra,Paints And Hardware,FOS_915,937887396,Inactive
+573478102,Dealer_916,Branch_94,411222,Pune,Maharashtra,High End Stationery,FOS_916,927324893,Mod Active
+416679975,Dealer_917,Branch_52,411988,Pune,Maharashtra,Pharmacy,FOS_917,973741723,Active
+937174237,Dealer_918,Branch_82,411399,Pune,Maharashtra,Departmental Stores,FOS_918,922051111,Active
+590671951,Dealer_919,Branch_97,411673,Pune,Maharashtra,Crockery And House Hold Items,FOS_919,984622918,Inactive
+593509798,Dealer_920,Branch_28,411713,Pune,Maharashtra,Spa And Salon,FOS_920,951757905,Active
+360821869,Dealer_921,Branch_42,411182,Pune,Maharashtra,Cycles,FOS_921,956120820,Active
+696884096,Dealer_922,Branch_12,411242,Pune,Maharashtra,Apparels,FOS_922,951833731,Active
+842789686,Dealer_923,Branch_22,411611,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_923,941064792,Mod Active
+735387149,Dealer_924,Branch_73,411093,Pune,Maharashtra,Pharmacy,FOS_924,979323115,Active
+348768348,Dealer_925,Branch_61,411922,Pune,Maharashtra,Sports Equipment,FOS_925,976691856,Mod Active
+514010773,Dealer_926,Branch_60,411358,Pune,Maharashtra,Computer Accessories,FOS_926,973657530,Inactive
+606754151,Dealer_927,Branch_59,411955,Pune,Maharashtra,Hotels,FOS_927,985205937,Mod Active
+699801248,Dealer_928,Branch_92,411690,Pune,Maharashtra,Medical Accessories,FOS_928,945332413,Active
+346578170,Dealer_929,Branch_21,411522,Pune,Maharashtra,Watches,FOS_929,967308813,Mod Active
+665963824,Dealer_930,Branch_29,411024,Pune,Maharashtra,Eyewear,FOS_930,976359729,Inactive
+895376475,Dealer_931,Branch_64,411503,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_931,986195979,Mod Active
+675008170,Dealer_932,Branch_37,411448,Pune,Maharashtra,Sewing Machines.,FOS_932,928295931,Active
+673629767,Dealer_933,Branch_26,411329,Pune,Maharashtra,Pharmacy,FOS_933,923865683,Active
+769951432,Dealer_934,Branch_9,411271,Pune,Maharashtra,Large Applainces,FOS_934,975131352,Active
+647903521,Dealer_935,Branch_78,411915,Pune,Maharashtra,Eyewear,FOS_935,941221023,Active
+890164774,Dealer_936,Branch_98,411846,Pune,Maharashtra,High End Stationery,FOS_936,982741068,Active
+408001325,Dealer_937,Branch_51,411368,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_937,901612651,Inactive
+725313087,Dealer_938,Branch_35,411416,Pune,Maharashtra,Power Tools,FOS_938,978494069,Active
+586701103,Dealer_939,Branch_55,411788,Pune,Maharashtra,Medical Accessories,FOS_939,918201865,Active
+566833075,Dealer_940,Branch_5,411518,Pune,Maharashtra,Tyres,FOS_940,919923550,Inactive
+377754551,Dealer_941,Branch_42,411973,Pune,Maharashtra,Vehicle Care / Servicing,FOS_941,960365672,Inactive
+570721616,Dealer_942,Branch_30,411087,Pune,Maharashtra,Travel Agencies,FOS_942,976557916,Inactive
+853156071,Dealer_943,Branch_48,411502,Pune,Maharashtra,Diagnostics,FOS_943,945765157,Mod Active
+921408180,Dealer_944,Branch_16,411312,Pune,Maharashtra,Musical Instruments,FOS_944,983999613,Inactive
+952031897,Dealer_945,Branch_2,411189,Pune,Maharashtra,Sports Equipment,FOS_945,931397175,Inactive
+542697824,Dealer_946,Branch_4,411181,Pune,Maharashtra,Medical Accessories,FOS_946,997376407,Mod Active
+548276351,Dealer_947,Branch_80,411308,Pune,Maharashtra,Water Purifier,FOS_947,951103339,Inactive
+501658861,Dealer_948,Branch_42,411960,Pune,Maharashtra,Remi Gas Kit,FOS_948,932391744,Active
+159569871,Dealer_949,Branch_54,411257,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_949,944851917,Active
+971997156,Dealer_950,Branch_56,411030,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_950,954550934,Active
+384754245,Dealer_951,Branch_12,411316,Pune,Maharashtra,Medical Accessories,FOS_951,972966036,Active
+686440888,Dealer_952,Branch_67,411199,Pune,Maharashtra,Remi Gas Kit,FOS_952,918964946,Active
+258631680,Dealer_953,Branch_73,411248,Pune,Maharashtra,Medical Accessories,FOS_953,960865985,Inactive
+188836224,Dealer_954,Branch_53,411889,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_954,989847306,Mod Active
+740321221,Dealer_955,Branch_6,411360,Pune,Maharashtra,Apparels,FOS_955,903856631,Active
+949752642,Dealer_956,Branch_3,411461,Pune,Maharashtra,Gyms And Spas,FOS_956,972890615,Inactive
+769875149,Dealer_957,Branch_88,411290,Pune,Maharashtra,Others,FOS_957,930703468,Mod Active
+776717050,Dealer_958,Branch_10,411722,Pune,Maharashtra,Power Tools,FOS_958,992166966,Inactive
+115643670,Dealer_959,Branch_52,411407,Pune,Maharashtra,Lighting,FOS_959,945068400,Active
+381743250,Dealer_960,Branch_92,411498,Pune,Maharashtra,Eyewear,FOS_960,969296203,Active
+594779161,Dealer_961,Branch_23,411392,Pune,Maharashtra,Lighting,FOS_961,986941514,Active
+528831126,Dealer_962,Branch_44,411353,Pune,Maharashtra,Bike Accessories,FOS_962,907547852,Mod Active
+185092437,Dealer_963,Branch_77,411533,Pune,Maharashtra,Travel Agencies,FOS_963,913496846,Inactive
+730216988,Dealer_964,Branch_15,411717,Pune,Maharashtra,Pets Accessories,FOS_964,941757107,Inactive
+682114629,Dealer_965,Branch_27,411283,Pune,Maharashtra,Small Appliances,FOS_965,966003047,Active
+725089315,Dealer_966,Branch_7,411943,Pune,Maharashtra,Others,FOS_966,933818843,Active
+423111482,Dealer_967,Branch_47,411770,Pune,Maharashtra,LFR,FOS_967,961811177,Inactive
+978914266,Dealer_968,Branch_92,411607,Pune,Maharashtra,Small Appliances,FOS_968,987812004,Inactive
+914876344,Dealer_969,Branch_26,411115,Pune,Maharashtra,Others,FOS_969,974736658,Inactive
+564065464,Dealer_970,Branch_32,411899,Pune,Maharashtra,Travel Agencies,FOS_970,972269655,Inactive
+597367313,Dealer_971,Branch_73,411322,Pune,Maharashtra,Gyms And Spas,FOS_971,961261678,Mod Active
+484928869,Dealer_972,Branch_82,411813,Pune,Maharashtra,Home Security Systems,FOS_972,938111620,Mod Active
+840478083,Dealer_973,Branch_2,411598,Pune,Maharashtra,Toys,FOS_973,901683510,Mod Active
+790490433,Dealer_974,Branch_61,411643,Pune,Maharashtra,Handicrafts,FOS_974,943253261,Inactive
+754735464,Dealer_975,Branch_23,411705,Pune,Maharashtra,Hotels,FOS_975,984351625,Mod Active
+535287502,Dealer_976,Branch_65,411679,Pune,Maharashtra,Furnishing,FOS_976,971759722,Inactive
+504990395,Dealer_977,Branch_54,411032,Pune,Maharashtra,Hotels,FOS_977,973706267,Inactive
+867038317,Dealer_978,Branch_42,411058,Pune,Maharashtra,Power Tools,FOS_978,988530369,Inactive
+707070131,Dealer_979,Branch_9,411941,Pune,Maharashtra,Diagnostics,FOS_979,928638271,Active
+760244503,Dealer_980,Branch_28,411092,Pune,Maharashtra,Diagnostics,FOS_980,949640754,Mod Active
+855185842,Dealer_981,Branch_25,411972,Pune,Maharashtra,Hotels,FOS_981,915331145,Inactive
+217155988,Dealer_982,Branch_65,411489,Pune,Maharashtra,Diagnostics,FOS_982,981285128,Mod Active
+208926818,Dealer_983,Branch_52,411719,Pune,Maharashtra,Furnishing,FOS_983,935435892,Active
+185400954,Dealer_984,Branch_25,411139,Pune,Maharashtra,Toys,FOS_984,952257612,Active
+534104582,Dealer_985,Branch_2,411127,Pune,Maharashtra,Vehicle Care / Servicing,FOS_985,985065664,Inactive
+903502247,Dealer_986,Branch_35,411794,Pune,Maharashtra,Cycles,FOS_986,949496224,Active
+429289862,Dealer_987,Branch_4,411826,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_987,984690362,Mod Active
+954751508,Dealer_988,Branch_54,411406,Pune,Maharashtra,Toys,FOS_988,952397502,Active
+341476076,Dealer_989,Branch_78,411497,Pune,Maharashtra,Footwear,FOS_989,984090855,Inactive
+511888707,Dealer_990,Branch_3,411609,Pune,Maharashtra,Power Backup,FOS_990,957235697,Active
+705163122,Dealer_991,Branch_59,411888,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_991,922135787,Inactive
+821993774,Dealer_992,Branch_78,411394,Pune,Maharashtra,Large Applainces,FOS_992,938592443,Inactive
+627165876,Dealer_993,Branch_4,411527,Pune,Maharashtra,Pharmacy,FOS_993,913873036,Inactive
+729089580,Dealer_994,Branch_63,411464,Pune,Maharashtra,Cycles,FOS_994,954071510,Mod Active
+969060945,Dealer_995,Branch_58,411381,Pune,Maharashtra,Gyms And Spas,FOS_995,909784056,Mod Active
+267543766,Dealer_996,Branch_92,411468,Pune,Maharashtra,Spa And Salon,FOS_996,945929632,Inactive
+698316200,Dealer_997,Branch_12,411671,Pune,Maharashtra,Spa And Salon,FOS_997,970360826,Inactive
+388990835,Dealer_998,Branch_14,411328,Pune,Maharashtra,Cycles,FOS_998,951131215,Mod Active
+200196547,Dealer_999,Branch_12,411602,Pune,Maharashtra,Toys,FOS_999,955310861,Mod Active
+434522184,Dealer_1000,Branch_40,411388,Pune,Maharashtra,Gyms And Spas,FOS_1000,974163340,Mod Active
+217199659,Dealer_1001,Branch_74,411481,Pune,Maharashtra,Sewing Machines.,FOS_1001,985301299,Active
+148287211,Dealer_1002,Branch_8,411518,Pune,Maharashtra,Small Appliances,FOS_1002,925307721,Active
+342578229,Dealer_1003,Branch_40,411914,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1003,927589438,Mod Active
+916382989,Dealer_1004,Branch_61,411041,Pune,Maharashtra,Large Applainces,FOS_1004,992533328,Active
+434327551,Dealer_1005,Branch_52,411437,Pune,Maharashtra,Power Backup,FOS_1005,965216866,Mod Active
+697799311,Dealer_1006,Branch_29,411840,Pune,Maharashtra,Paints And Hardware,FOS_1006,953943549,Active
+841271705,Dealer_1007,Branch_19,411460,Pune,Maharashtra,Handicrafts,FOS_1007,995548624,Inactive
+315916087,Dealer_1008,Branch_88,411470,Pune,Maharashtra,Paints And Hardware,FOS_1008,978729247,Inactive
+761598963,Dealer_1009,Branch_25,411055,Pune,Maharashtra,Paints And Hardware,FOS_1009,902369907,Active
+774421287,Dealer_1010,Branch_29,411690,Pune,Maharashtra,Paints And Hardware,FOS_1010,988806029,Inactive
+430708580,Dealer_1011,Branch_98,411169,Pune,Maharashtra,Gyms And Spas,FOS_1011,927743231,Active
+635028950,Dealer_1012,Branch_82,411665,Pune,Maharashtra,Others,FOS_1012,950516427,Inactive
+452542413,Dealer_1013,Branch_50,411943,Pune,Maharashtra,Power Backup,FOS_1013,936208228,Active
+445219501,Dealer_1014,Branch_32,411979,Pune,Maharashtra,Others,FOS_1014,947429363,Mod Active
+778468605,Dealer_1015,Branch_95,411453,Pune,Maharashtra,Crockery And House Hold Items,FOS_1015,906806296,Inactive
+416708607,Dealer_1016,Branch_55,411541,Pune,Maharashtra,Crockery And House Hold Items,FOS_1016,967064601,Inactive
+755312997,Dealer_1017,Branch_35,411538,Pune,Maharashtra,Power Tools,FOS_1017,917890994,Active
+877762210,Dealer_1018,Branch_94,411918,Pune,Maharashtra,Others,FOS_1018,988001670,Mod Active
+800264614,Dealer_1019,Branch_86,411402,Pune,Maharashtra,LFR,FOS_1019,905810897,Inactive
+604194591,Dealer_1020,Branch_46,411518,Pune,Maharashtra,Large Applainces,FOS_1020,906275649,Inactive
+148007708,Dealer_1021,Branch_74,411136,Pune,Maharashtra,Toys,FOS_1021,959575539,Inactive
+253886998,Dealer_1022,Branch_46,411384,Pune,Maharashtra,Luggage,FOS_1022,978165815,Inactive
+770769546,Dealer_1023,Branch_55,411908,Pune,Maharashtra,Toys,FOS_1023,900077549,Active
+428846680,Dealer_1024,Branch_19,411451,Pune,Maharashtra,Power Backup,FOS_1024,963125809,Mod Active
+346849288,Dealer_1025,Branch_63,411121,Pune,Maharashtra,Pets Accessories,FOS_1025,943609539,Active
+898432981,Dealer_1026,Branch_74,411604,Pune,Maharashtra,Pharmacy,FOS_1026,911531631,Inactive
+837980984,Dealer_1027,Branch_54,411930,Pune,Maharashtra,Sports Equipment,FOS_1027,905539617,Inactive
+674483968,Dealer_1028,Branch_37,411964,Pune,Maharashtra,Eyewear,FOS_1028,902079918,Inactive
+559763092,Dealer_1029,Branch_78,411910,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1029,925791289,Active
+474462285,Dealer_1030,Branch_83,411649,Pune,Maharashtra,Others,FOS_1030,911077417,Active
+547967387,Dealer_1031,Branch_5,411926,Pune,Maharashtra,Diagnostics,FOS_1031,964559797,Inactive
+472566149,Dealer_1032,Branch_63,411139,Pune,Maharashtra,LFR,FOS_1032,930095713,Mod Active
+101701784,Dealer_1033,Branch_65,411195,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1033,924333500,Mod Active
+134057187,Dealer_1034,Branch_64,411349,Pune,Maharashtra,Luggage,FOS_1034,998089350,Mod Active
+270368365,Dealer_1035,Branch_47,411780,Pune,Maharashtra,E-Bike,FOS_1035,976109379,Active
+813000524,Dealer_1036,Branch_60,411979,Pune,Maharashtra,High End Stationery,FOS_1036,953195972,Active
+500033118,Dealer_1037,Branch_79,411041,Pune,Maharashtra,Insurance,FOS_1037,988228977,Active
+310685510,Dealer_1038,Branch_60,411200,Pune,Maharashtra,Others,FOS_1038,932572640,Inactive
+876100527,Dealer_1039,Branch_37,411382,Pune,Maharashtra,LFR,FOS_1039,960463369,Active
+809861159,Dealer_1040,Branch_35,411529,Pune,Maharashtra,Medical Accessories,FOS_1040,942451690,Mod Active
+254285393,Dealer_1041,Branch_84,411439,Pune,Maharashtra,E-Bike,FOS_1041,913516924,Mod Active
+709104465,Dealer_1042,Branch_35,411171,Pune,Maharashtra,Travel Agencies,FOS_1042,946312377,Mod Active
+565575625,Dealer_1043,Branch_66,411564,Pune,Maharashtra,Cycles,FOS_1043,999542479,Mod Active
+337078765,Dealer_1044,Branch_30,411745,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1044,982566179,Active
+338260791,Dealer_1045,Branch_76,411152,Pune,Maharashtra,Pets Accessories,FOS_1045,948051071,Inactive
+176109359,Dealer_1046,Branch_32,411764,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1046,983668956,Active
+263525154,Dealer_1047,Branch_90,411410,Pune,Maharashtra,Travel Agencies,FOS_1047,964063123,Inactive
+244450240,Dealer_1048,Branch_85,411464,Pune,Maharashtra,Furnishing,FOS_1048,986317491,Inactive
+746732944,Dealer_1049,Branch_32,411210,Pune,Maharashtra,Small Appliances,FOS_1049,906748334,Inactive
+167635036,Dealer_1050,Branch_97,411271,Pune,Maharashtra,Footwear,FOS_1050,969919315,Inactive
+806730102,Dealer_1051,Branch_82,411238,Pune,Maharashtra,Home Security Systems,FOS_1051,914915477,Active
+381999434,Dealer_1052,Branch_1,411372,Pune,Maharashtra,Eyewear,FOS_1052,913028665,Mod Active
+595933216,Dealer_1053,Branch_90,411444,Pune,Maharashtra,Sports Equipment,FOS_1053,969832099,Active
+448266202,Dealer_1054,Branch_9,411630,Pune,Maharashtra,Gyms And Spas,FOS_1054,912794581,Active
+842178032,Dealer_1055,Branch_52,411987,Pune,Maharashtra,Luggage,FOS_1055,917905701,Active
+682431362,Dealer_1056,Branch_62,411456,Pune,Maharashtra,Pets Accessories,FOS_1056,906138191,Mod Active
+787547477,Dealer_1057,Branch_16,411240,Pune,Maharashtra,E-Bike,FOS_1057,906936938,Inactive
+862943929,Dealer_1058,Branch_21,411384,Pune,Maharashtra,E-Bike,FOS_1058,967555217,Inactive
+712984377,Dealer_1059,Branch_57,411582,Pune,Maharashtra,Remi Gas Kit,FOS_1059,984577753,Active
+696193891,Dealer_1060,Branch_24,411372,Pune,Maharashtra,Travel Agencies,FOS_1060,921479346,Inactive
+846224765,Dealer_1061,Branch_34,411708,Pune,Maharashtra,Sports Equipment,FOS_1061,965193997,Active
+325136679,Dealer_1062,Branch_47,411206,Pune,Maharashtra,E-Bike,FOS_1062,996108861,Active
+865166327,Dealer_1063,Branch_47,411825,Pune,Maharashtra,LFR,FOS_1063,919651694,Mod Active
+633043160,Dealer_1064,Branch_54,411622,Pune,Maharashtra,Pets Accessories,FOS_1064,945180799,Mod Active
+800377148,Dealer_1065,Branch_20,411388,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1065,974066642,Active
+121321762,Dealer_1066,Branch_21,411739,Pune,Maharashtra,High End Stationery,FOS_1066,991585796,Active
+205069172,Dealer_1067,Branch_24,411059,Pune,Maharashtra,High End Stationery,FOS_1067,972216851,Active
+355218147,Dealer_1068,Branch_59,411416,Pune,Maharashtra,Power Tools,FOS_1068,975367810,Mod Active
+799355799,Dealer_1069,Branch_85,411673,Pune,Maharashtra,Luggage,FOS_1069,994150241,Inactive
+572187673,Dealer_1070,Branch_98,411890,Pune,Maharashtra,Sports Equipment,FOS_1070,922401295,Active
+280068477,Dealer_1071,Branch_30,411710,Pune,Maharashtra,Insurance,FOS_1071,979823083,Mod Active
+985841836,Dealer_1072,Branch_2,411903,Pune,Maharashtra,Small Appliances,FOS_1072,925519968,Active
+758855364,Dealer_1073,Branch_19,411877,Pune,Maharashtra,Cycles,FOS_1073,902321512,Mod Active
+466806016,Dealer_1074,Branch_42,411773,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1074,931123404,Inactive
+710743218,Dealer_1075,Branch_84,411649,Pune,Maharashtra,Toys,FOS_1075,938310467,Mod Active
+957298231,Dealer_1076,Branch_33,411645,Pune,Maharashtra,Crockery And House Hold Items,FOS_1076,995645066,Inactive
+265273589,Dealer_1077,Branch_45,411246,Pune,Maharashtra,Others,FOS_1077,908711742,Active
+262880407,Dealer_1078,Branch_75,411376,Pune,Maharashtra,Musical Instruments,FOS_1078,911341842,Active
+798222313,Dealer_1079,Branch_47,411311,Pune,Maharashtra,Tyres,FOS_1079,907253861,Active
+448363580,Dealer_1080,Branch_47,411542,Pune,Maharashtra,Hotels,FOS_1080,901754594,Inactive
+593323228,Dealer_1081,Branch_53,411587,Pune,Maharashtra,Computer Accessories,FOS_1081,979271165,Active
+865317251,Dealer_1082,Branch_89,411496,Pune,Maharashtra,Bike Accessories,FOS_1082,918296330,Active
+470426609,Dealer_1083,Branch_95,411834,Pune,Maharashtra,Toys,FOS_1083,943248412,Active
+893169688,Dealer_1084,Branch_72,411308,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1084,939912529,Active
+997097762,Dealer_1085,Branch_96,411589,Pune,Maharashtra,Small Appliances,FOS_1085,996641184,Active
+904160030,Dealer_1086,Branch_25,411824,Pune,Maharashtra,Footwear,FOS_1086,950969237,Inactive
+974258115,Dealer_1087,Branch_94,411950,Pune,Maharashtra,Watches,FOS_1087,933721839,Mod Active
+529329238,Dealer_1088,Branch_12,411301,Pune,Maharashtra,Pets Accessories,FOS_1088,986671702,Inactive
+684958430,Dealer_1089,Branch_86,411572,Pune,Maharashtra,Remi Gas Kit,FOS_1089,992725452,Mod Active
+119619152,Dealer_1090,Branch_55,411512,Pune,Maharashtra,Computer Accessories,FOS_1090,971333084,Inactive
+792696868,Dealer_1091,Branch_70,411858,Pune,Maharashtra,Large Applainces,FOS_1091,918036965,Mod Active
+472857772,Dealer_1092,Branch_79,411952,Pune,Maharashtra,Cycles,FOS_1092,929558060,Active
+388640419,Dealer_1093,Branch_23,411673,Pune,Maharashtra,Toys,FOS_1093,907747198,Mod Active
+244035461,Dealer_1094,Branch_62,411766,Pune,Maharashtra,Gyms And Spas,FOS_1094,996042123,Active
+772864695,Dealer_1095,Branch_72,411116,Pune,Maharashtra,Sewing Machines.,FOS_1095,932385081,Active
+137035669,Dealer_1096,Branch_84,411860,Pune,Maharashtra,Toys,FOS_1096,993516184,Active
+916634265,Dealer_1097,Branch_3,411611,Pune,Maharashtra,Musical Instruments,FOS_1097,963584087,Active
+490351556,Dealer_1098,Branch_82,411381,Pune,Maharashtra,Gyms And Spas,FOS_1098,917990347,Mod Active
+182625069,Dealer_1099,Branch_11,411860,Pune,Maharashtra,Others,FOS_1099,972018815,Inactive
+567331745,Dealer_1100,Branch_44,411664,Pune,Maharashtra,Pets Accessories,FOS_1100,968660534,Active
+671383362,Dealer_1101,Branch_9,411134,Pune,Maharashtra,Tyres,FOS_1101,921966881,Inactive
+109574320,Dealer_1102,Branch_16,411011,Pune,Maharashtra,Hotels,FOS_1102,904817799,Active
+445751980,Dealer_1103,Branch_80,411504,Pune,Maharashtra,Power Tools,FOS_1103,986920111,Active
+588527076,Dealer_1104,Branch_80,411577,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1104,913017619,Inactive
+364345558,Dealer_1105,Branch_54,411270,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1105,972603067,Active
+511826772,Dealer_1106,Branch_5,411313,Pune,Maharashtra,Cycles,FOS_1106,970052786,Mod Active
+474912898,Dealer_1107,Branch_15,411729,Pune,Maharashtra,Eyewear,FOS_1107,966259622,Inactive
+564439283,Dealer_1108,Branch_40,411201,Pune,Maharashtra,Furnishing,FOS_1108,940071240,Mod Active
+895360830,Dealer_1109,Branch_85,411133,Pune,Maharashtra,Handicrafts,FOS_1109,941382454,Active
+753556629,Dealer_1110,Branch_90,411750,Pune,Maharashtra,Gyms And Spas,FOS_1110,975197580,Active
+320394914,Dealer_1111,Branch_93,411687,Pune,Maharashtra,Small Appliances,FOS_1111,916522053,Active
+802472276,Dealer_1112,Branch_9,411441,Pune,Maharashtra,Insurance,FOS_1112,988045868,Active
+170709572,Dealer_1113,Branch_60,411515,Pune,Maharashtra,Travel Agencies,FOS_1113,911471430,Mod Active
+859531300,Dealer_1114,Branch_39,411500,Pune,Maharashtra,Power Backup,FOS_1114,968945055,Mod Active
+663490044,Dealer_1115,Branch_53,411505,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1115,967902787,Inactive
+788330281,Dealer_1116,Branch_35,411870,Pune,Maharashtra,Spa And Salon,FOS_1116,911823184,Active
+797020953,Dealer_1117,Branch_50,411324,Pune,Maharashtra,Power Backup,FOS_1117,985415398,Active
+835995702,Dealer_1118,Branch_20,411715,Pune,Maharashtra,Computer Accessories,FOS_1118,911700843,Mod Active
+668247142,Dealer_1119,Branch_47,411786,Pune,Maharashtra,Pets Accessories,FOS_1119,941952077,Active
+403926013,Dealer_1120,Branch_97,411911,Pune,Maharashtra,Insurance,FOS_1120,983473568,Mod Active
+986913868,Dealer_1121,Branch_16,411737,Pune,Maharashtra,Furnishing,FOS_1121,947813670,Active
+760443367,Dealer_1122,Branch_98,411433,Pune,Maharashtra,Power Tools,FOS_1122,957214529,Mod Active
+852100625,Dealer_1123,Branch_4,411260,Pune,Maharashtra,Cycles,FOS_1123,972350484,Active
+106777532,Dealer_1124,Branch_10,411556,Pune,Maharashtra,Spa And Salon,FOS_1124,945819343,Mod Active
+853827347,Dealer_1125,Branch_44,411338,Pune,Maharashtra,Power Backup,FOS_1125,966879264,Active
+589902615,Dealer_1126,Branch_27,411002,Pune,Maharashtra,Sports Equipment,FOS_1126,996881960,Inactive
+666629703,Dealer_1127,Branch_74,411888,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1127,920117161,Mod Active
+945305893,Dealer_1128,Branch_82,411594,Pune,Maharashtra,Tyres,FOS_1128,937622611,Mod Active
+733218667,Dealer_1129,Branch_71,411744,Pune,Maharashtra,Apparels,FOS_1129,937496781,Active
+476992516,Dealer_1130,Branch_98,411491,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1130,938411194,Inactive
+854361943,Dealer_1131,Branch_60,411953,Pune,Maharashtra,Spa And Salon,FOS_1131,951994462,Mod Active
+377574595,Dealer_1132,Branch_80,411623,Pune,Maharashtra,Musical Instruments,FOS_1132,923843587,Active
+670695198,Dealer_1133,Branch_73,411984,Pune,Maharashtra,Lighting,FOS_1133,936812597,Active
+942051298,Dealer_1134,Branch_81,411686,Pune,Maharashtra,Pharmacy,FOS_1134,903653391,Active
+160670557,Dealer_1135,Branch_37,411310,Pune,Maharashtra,Water Purifier,FOS_1135,954080748,Mod Active
+695726478,Dealer_1136,Branch_39,411504,Pune,Maharashtra,Small Appliances,FOS_1136,995827855,Active
+292258672,Dealer_1137,Branch_98,411463,Pune,Maharashtra,Remi Gas Kit,FOS_1137,917335577,Active
+563271886,Dealer_1138,Branch_10,411516,Pune,Maharashtra,High End Stationery,FOS_1138,910783004,Active
+187938085,Dealer_1139,Branch_74,411708,Pune,Maharashtra,Crockery And House Hold Items,FOS_1139,959276720,Mod Active
+308541646,Dealer_1140,Branch_37,411895,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1140,964962637,Inactive
+131208822,Dealer_1141,Branch_59,411390,Pune,Maharashtra,Insurance,FOS_1141,950734952,Active
+627107526,Dealer_1142,Branch_66,411620,Pune,Maharashtra,Watches,FOS_1142,952341053,Inactive
+413306221,Dealer_1143,Branch_9,411083,Pune,Maharashtra,Eyewear,FOS_1143,987643777,Inactive
+785314285,Dealer_1144,Branch_1,411676,Pune,Maharashtra,Sports Equipment,FOS_1144,972020565,Mod Active
+892550411,Dealer_1145,Branch_48,411358,Pune,Maharashtra,LFR,FOS_1145,981199000,Active
+381845381,Dealer_1146,Branch_81,411501,Pune,Maharashtra,Power Tools,FOS_1146,976608702,Mod Active
+894623955,Dealer_1147,Branch_29,411888,Pune,Maharashtra,Luggage,FOS_1147,918543848,Mod Active
+322723932,Dealer_1148,Branch_90,411268,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1148,944147629,Active
+670807004,Dealer_1149,Branch_81,411245,Pune,Maharashtra,Eyewear,FOS_1149,930187407,Active
+421903932,Dealer_1150,Branch_92,411321,Pune,Maharashtra,Others,FOS_1150,934093150,Active
+958326646,Dealer_1151,Branch_39,411119,Pune,Maharashtra,Toys,FOS_1151,975251659,Active
+884839928,Dealer_1152,Branch_87,411261,Pune,Maharashtra,Small Appliances,FOS_1152,961765475,Mod Active
+609925100,Dealer_1153,Branch_64,411519,Pune,Maharashtra,Computer Accessories,FOS_1153,994954437,Mod Active
+209074221,Dealer_1154,Branch_2,411038,Pune,Maharashtra,Diagnostics,FOS_1154,953647773,Active
+718536585,Dealer_1155,Branch_82,411497,Pune,Maharashtra,Musical Instruments,FOS_1155,995502687,Active
+206387483,Dealer_1156,Branch_52,411664,Pune,Maharashtra,LFR,FOS_1156,946844540,Inactive
+292334878,Dealer_1157,Branch_52,411200,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1157,989801902,Mod Active
+284003391,Dealer_1158,Branch_23,411246,Pune,Maharashtra,Departmental Stores,FOS_1158,900610984,Active
+199450905,Dealer_1159,Branch_72,411416,Pune,Maharashtra,Computer Accessories,FOS_1159,909790634,Mod Active
+150110801,Dealer_1160,Branch_98,411808,Pune,Maharashtra,Musical Instruments,FOS_1160,960491525,Mod Active
+882202815,Dealer_1161,Branch_42,411984,Pune,Maharashtra,Toys,FOS_1161,908626214,Mod Active
+961432218,Dealer_1162,Branch_56,411907,Pune,Maharashtra,High End Stationery,FOS_1162,955856192,Mod Active
+226447979,Dealer_1163,Branch_74,411966,Pune,Maharashtra,Diagnostics,FOS_1163,988438458,Inactive
+497834067,Dealer_1164,Branch_59,411700,Pune,Maharashtra,Power Backup,FOS_1164,934727891,Inactive
+599245398,Dealer_1165,Branch_22,411160,Pune,Maharashtra,Toys,FOS_1165,985431582,Active
+887687857,Dealer_1166,Branch_85,411801,Pune,Maharashtra,Insurance,FOS_1166,929590946,Mod Active
+883213215,Dealer_1167,Branch_39,411991,Pune,Maharashtra,Home Security Systems,FOS_1167,989254136,Mod Active
+513283637,Dealer_1168,Branch_3,411832,Pune,Maharashtra,Sewing Machines.,FOS_1168,903814034,Mod Active
+535210063,Dealer_1169,Branch_96,411028,Pune,Maharashtra,Luggage,FOS_1169,997246786,Active
+282580879,Dealer_1170,Branch_28,411964,Pune,Maharashtra,Spa And Salon,FOS_1170,940460190,Active
+238223367,Dealer_1171,Branch_58,411361,Pune,Maharashtra,Hotels,FOS_1171,963863604,Mod Active
+545000294,Dealer_1172,Branch_18,411229,Pune,Maharashtra,E-Bike,FOS_1172,972057814,Inactive
+109718233,Dealer_1173,Branch_12,411617,Pune,Maharashtra,Bike Accessories,FOS_1173,983691366,Inactive
+638510448,Dealer_1174,Branch_31,411955,Pune,Maharashtra,Spa And Salon,FOS_1174,908393036,Mod Active
+412813095,Dealer_1175,Branch_41,411436,Pune,Maharashtra,Bike Accessories,FOS_1175,928231669,Active
+441325025,Dealer_1176,Branch_88,411967,Pune,Maharashtra,Medical Accessories,FOS_1176,923785137,Mod Active
+110822711,Dealer_1177,Branch_94,411980,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1177,970741379,Inactive
+823298402,Dealer_1178,Branch_54,411864,Pune,Maharashtra,Pharmacy,FOS_1178,919832669,Mod Active
+996423862,Dealer_1179,Branch_56,411336,Pune,Maharashtra,Hotels,FOS_1179,920894766,Active
+261162805,Dealer_1180,Branch_89,411677,Pune,Maharashtra,Toys,FOS_1180,986321334,Mod Active
+618348019,Dealer_1181,Branch_96,411297,Pune,Maharashtra,Others,FOS_1181,988634556,Mod Active
+272074947,Dealer_1182,Branch_96,411903,Pune,Maharashtra,Eyewear,FOS_1182,911356475,Active
+103885241,Dealer_1183,Branch_93,411010,Pune,Maharashtra,Tyres,FOS_1183,943696691,Active
+172856730,Dealer_1184,Branch_37,411928,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1184,959194288,Inactive
+517137214,Dealer_1185,Branch_80,411565,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1185,927478584,Mod Active
+690225977,Dealer_1186,Branch_86,411834,Pune,Maharashtra,Tyres,FOS_1186,958992354,Active
+135044899,Dealer_1187,Branch_61,411930,Pune,Maharashtra,Water Purifier,FOS_1187,964120239,Active
+964353547,Dealer_1188,Branch_50,411480,Pune,Maharashtra,Remi Gas Kit,FOS_1188,988967785,Inactive
+452456446,Dealer_1189,Branch_99,411232,Pune,Maharashtra,Toys,FOS_1189,915748940,Active
+890968009,Dealer_1190,Branch_74,411370,Pune,Maharashtra,Departmental Stores,FOS_1190,904920514,Active
+354500511,Dealer_1191,Branch_27,411207,Pune,Maharashtra,Paints And Hardware,FOS_1191,952064950,Inactive
+558534687,Dealer_1192,Branch_20,411007,Pune,Maharashtra,Large Applainces,FOS_1192,914171174,Inactive
+635851470,Dealer_1193,Branch_80,411087,Pune,Maharashtra,Handicrafts,FOS_1193,941749915,Active
+113964322,Dealer_1194,Branch_91,411949,Pune,Maharashtra,Power Tools,FOS_1194,945576052,Active
+470430320,Dealer_1195,Branch_4,411088,Pune,Maharashtra,Spa And Salon,FOS_1195,954016463,Mod Active
+514141992,Dealer_1196,Branch_53,411315,Pune,Maharashtra,Departmental Stores,FOS_1196,929183195,Active
+325739469,Dealer_1197,Branch_88,411655,Pune,Maharashtra,Apparels,FOS_1197,913179270,Mod Active
+901027910,Dealer_1198,Branch_13,411643,Pune,Maharashtra,Medical Accessories,FOS_1198,988278178,Mod Active
+152977059,Dealer_1199,Branch_91,411699,Pune,Maharashtra,Crockery And House Hold Items,FOS_1199,986772447,Mod Active
+294550598,Dealer_1200,Branch_31,411626,Pune,Maharashtra,Sewing Machines.,FOS_1200,913787826,Active
+956791137,Dealer_1201,Branch_71,411918,Pune,Maharashtra,Pets Accessories,FOS_1201,973135494,Inactive
+375464425,Dealer_1202,Branch_59,411699,Pune,Maharashtra,Luggage,FOS_1202,924621097,Active
+437800004,Dealer_1203,Branch_26,411260,Pune,Maharashtra,Home Security Systems,FOS_1203,960033627,Mod Active
+329131508,Dealer_1204,Branch_48,411044,Pune,Maharashtra,Computer Accessories,FOS_1204,903751476,Active
+867954274,Dealer_1205,Branch_24,411656,Pune,Maharashtra,E-Bike,FOS_1205,917090910,Inactive
+671268924,Dealer_1206,Branch_2,411314,Pune,Maharashtra,Medical Accessories,FOS_1206,913944297,Active
+222649128,Dealer_1207,Branch_48,411088,Pune,Maharashtra,Small Appliances,FOS_1207,935816600,Mod Active
+314512010,Dealer_1208,Branch_64,411786,Pune,Maharashtra,Footwear,FOS_1208,951349384,Inactive
+780417567,Dealer_1209,Branch_58,411663,Pune,Maharashtra,Cycles,FOS_1209,932197247,Mod Active
+987075244,Dealer_1210,Branch_5,411816,Pune,Maharashtra,Sports Equipment,FOS_1210,980865111,Inactive
+339088284,Dealer_1211,Branch_21,411613,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1211,995629638,Inactive
+162432745,Dealer_1212,Branch_93,411531,Pune,Maharashtra,Travel Agencies,FOS_1212,920087191,Active
+459036166,Dealer_1213,Branch_7,411813,Pune,Maharashtra,Travel Agencies,FOS_1213,963562490,Inactive
+323578201,Dealer_1214,Branch_32,411756,Pune,Maharashtra,Small Appliances,FOS_1214,962765429,Mod Active
+459857757,Dealer_1215,Branch_2,411224,Pune,Maharashtra,Power Backup,FOS_1215,933140566,Inactive
+811427306,Dealer_1216,Branch_12,411717,Pune,Maharashtra,Footwear,FOS_1216,902416742,Inactive
+380432360,Dealer_1217,Branch_82,411449,Pune,Maharashtra,Diagnostics,FOS_1217,927618192,Inactive
+715067711,Dealer_1218,Branch_27,411364,Pune,Maharashtra,Pets Accessories,FOS_1218,949886378,Mod Active
+281297714,Dealer_1219,Branch_84,411647,Pune,Maharashtra,Gyms And Spas,FOS_1219,983054716,Active
+664023661,Dealer_1220,Branch_53,411970,Pune,Maharashtra,Toys,FOS_1220,937959147,Active
+729789895,Dealer_1221,Branch_62,411938,Pune,Maharashtra,Pets Accessories,FOS_1221,965520692,Mod Active
+215860224,Dealer_1222,Branch_87,411893,Pune,Maharashtra,Diagnostics,FOS_1222,929446997,Mod Active
+644596230,Dealer_1223,Branch_77,411929,Pune,Maharashtra,Handicrafts,FOS_1223,963439542,Active
+540659707,Dealer_1224,Branch_53,411005,Pune,Maharashtra,Furnishing,FOS_1224,907441644,Mod Active
+433644913,Dealer_1225,Branch_65,411103,Pune,Maharashtra,LFR,FOS_1225,922442250,Mod Active
+421429064,Dealer_1226,Branch_90,411798,Pune,Maharashtra,Pharmacy,FOS_1226,938092098,Inactive
+875000192,Dealer_1227,Branch_56,411439,Pune,Maharashtra,Diagnostics,FOS_1227,900422597,Mod Active
+811987328,Dealer_1228,Branch_31,411785,Pune,Maharashtra,Pets Accessories,FOS_1228,994989104,Mod Active
+354161170,Dealer_1229,Branch_36,411618,Pune,Maharashtra,Departmental Stores,FOS_1229,959727193,Mod Active
+268540540,Dealer_1230,Branch_50,411165,Pune,Maharashtra,Insurance,FOS_1230,943033465,Mod Active
+460973779,Dealer_1231,Branch_37,411446,Pune,Maharashtra,Tyres,FOS_1231,918366365,Mod Active
+167230241,Dealer_1232,Branch_31,411406,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1232,925220714,Mod Active
+335596402,Dealer_1233,Branch_49,411434,Pune,Maharashtra,Apparels,FOS_1233,941765455,Active
+931171165,Dealer_1234,Branch_66,411007,Pune,Maharashtra,Eyewear,FOS_1234,943118579,Mod Active
+194729482,Dealer_1235,Branch_96,411414,Pune,Maharashtra,Watches,FOS_1235,984114516,Inactive
+434778279,Dealer_1236,Branch_58,411141,Pune,Maharashtra,Hotels,FOS_1236,960966956,Inactive
+715073946,Dealer_1237,Branch_29,411039,Pune,Maharashtra,Large Applainces,FOS_1237,927560219,Mod Active
+260372175,Dealer_1238,Branch_60,411516,Pune,Maharashtra,Toys,FOS_1238,985086375,Active
+575583768,Dealer_1239,Branch_49,411896,Pune,Maharashtra,Departmental Stores,FOS_1239,944847830,Mod Active
+159999127,Dealer_1240,Branch_28,411839,Pune,Maharashtra,Travel Agencies,FOS_1240,998614967,Active
+798632517,Dealer_1241,Branch_31,411278,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1241,945822793,Mod Active
+741620182,Dealer_1242,Branch_46,411875,Pune,Maharashtra,Spa And Salon,FOS_1242,972577019,Mod Active
+318794400,Dealer_1243,Branch_39,411509,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1243,919779043,Mod Active
+252468323,Dealer_1244,Branch_31,411314,Pune,Maharashtra,Computer Accessories,FOS_1244,908990623,Active
+213714786,Dealer_1245,Branch_57,411880,Pune,Maharashtra,Computer Accessories,FOS_1245,972581900,Inactive
+501643259,Dealer_1246,Branch_43,411081,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1246,932872007,Inactive
+328400897,Dealer_1247,Branch_13,411964,Pune,Maharashtra,Home Security Systems,FOS_1247,936601615,Inactive
+421482827,Dealer_1248,Branch_6,411285,Pune,Maharashtra,Luggage,FOS_1248,990695818,Inactive
+315197256,Dealer_1249,Branch_97,411143,Pune,Maharashtra,Home Security Systems,FOS_1249,943456841,Inactive
+244329327,Dealer_1250,Branch_93,411103,Pune,Maharashtra,Pets Accessories,FOS_1250,984485922,Inactive
+778600943,Dealer_1251,Branch_63,411255,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1251,984198291,Mod Active
+244339785,Dealer_1252,Branch_49,411728,Pune,Maharashtra,Power Backup,FOS_1252,984371113,Inactive
+842822660,Dealer_1253,Branch_16,411168,Pune,Maharashtra,Furnishing,FOS_1253,964087585,Active
+192213051,Dealer_1254,Branch_69,411220,Pune,Maharashtra,Power Backup,FOS_1254,927846272,Active
+143020404,Dealer_1255,Branch_87,411246,Pune,Maharashtra,Pets Accessories,FOS_1255,935513423,Mod Active
+578896935,Dealer_1256,Branch_66,411604,Pune,Maharashtra,Pets Accessories,FOS_1256,946475402,Mod Active
+995447687,Dealer_1257,Branch_31,411081,Pune,Maharashtra,Medical Accessories,FOS_1257,918638003,Inactive
+332135004,Dealer_1258,Branch_33,411850,Pune,Maharashtra,Large Applainces,FOS_1258,946609551,Mod Active
+373219273,Dealer_1259,Branch_22,411691,Pune,Maharashtra,Remi Gas Kit,FOS_1259,903718845,Mod Active
+129156211,Dealer_1260,Branch_28,411960,Pune,Maharashtra,Pharmacy,FOS_1260,955842223,Mod Active
+359721452,Dealer_1261,Branch_54,411224,Pune,Maharashtra,Power Tools,FOS_1261,973271028,Active
+880247277,Dealer_1262,Branch_59,411526,Pune,Maharashtra,Sewing Machines.,FOS_1262,939306423,Inactive
+914412315,Dealer_1263,Branch_30,411818,Pune,Maharashtra,Diagnostics,FOS_1263,920232391,Active
+991293294,Dealer_1264,Branch_77,411505,Pune,Maharashtra,Sewing Machines.,FOS_1264,996264299,Inactive
+911416543,Dealer_1265,Branch_87,411845,Pune,Maharashtra,Luggage,FOS_1265,984075134,Mod Active
+347211622,Dealer_1266,Branch_9,411987,Pune,Maharashtra,Handicrafts,FOS_1266,969345864,Active
+990095858,Dealer_1267,Branch_57,411877,Pune,Maharashtra,Power Tools,FOS_1267,992282955,Mod Active
+879843854,Dealer_1268,Branch_72,411280,Pune,Maharashtra,Large Applainces,FOS_1268,938205700,Mod Active
+446400612,Dealer_1269,Branch_60,411477,Pune,Maharashtra,Pharmacy,FOS_1269,900329257,Mod Active
+346340213,Dealer_1270,Branch_75,411557,Pune,Maharashtra,Gyms And Spas,FOS_1270,984289475,Mod Active
+571729408,Dealer_1271,Branch_39,411175,Pune,Maharashtra,Power Backup,FOS_1271,952683691,Inactive
+272773145,Dealer_1272,Branch_38,411992,Pune,Maharashtra,Tyres,FOS_1272,963306618,Mod Active
+592597476,Dealer_1273,Branch_52,411429,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1273,962658910,Active
+261866538,Dealer_1274,Branch_41,411826,Pune,Maharashtra,Computer Accessories,FOS_1274,996037459,Mod Active
+114204055,Dealer_1275,Branch_32,411787,Pune,Maharashtra,Sports Equipment,FOS_1275,970607943,Active
+101633606,Dealer_1276,Branch_72,411292,Pune,Maharashtra,Travel Agencies,FOS_1276,997231234,Mod Active
+678417161,Dealer_1277,Branch_22,411700,Pune,Maharashtra,Pharmacy,FOS_1277,991728997,Inactive
+906977677,Dealer_1278,Branch_82,411826,Pune,Maharashtra,Pets Accessories,FOS_1278,932932861,Inactive
+512527638,Dealer_1279,Branch_49,411116,Pune,Maharashtra,Small Appliances,FOS_1279,989049125,Active
+728940055,Dealer_1280,Branch_41,411091,Pune,Maharashtra,Travel Agencies,FOS_1280,941732223,Active
+607917238,Dealer_1281,Branch_33,411934,Pune,Maharashtra,E-Bike,FOS_1281,923769697,Active
+759502592,Dealer_1282,Branch_96,411670,Pune,Maharashtra,LFR,FOS_1282,944880911,Active
+400245722,Dealer_1283,Branch_91,411166,Pune,Maharashtra,LFR,FOS_1283,974405570,Active
+735878370,Dealer_1284,Branch_10,411099,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1284,940073447,Active
+568453099,Dealer_1285,Branch_64,411424,Pune,Maharashtra,Cycles,FOS_1285,969773226,Inactive
+246558340,Dealer_1286,Branch_56,411032,Pune,Maharashtra,Departmental Stores,FOS_1286,988120473,Inactive
+814157268,Dealer_1287,Branch_55,411333,Pune,Maharashtra,Power Tools,FOS_1287,974950085,Mod Active
+469259455,Dealer_1288,Branch_41,411458,Pune,Maharashtra,Travel Agencies,FOS_1288,947818925,Mod Active
+427900798,Dealer_1289,Branch_35,411002,Pune,Maharashtra,Tyres,FOS_1289,959665330,Mod Active
+921728575,Dealer_1290,Branch_21,411419,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1290,956526595,Active
+444376443,Dealer_1291,Branch_35,411396,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1291,993722727,Inactive
+213788840,Dealer_1292,Branch_85,411031,Pune,Maharashtra,Furnishing,FOS_1292,938487367,Inactive
+434419142,Dealer_1293,Branch_77,411111,Pune,Maharashtra,Paints And Hardware,FOS_1293,978164439,Active
+371861305,Dealer_1294,Branch_73,411904,Pune,Maharashtra,Cycles,FOS_1294,966998101,Active
+836098532,Dealer_1295,Branch_9,411286,Pune,Maharashtra,Spa And Salon,FOS_1295,934070333,Mod Active
+935782050,Dealer_1296,Branch_62,411065,Pune,Maharashtra,Home Security Systems,FOS_1296,913974962,Inactive
+180907587,Dealer_1297,Branch_24,411740,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1297,959216496,Mod Active
+890786568,Dealer_1298,Branch_48,411409,Pune,Maharashtra,Power Tools,FOS_1298,970718981,Inactive
+620805272,Dealer_1299,Branch_42,411923,Pune,Maharashtra,Travel Agencies,FOS_1299,976280036,Mod Active
+211029158,Dealer_1300,Branch_99,411791,Pune,Maharashtra,Pharmacy,FOS_1300,959713681,Mod Active
+390544894,Dealer_1301,Branch_48,411353,Pune,Maharashtra,Departmental Stores,FOS_1301,972287709,Inactive
+163630600,Dealer_1302,Branch_97,411042,Pune,Maharashtra,Lighting,FOS_1302,968669920,Mod Active
+221277008,Dealer_1303,Branch_69,411435,Pune,Maharashtra,Hotels,FOS_1303,916503515,Active
+170610789,Dealer_1304,Branch_91,411814,Pune,Maharashtra,Footwear,FOS_1304,952537848,Inactive
+533259661,Dealer_1305,Branch_43,411859,Pune,Maharashtra,E-Bike,FOS_1305,994917655,Active
+215698813,Dealer_1306,Branch_78,411654,Pune,Maharashtra,Bike Accessories,FOS_1306,948753130,Active
+547955624,Dealer_1307,Branch_72,411622,Pune,Maharashtra,Power Backup,FOS_1307,902705537,Mod Active
+259296892,Dealer_1308,Branch_51,411393,Pune,Maharashtra,Travel Agencies,FOS_1308,974959421,Inactive
+300847448,Dealer_1309,Branch_77,411626,Pune,Maharashtra,Eyewear,FOS_1309,992837587,Active
+514304452,Dealer_1310,Branch_23,411390,Pune,Maharashtra,Toys,FOS_1310,991448578,Active
+257606023,Dealer_1311,Branch_5,411817,Pune,Maharashtra,Remi Gas Kit,FOS_1311,971808315,Mod Active
+970021169,Dealer_1312,Branch_19,411272,Pune,Maharashtra,Power Tools,FOS_1312,965419453,Inactive
+242650058,Dealer_1313,Branch_53,411089,Pune,Maharashtra,High End Stationery,FOS_1313,904218323,Mod Active
+709077987,Dealer_1314,Branch_68,411287,Pune,Maharashtra,Luggage,FOS_1314,989934650,Inactive
+104270257,Dealer_1315,Branch_60,411232,Pune,Maharashtra,Sports Equipment,FOS_1315,981311505,Active
+877554964,Dealer_1316,Branch_41,411508,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1316,980017929,Inactive
+458572487,Dealer_1317,Branch_70,411697,Pune,Maharashtra,Home Security Systems,FOS_1317,951832884,Mod Active
+562340629,Dealer_1318,Branch_71,411286,Pune,Maharashtra,Sports Equipment,FOS_1318,920247565,Active
+126837565,Dealer_1319,Branch_52,411232,Pune,Maharashtra,Home Security Systems,FOS_1319,997547311,Mod Active
+557437457,Dealer_1320,Branch_2,411990,Pune,Maharashtra,Watches,FOS_1320,965436694,Active
+294544101,Dealer_1321,Branch_34,411767,Pune,Maharashtra,Paints And Hardware,FOS_1321,931918843,Inactive
+534430528,Dealer_1322,Branch_54,411291,Pune,Maharashtra,Pets Accessories,FOS_1322,952404214,Inactive
+940500765,Dealer_1323,Branch_40,411972,Pune,Maharashtra,Sewing Machines.,FOS_1323,986681680,Inactive
+681276394,Dealer_1324,Branch_58,411220,Pune,Maharashtra,Gyms And Spas,FOS_1324,972343590,Inactive
+900064609,Dealer_1325,Branch_81,411739,Pune,Maharashtra,Bike Accessories,FOS_1325,960807437,Mod Active
+909540525,Dealer_1326,Branch_8,411198,Pune,Maharashtra,Home Security Systems,FOS_1326,919417237,Mod Active
+975926670,Dealer_1327,Branch_11,411763,Pune,Maharashtra,Handicrafts,FOS_1327,927850457,Inactive
+270306694,Dealer_1328,Branch_46,411701,Pune,Maharashtra,Power Backup,FOS_1328,915043189,Active
+877728212,Dealer_1329,Branch_11,411044,Pune,Maharashtra,Luggage,FOS_1329,924261511,Active
+947001340,Dealer_1330,Branch_9,411979,Pune,Maharashtra,E-Bike,FOS_1330,937665579,Inactive
+278093845,Dealer_1331,Branch_57,411516,Pune,Maharashtra,Small Appliances,FOS_1331,950430334,Mod Active
+277569582,Dealer_1332,Branch_55,411121,Pune,Maharashtra,Paints And Hardware,FOS_1332,961663629,Inactive
+355312572,Dealer_1333,Branch_76,411513,Pune,Maharashtra,Cycles,FOS_1333,996303157,Active
+569158827,Dealer_1334,Branch_58,411687,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1334,941035173,Active
+282213647,Dealer_1335,Branch_54,411707,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1335,940954996,Active
+456759587,Dealer_1336,Branch_23,411595,Pune,Maharashtra,Furnishing,FOS_1336,909320696,Inactive
+387881154,Dealer_1337,Branch_7,411825,Pune,Maharashtra,Pets Accessories,FOS_1337,905184469,Inactive
+227921960,Dealer_1338,Branch_93,411019,Pune,Maharashtra,Furnishing,FOS_1338,912669119,Mod Active
+852357639,Dealer_1339,Branch_98,411468,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1339,955870332,Inactive
+942825898,Dealer_1340,Branch_77,411466,Pune,Maharashtra,Hotels,FOS_1340,981079799,Inactive
+300309009,Dealer_1341,Branch_58,411890,Pune,Maharashtra,Furnishing,FOS_1341,956663454,Active
+252040031,Dealer_1342,Branch_13,411102,Pune,Maharashtra,Water Purifier,FOS_1342,998354617,Mod Active
+240732961,Dealer_1343,Branch_46,411110,Pune,Maharashtra,Large Applainces,FOS_1343,931340548,Mod Active
+900055173,Dealer_1344,Branch_94,411322,Pune,Maharashtra,Power Backup,FOS_1344,932239970,Inactive
+347386208,Dealer_1345,Branch_54,411900,Pune,Maharashtra,Sports Equipment,FOS_1345,907825815,Active
+980461002,Dealer_1346,Branch_16,411863,Pune,Maharashtra,Remi Gas Kit,FOS_1346,936581101,Inactive
+471339211,Dealer_1347,Branch_4,411777,Pune,Maharashtra,Remi Gas Kit,FOS_1347,978981982,Active
+861625135,Dealer_1348,Branch_98,411184,Pune,Maharashtra,Sewing Machines.,FOS_1348,959594390,Inactive
+277278231,Dealer_1349,Branch_68,411948,Pune,Maharashtra,Eyewear,FOS_1349,914458066,Active
+760881027,Dealer_1350,Branch_85,411229,Pune,Maharashtra,Gyms And Spas,FOS_1350,977727508,Mod Active
+970226164,Dealer_1351,Branch_5,411928,Pune,Maharashtra,Bike Accessories,FOS_1351,995420801,Inactive
+129472044,Dealer_1352,Branch_97,411906,Pune,Maharashtra,Sports Equipment,FOS_1352,933493437,Active
+670078354,Dealer_1353,Branch_90,411544,Pune,Maharashtra,LFR,FOS_1353,989163024,Inactive
+271249858,Dealer_1354,Branch_36,411992,Pune,Maharashtra,Musical Instruments,FOS_1354,938733455,Inactive
+392924291,Dealer_1355,Branch_8,411764,Pune,Maharashtra,Hotels,FOS_1355,998559956,Active
+682566815,Dealer_1356,Branch_38,411804,Pune,Maharashtra,Watches,FOS_1356,973927755,Active
+218541491,Dealer_1357,Branch_46,411156,Pune,Maharashtra,Remi Gas Kit,FOS_1357,994567428,Mod Active
+174890829,Dealer_1358,Branch_76,411621,Pune,Maharashtra,Toys,FOS_1358,927807782,Mod Active
+578983886,Dealer_1359,Branch_87,411057,Pune,Maharashtra,Insurance,FOS_1359,919255200,Mod Active
+409643228,Dealer_1360,Branch_31,411578,Pune,Maharashtra,Furnishing,FOS_1360,968350533,Mod Active
+958777129,Dealer_1361,Branch_17,411638,Pune,Maharashtra,Computer Accessories,FOS_1361,939481033,Inactive
+980652289,Dealer_1362,Branch_89,411222,Pune,Maharashtra,Large Applainces,FOS_1362,990762829,Mod Active
+919448279,Dealer_1363,Branch_29,411422,Pune,Maharashtra,Handicrafts,FOS_1363,915218354,Mod Active
+775378505,Dealer_1364,Branch_34,411399,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1364,967399728,Inactive
+774600553,Dealer_1365,Branch_35,411503,Pune,Maharashtra,Musical Instruments,FOS_1365,907963768,Mod Active
+387877869,Dealer_1366,Branch_47,411531,Pune,Maharashtra,Tyres,FOS_1366,962326098,Active
+327449270,Dealer_1367,Branch_80,411704,Pune,Maharashtra,Spa And Salon,FOS_1367,921334245,Active
+621014241,Dealer_1368,Branch_95,411485,Pune,Maharashtra,Pets Accessories,FOS_1368,903559337,Mod Active
+842054466,Dealer_1369,Branch_35,411529,Pune,Maharashtra,Toys,FOS_1369,938883679,Inactive
+670378782,Dealer_1370,Branch_70,411142,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1370,940319831,Inactive
+200246809,Dealer_1371,Branch_40,411677,Pune,Maharashtra,Sewing Machines.,FOS_1371,963480173,Active
+459738611,Dealer_1372,Branch_38,411922,Pune,Maharashtra,Musical Instruments,FOS_1372,908831402,Mod Active
+296351829,Dealer_1373,Branch_22,411148,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1373,962921104,Active
+374118004,Dealer_1374,Branch_60,411984,Pune,Maharashtra,Water Purifier,FOS_1374,909648702,Mod Active
+224183999,Dealer_1375,Branch_89,411557,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1375,967530329,Active
+735690228,Dealer_1376,Branch_62,411865,Pune,Maharashtra,Pharmacy,FOS_1376,989510306,Mod Active
+454181336,Dealer_1377,Branch_69,411651,Pune,Maharashtra,E-Bike,FOS_1377,968965041,Mod Active
+493002673,Dealer_1378,Branch_28,411608,Pune,Maharashtra,E-Bike,FOS_1378,941543014,Active
+602944963,Dealer_1379,Branch_51,411025,Pune,Maharashtra,Eyewear,FOS_1379,941589208,Active
+573959133,Dealer_1380,Branch_76,411479,Pune,Maharashtra,LFR,FOS_1380,967919885,Mod Active
+736651560,Dealer_1381,Branch_54,411936,Pune,Maharashtra,Diagnostics,FOS_1381,930051235,Inactive
+108605372,Dealer_1382,Branch_65,411650,Pune,Maharashtra,Apparels,FOS_1382,987833282,Inactive
+270874799,Dealer_1383,Branch_54,411379,Pune,Maharashtra,Handicrafts,FOS_1383,927280443,Inactive
+266549750,Dealer_1384,Branch_5,411189,Pune,Maharashtra,Gyms And Spas,FOS_1384,962903623,Mod Active
+909148940,Dealer_1385,Branch_8,411684,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1385,999263561,Mod Active
+192599273,Dealer_1386,Branch_91,411771,Pune,Maharashtra,Toys,FOS_1386,962924999,Active
+703178673,Dealer_1387,Branch_71,411758,Pune,Maharashtra,Luggage,FOS_1387,961734642,Mod Active
+409703203,Dealer_1388,Branch_50,411144,Pune,Maharashtra,Medical Accessories,FOS_1388,978292475,Inactive
+172481041,Dealer_1389,Branch_15,411670,Pune,Maharashtra,Water Purifier,FOS_1389,994749991,Inactive
+701454062,Dealer_1390,Branch_41,411046,Pune,Maharashtra,Water Purifier,FOS_1390,955649058,Mod Active
+628871476,Dealer_1391,Branch_11,411748,Pune,Maharashtra,Travel Agencies,FOS_1391,913030317,Inactive
+675979173,Dealer_1392,Branch_35,411761,Pune,Maharashtra,Handicrafts,FOS_1392,920103772,Mod Active
+860651435,Dealer_1393,Branch_30,411455,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1393,968284819,Mod Active
+807259732,Dealer_1394,Branch_16,411857,Pune,Maharashtra,Insurance,FOS_1394,962673686,Active
+654340866,Dealer_1395,Branch_91,411905,Pune,Maharashtra,Pets Accessories,FOS_1395,966769612,Mod Active
+851213752,Dealer_1396,Branch_17,411821,Pune,Maharashtra,Crockery And House Hold Items,FOS_1396,954112731,Mod Active
+469959002,Dealer_1397,Branch_99,411340,Pune,Maharashtra,Pharmacy,FOS_1397,970915808,Mod Active
+803634008,Dealer_1398,Branch_92,411215,Pune,Maharashtra,Hotels,FOS_1398,937934207,Active
+198161882,Dealer_1399,Branch_29,411151,Pune,Maharashtra,Small Appliances,FOS_1399,972653379,Active
+950298637,Dealer_1400,Branch_42,411889,Pune,Maharashtra,Insurance,FOS_1400,943735261,Mod Active
+371322474,Dealer_1401,Branch_77,411617,Pune,Maharashtra,Home Security Systems,FOS_1401,996620213,Inactive
+410364870,Dealer_1402,Branch_42,411500,Pune,Maharashtra,Paints And Hardware,FOS_1402,925225463,Mod Active
+304487959,Dealer_1403,Branch_50,411352,Pune,Maharashtra,Departmental Stores,FOS_1403,942130871,Inactive
+566285849,Dealer_1404,Branch_77,411400,Pune,Maharashtra,Hotels,FOS_1404,927703483,Inactive
+783003384,Dealer_1405,Branch_4,411880,Pune,Maharashtra,Eyewear,FOS_1405,939438311,Inactive
+444113575,Dealer_1406,Branch_38,411235,Pune,Maharashtra,Pharmacy,FOS_1406,913168697,Mod Active
+767066571,Dealer_1407,Branch_39,411385,Pune,Maharashtra,Remi Gas Kit,FOS_1407,940029178,Active
+361587229,Dealer_1408,Branch_2,411568,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1408,977946331,Active
+496436041,Dealer_1409,Branch_84,411090,Pune,Maharashtra,Power Tools,FOS_1409,943267470,Inactive
+600807216,Dealer_1410,Branch_26,411752,Pune,Maharashtra,Pharmacy,FOS_1410,915029387,Active
+291466451,Dealer_1411,Branch_42,411809,Pune,Maharashtra,Medical Accessories,FOS_1411,971482201,Active
+913302730,Dealer_1412,Branch_98,411612,Pune,Maharashtra,Lighting,FOS_1412,985701500,Active
+710896610,Dealer_1413,Branch_46,411786,Pune,Maharashtra,Handicrafts,FOS_1413,944363738,Inactive
+577328020,Dealer_1414,Branch_72,411576,Pune,Maharashtra,LFR,FOS_1414,925944393,Inactive
+691024101,Dealer_1415,Branch_1,411423,Pune,Maharashtra,LFR,FOS_1415,914986632,Inactive
+614647329,Dealer_1416,Branch_96,411550,Pune,Maharashtra,Sewing Machines.,FOS_1416,947571188,Inactive
+296669109,Dealer_1417,Branch_37,411249,Pune,Maharashtra,Remi Gas Kit,FOS_1417,949511866,Inactive
+344488206,Dealer_1418,Branch_99,411556,Pune,Maharashtra,Hotels,FOS_1418,979667751,Mod Active
+379168659,Dealer_1419,Branch_76,411292,Pune,Maharashtra,Musical Instruments,FOS_1419,940857947,Active
+910695749,Dealer_1420,Branch_21,411026,Pune,Maharashtra,E-Bike,FOS_1420,986733656,Active
+360088374,Dealer_1421,Branch_47,411307,Pune,Maharashtra,Gyms And Spas,FOS_1421,939966265,Mod Active
+232266358,Dealer_1422,Branch_57,411765,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1422,955206142,Inactive
+919583284,Dealer_1423,Branch_32,411506,Pune,Maharashtra,Crockery And House Hold Items,FOS_1423,959319020,Active
+809689965,Dealer_1424,Branch_12,411220,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1424,934211925,Mod Active
+873918555,Dealer_1425,Branch_95,411965,Pune,Maharashtra,Eyewear,FOS_1425,987471108,Mod Active
+622113204,Dealer_1426,Branch_32,411744,Pune,Maharashtra,Departmental Stores,FOS_1426,996970457,Active
+402399241,Dealer_1427,Branch_9,411083,Pune,Maharashtra,Large Applainces,FOS_1427,927969262,Active
+811414546,Dealer_1428,Branch_52,411401,Pune,Maharashtra,Remi Gas Kit,FOS_1428,944884310,Inactive
+949524688,Dealer_1429,Branch_74,411694,Pune,Maharashtra,Lighting,FOS_1429,931401704,Inactive
+456360870,Dealer_1430,Branch_95,411212,Pune,Maharashtra,Departmental Stores,FOS_1430,907432089,Mod Active
+588445334,Dealer_1431,Branch_70,411374,Pune,Maharashtra,Toys,FOS_1431,975005796,Mod Active
+587339463,Dealer_1432,Branch_63,411656,Pune,Maharashtra,Lighting,FOS_1432,909247550,Inactive
+975594767,Dealer_1433,Branch_12,411216,Pune,Maharashtra,Spa And Salon,FOS_1433,966580224,Inactive
+569251487,Dealer_1434,Branch_69,411603,Pune,Maharashtra,Pets Accessories,FOS_1434,941307260,Active
+999310928,Dealer_1435,Branch_31,411788,Pune,Maharashtra,Water Purifier,FOS_1435,927317431,Active
+630489803,Dealer_1436,Branch_25,411835,Pune,Maharashtra,Home Security Systems,FOS_1436,915909781,Mod Active
+929628974,Dealer_1437,Branch_65,411949,Pune,Maharashtra,Lighting,FOS_1437,992215256,Active
+793147298,Dealer_1438,Branch_48,411249,Pune,Maharashtra,Pharmacy,FOS_1438,989991836,Active
+628226128,Dealer_1439,Branch_42,411824,Pune,Maharashtra,Power Backup,FOS_1439,963218367,Active
+448601107,Dealer_1440,Branch_81,411464,Pune,Maharashtra,Computer Accessories,FOS_1440,976644964,Mod Active
+957399447,Dealer_1441,Branch_63,411600,Pune,Maharashtra,Computer Accessories,FOS_1441,964039211,Inactive
+944482375,Dealer_1442,Branch_73,411132,Pune,Maharashtra,LFR,FOS_1442,959203914,Inactive
+552521220,Dealer_1443,Branch_57,411078,Pune,Maharashtra,Sports Equipment,FOS_1443,931392371,Mod Active
+671987037,Dealer_1444,Branch_71,411617,Pune,Maharashtra,Power Tools,FOS_1444,971449295,Active
+239611014,Dealer_1445,Branch_7,411481,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1445,968817281,Mod Active
+249294285,Dealer_1446,Branch_42,411022,Pune,Maharashtra,Remi Gas Kit,FOS_1446,941525735,Mod Active
+174456189,Dealer_1447,Branch_76,411955,Pune,Maharashtra,Large Applainces,FOS_1447,970558272,Inactive
+976132232,Dealer_1448,Branch_32,411182,Pune,Maharashtra,Tyres,FOS_1448,905054123,Active
+110123177,Dealer_1449,Branch_1,411260,Pune,Maharashtra,Furnishing,FOS_1449,918311395,Inactive
+367439128,Dealer_1450,Branch_2,411266,Pune,Maharashtra,Apparels,FOS_1450,905256386,Inactive
+926818655,Dealer_1451,Branch_51,411798,Pune,Maharashtra,Departmental Stores,FOS_1451,909509666,Inactive
+477464288,Dealer_1452,Branch_73,411495,Pune,Maharashtra,Power Tools,FOS_1452,902091435,Inactive
+163163297,Dealer_1453,Branch_83,411226,Pune,Maharashtra,Power Tools,FOS_1453,988752376,Mod Active
+155779142,Dealer_1454,Branch_23,411853,Pune,Maharashtra,Hotels,FOS_1454,913990608,Mod Active
+921191037,Dealer_1455,Branch_27,411539,Pune,Maharashtra,Departmental Stores,FOS_1455,921118354,Mod Active
+681880053,Dealer_1456,Branch_49,411210,Pune,Maharashtra,Sports Equipment,FOS_1456,912436540,Mod Active
+654975724,Dealer_1457,Branch_58,411160,Pune,Maharashtra,Toys,FOS_1457,908598317,Active
+781831554,Dealer_1458,Branch_30,411338,Pune,Maharashtra,Footwear,FOS_1458,970129679,Inactive
+852577422,Dealer_1459,Branch_86,411433,Pune,Maharashtra,Sewing Machines.,FOS_1459,912927761,Mod Active
+482470069,Dealer_1460,Branch_23,411059,Pune,Maharashtra,Gyms And Spas,FOS_1460,965933887,Active
+704986587,Dealer_1461,Branch_44,411099,Pune,Maharashtra,Musical Instruments,FOS_1461,997397419,Active
+686144897,Dealer_1462,Branch_21,411354,Pune,Maharashtra,Computer Accessories,FOS_1462,926963649,Mod Active
+403793650,Dealer_1463,Branch_65,411197,Pune,Maharashtra,Crockery And House Hold Items,FOS_1463,976620227,Inactive
+493999578,Dealer_1464,Branch_29,411055,Pune,Maharashtra,Crockery And House Hold Items,FOS_1464,908396682,Mod Active
+924748512,Dealer_1465,Branch_3,411717,Pune,Maharashtra,Hotels,FOS_1465,927488439,Active
+222902920,Dealer_1466,Branch_67,411883,Pune,Maharashtra,Home Security Systems,FOS_1466,920533904,Mod Active
+747800223,Dealer_1467,Branch_82,411644,Pune,Maharashtra,Toys,FOS_1467,910964956,Mod Active
+928937650,Dealer_1468,Branch_64,411911,Pune,Maharashtra,Furnishing,FOS_1468,954175028,Mod Active
+363040564,Dealer_1469,Branch_25,411464,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1469,966356043,Mod Active
+769960038,Dealer_1470,Branch_22,411285,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1470,923306319,Active
+277322067,Dealer_1471,Branch_81,411028,Pune,Maharashtra,Eyewear,FOS_1471,972987338,Mod Active
+608829088,Dealer_1472,Branch_2,411040,Pune,Maharashtra,Hotels,FOS_1472,959229952,Active
+919498201,Dealer_1473,Branch_82,411769,Pune,Maharashtra,Gyms And Spas,FOS_1473,948513348,Mod Active
+325073687,Dealer_1474,Branch_78,411365,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1474,945202114,Mod Active
+469809977,Dealer_1475,Branch_33,411452,Pune,Maharashtra,Computer Accessories,FOS_1475,967003410,Active
+872423157,Dealer_1476,Branch_96,411913,Pune,Maharashtra,E-Bike,FOS_1476,931376981,Inactive
+248902541,Dealer_1477,Branch_96,411156,Pune,Maharashtra,Hotels,FOS_1477,940118958,Mod Active
+276162009,Dealer_1478,Branch_55,411255,Pune,Maharashtra,High End Stationery,FOS_1478,923751253,Mod Active
+333355581,Dealer_1479,Branch_67,411201,Pune,Maharashtra,Watches,FOS_1479,973951256,Mod Active
+683280088,Dealer_1480,Branch_36,411905,Pune,Maharashtra,Musical Instruments,FOS_1480,904366736,Inactive
+885080759,Dealer_1481,Branch_86,411926,Pune,Maharashtra,Large Applainces,FOS_1481,941184070,Mod Active
+236793259,Dealer_1482,Branch_73,411488,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1482,985448345,Inactive
+955881710,Dealer_1483,Branch_57,411281,Pune,Maharashtra,Cycles,FOS_1483,922949762,Inactive
+886545485,Dealer_1484,Branch_23,411332,Pune,Maharashtra,Eyewear,FOS_1484,999370848,Active
+467027056,Dealer_1485,Branch_13,411448,Pune,Maharashtra,Tyres,FOS_1485,907214854,Active
+926189032,Dealer_1486,Branch_26,411384,Pune,Maharashtra,Travel Agencies,FOS_1486,915558364,Inactive
+630842566,Dealer_1487,Branch_31,411925,Pune,Maharashtra,Water Purifier,FOS_1487,934659180,Inactive
+156907326,Dealer_1488,Branch_36,411528,Pune,Maharashtra,Watches,FOS_1488,972627611,Inactive
+706387504,Dealer_1489,Branch_4,411677,Pune,Maharashtra,Home Security Systems,FOS_1489,983662796,Mod Active
+155036937,Dealer_1490,Branch_57,411185,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1490,933558599,Inactive
+112236743,Dealer_1491,Branch_27,411893,Pune,Maharashtra,Paints And Hardware,FOS_1491,922230368,Mod Active
+775385407,Dealer_1492,Branch_92,411700,Pune,Maharashtra,Bike Accessories,FOS_1492,945901776,Mod Active
+491582929,Dealer_1493,Branch_38,411020,Pune,Maharashtra,Handicrafts,FOS_1493,912246720,Active
+972588070,Dealer_1494,Branch_85,411930,Pune,Maharashtra,Others,FOS_1494,997041928,Active
+225653409,Dealer_1495,Branch_87,411329,Pune,Maharashtra,Pets Accessories,FOS_1495,995996049,Active
+560748414,Dealer_1496,Branch_47,411557,Pune,Maharashtra,Sewing Machines.,FOS_1496,999156905,Mod Active
+879806288,Dealer_1497,Branch_46,411933,Pune,Maharashtra,Sewing Machines.,FOS_1497,935125641,Active
+693467642,Dealer_1498,Branch_40,411450,Pune,Maharashtra,Medical Accessories,FOS_1498,998953000,Active
+810502050,Dealer_1499,Branch_24,411169,Pune,Maharashtra,Spa And Salon,FOS_1499,903225711,Active
+270443036,Dealer_1500,Branch_46,411507,Pune,Maharashtra,Medical Accessories,FOS_1500,935386648,Active
+543490344,Dealer_1501,Branch_33,411975,Pune,Maharashtra,Musical Instruments,FOS_1501,987870342,Active
+296880240,Dealer_1502,Branch_86,411168,Pune,Maharashtra,Apparels,FOS_1502,934342636,Inactive
+237388813,Dealer_1503,Branch_13,411058,Pune,Maharashtra,Small Appliances,FOS_1503,944517794,Mod Active
+822276533,Dealer_1504,Branch_47,411437,Pune,Maharashtra,Insurance,FOS_1504,922067402,Active
+157409810,Dealer_1505,Branch_6,411592,Pune,Maharashtra,Crockery And House Hold Items,FOS_1505,908185912,Mod Active
+939345487,Dealer_1506,Branch_50,411575,Pune,Maharashtra,Paints And Hardware,FOS_1506,951816999,Inactive
+551644217,Dealer_1507,Branch_87,411561,Pune,Maharashtra,Apparels,FOS_1507,961974382,Mod Active
+747278721,Dealer_1508,Branch_12,411138,Pune,Maharashtra,Watches,FOS_1508,941685773,Inactive
+540812106,Dealer_1509,Branch_39,411875,Pune,Maharashtra,Handicrafts,FOS_1509,969296360,Active
+245956311,Dealer_1510,Branch_69,411234,Pune,Maharashtra,Power Tools,FOS_1510,986578006,Inactive
+260628943,Dealer_1511,Branch_14,411264,Pune,Maharashtra,LFR,FOS_1511,913168308,Mod Active
+838827138,Dealer_1512,Branch_81,411288,Pune,Maharashtra,Travel Agencies,FOS_1512,998715578,Inactive
+651513307,Dealer_1513,Branch_32,411963,Pune,Maharashtra,Power Tools,FOS_1513,983251850,Active
+227297101,Dealer_1514,Branch_85,411202,Pune,Maharashtra,Bike Accessories,FOS_1514,928442530,Active
+720735804,Dealer_1515,Branch_8,411119,Pune,Maharashtra,Pets Accessories,FOS_1515,998855794,Mod Active
+809840176,Dealer_1516,Branch_40,411916,Pune,Maharashtra,Paints And Hardware,FOS_1516,908773949,Mod Active
+208592856,Dealer_1517,Branch_77,411045,Pune,Maharashtra,Departmental Stores,FOS_1517,950199097,Mod Active
+175804810,Dealer_1518,Branch_46,411397,Pune,Maharashtra,E-Bike,FOS_1518,935905515,Active
+545001787,Dealer_1519,Branch_31,411771,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1519,926821096,Active
+903260065,Dealer_1520,Branch_40,411249,Pune,Maharashtra,Watches,FOS_1520,951225250,Inactive
+333213913,Dealer_1521,Branch_71,411567,Pune,Maharashtra,Tyres,FOS_1521,928765253,Active
+423065798,Dealer_1522,Branch_46,411607,Pune,Maharashtra,Large Applainces,FOS_1522,933543821,Mod Active
+829005420,Dealer_1523,Branch_17,411506,Pune,Maharashtra,Small Appliances,FOS_1523,914177026,Active
+258391276,Dealer_1524,Branch_56,411390,Pune,Maharashtra,Power Tools,FOS_1524,943685027,Inactive
+439138037,Dealer_1525,Branch_84,411228,Pune,Maharashtra,High End Stationery,FOS_1525,999014986,Mod Active
+846263151,Dealer_1526,Branch_94,411016,Pune,Maharashtra,Computer Accessories,FOS_1526,954781131,Inactive
+724155290,Dealer_1527,Branch_24,411628,Pune,Maharashtra,Medical Accessories,FOS_1527,983710644,Active
+819421844,Dealer_1528,Branch_36,411577,Pune,Maharashtra,E-Bike,FOS_1528,929746128,Mod Active
+237175780,Dealer_1529,Branch_14,411545,Pune,Maharashtra,Sewing Machines.,FOS_1529,957479982,Active
+139565850,Dealer_1530,Branch_80,411033,Pune,Maharashtra,LFR,FOS_1530,988449013,Inactive
+519468753,Dealer_1531,Branch_95,411805,Pune,Maharashtra,Bike Accessories,FOS_1531,947140369,Mod Active
+233519324,Dealer_1532,Branch_8,411551,Pune,Maharashtra,Sports Equipment,FOS_1532,945916218,Mod Active
+259915075,Dealer_1533,Branch_82,411044,Pune,Maharashtra,Computer Accessories,FOS_1533,939754627,Mod Active
+760049857,Dealer_1534,Branch_2,411047,Pune,Maharashtra,LFR,FOS_1534,906018089,Inactive
+402419070,Dealer_1535,Branch_62,411087,Pune,Maharashtra,Toys,FOS_1535,900965123,Active
+814765957,Dealer_1536,Branch_89,411249,Pune,Maharashtra,Apparels,FOS_1536,970652766,Active
+152760253,Dealer_1537,Branch_16,411724,Pune,Maharashtra,Medical Accessories,FOS_1537,993669087,Inactive
+364692386,Dealer_1538,Branch_28,411860,Pune,Maharashtra,Power Backup,FOS_1538,982157770,Inactive
+972825559,Dealer_1539,Branch_15,411188,Pune,Maharashtra,High End Stationery,FOS_1539,993529951,Mod Active
+527417231,Dealer_1540,Branch_10,411590,Pune,Maharashtra,LFR,FOS_1540,953412575,Inactive
+651790257,Dealer_1541,Branch_10,411747,Pune,Maharashtra,Small Appliances,FOS_1541,940730621,Inactive
+753242302,Dealer_1542,Branch_12,411960,Pune,Maharashtra,Cycles,FOS_1542,970201786,Inactive
+914817916,Dealer_1543,Branch_22,411671,Pune,Maharashtra,Eyewear,FOS_1543,988017283,Mod Active
+428097575,Dealer_1544,Branch_72,411682,Pune,Maharashtra,Paints And Hardware,FOS_1544,922026266,Inactive
+608034782,Dealer_1545,Branch_90,411910,Pune,Maharashtra,Pharmacy,FOS_1545,950623619,Active
+594065556,Dealer_1546,Branch_60,411380,Pune,Maharashtra,Cycles,FOS_1546,998715184,Active
+734568453,Dealer_1547,Branch_44,411912,Pune,Maharashtra,LFR,FOS_1547,957455617,Mod Active
+772821586,Dealer_1548,Branch_91,411874,Pune,Maharashtra,Home Security Systems,FOS_1548,977667018,Mod Active
+738826337,Dealer_1549,Branch_31,411152,Pune,Maharashtra,LFR,FOS_1549,971548704,Mod Active
+113200559,Dealer_1550,Branch_59,411476,Pune,Maharashtra,Home Security Systems,FOS_1550,930748324,Active
+142743926,Dealer_1551,Branch_25,411037,Pune,Maharashtra,Remi Gas Kit,FOS_1551,996772745,Mod Active
+703638123,Dealer_1552,Branch_11,411402,Pune,Maharashtra,Spa And Salon,FOS_1552,994046465,Inactive
+449788698,Dealer_1553,Branch_78,411671,Pune,Maharashtra,Small Appliances,FOS_1553,921403996,Active
+849166393,Dealer_1554,Branch_14,411603,Pune,Maharashtra,Watches,FOS_1554,960399712,Mod Active
+729425878,Dealer_1555,Branch_45,411897,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1555,953744202,Inactive
+369205940,Dealer_1556,Branch_42,411053,Pune,Maharashtra,Watches,FOS_1556,955316368,Inactive
+960763467,Dealer_1557,Branch_18,411272,Pune,Maharashtra,Sports Equipment,FOS_1557,996629778,Mod Active
+550471200,Dealer_1558,Branch_70,411689,Pune,Maharashtra,Gyms And Spas,FOS_1558,977229533,Active
+733655945,Dealer_1559,Branch_11,411947,Pune,Maharashtra,Water Purifier,FOS_1559,927822364,Active
+871190056,Dealer_1560,Branch_94,411341,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1560,915030678,Mod Active
+907220565,Dealer_1561,Branch_11,411589,Pune,Maharashtra,Diagnostics,FOS_1561,977605402,Active
+501304825,Dealer_1562,Branch_10,411601,Pune,Maharashtra,Hotels,FOS_1562,921245433,Mod Active
+827393935,Dealer_1563,Branch_27,411184,Pune,Maharashtra,Musical Instruments,FOS_1563,916006168,Active
+387494708,Dealer_1564,Branch_72,411605,Pune,Maharashtra,Luggage,FOS_1564,934908564,Mod Active
+102329568,Dealer_1565,Branch_40,411343,Pune,Maharashtra,Crockery And House Hold Items,FOS_1565,929144355,Mod Active
+493040972,Dealer_1566,Branch_86,411627,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1566,907247334,Active
+829385484,Dealer_1567,Branch_76,411213,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1567,941184481,Active
+908395386,Dealer_1568,Branch_35,411850,Pune,Maharashtra,Cycles,FOS_1568,972062180,Inactive
+741915706,Dealer_1569,Branch_24,411557,Pune,Maharashtra,Cycles,FOS_1569,963355752,Inactive
+632905941,Dealer_1570,Branch_49,411723,Pune,Maharashtra,Musical Instruments,FOS_1570,978201509,Mod Active
+223734670,Dealer_1571,Branch_56,411723,Pune,Maharashtra,Home Security Systems,FOS_1571,957618768,Inactive
+167796359,Dealer_1572,Branch_3,411800,Pune,Maharashtra,Remi Gas Kit,FOS_1572,992027225,Active
+308690285,Dealer_1573,Branch_35,411927,Pune,Maharashtra,Travel Agencies,FOS_1573,936249382,Mod Active
+663643592,Dealer_1574,Branch_8,411673,Pune,Maharashtra,Gyms And Spas,FOS_1574,927159208,Mod Active
+243239155,Dealer_1575,Branch_24,411316,Pune,Maharashtra,Spa And Salon,FOS_1575,990742132,Active
+978575738,Dealer_1576,Branch_92,411435,Pune,Maharashtra,Insurance,FOS_1576,946765246,Active
+922247100,Dealer_1577,Branch_64,411810,Pune,Maharashtra,High End Stationery,FOS_1577,996285481,Mod Active
+507937373,Dealer_1578,Branch_68,411638,Pune,Maharashtra,Computer Accessories,FOS_1578,904149213,Active
+907997971,Dealer_1579,Branch_55,411529,Pune,Maharashtra,Crockery And House Hold Items,FOS_1579,989480858,Inactive
+123388286,Dealer_1580,Branch_40,411591,Pune,Maharashtra,Gyms And Spas,FOS_1580,910165277,Inactive
+301771023,Dealer_1581,Branch_2,411799,Pune,Maharashtra,Eyewear,FOS_1581,942649090,Mod Active
+351491604,Dealer_1582,Branch_71,411271,Pune,Maharashtra,Power Tools,FOS_1582,943214756,Inactive
+892861672,Dealer_1583,Branch_70,411089,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1583,972305998,Active
+194499030,Dealer_1584,Branch_8,411602,Pune,Maharashtra,Furnishing,FOS_1584,998366474,Active
+722176411,Dealer_1585,Branch_81,411723,Pune,Maharashtra,Crockery And House Hold Items,FOS_1585,931186455,Inactive
+514273815,Dealer_1586,Branch_25,411453,Pune,Maharashtra,Spa And Salon,FOS_1586,929428135,Inactive
+453845081,Dealer_1587,Branch_90,411560,Pune,Maharashtra,Tyres,FOS_1587,930147562,Inactive
+983829532,Dealer_1588,Branch_57,411520,Pune,Maharashtra,Departmental Stores,FOS_1588,996798546,Mod Active
+766608182,Dealer_1589,Branch_42,411979,Pune,Maharashtra,Pharmacy,FOS_1589,975592601,Inactive
+641872202,Dealer_1590,Branch_78,411826,Pune,Maharashtra,Departmental Stores,FOS_1590,988629692,Active
+959025674,Dealer_1591,Branch_16,411824,Pune,Maharashtra,Bike Accessories,FOS_1591,933963828,Inactive
+957423724,Dealer_1592,Branch_18,411958,Pune,Maharashtra,High End Stationery,FOS_1592,989241836,Active
+586370445,Dealer_1593,Branch_64,411189,Pune,Maharashtra,Furnishing,FOS_1593,911711544,Active
+293009098,Dealer_1594,Branch_49,411921,Pune,Maharashtra,Sewing Machines.,FOS_1594,955492909,Inactive
+520191201,Dealer_1595,Branch_92,411180,Pune,Maharashtra,Furnishing,FOS_1595,925206312,Active
+687829117,Dealer_1596,Branch_94,411348,Pune,Maharashtra,Computer Accessories,FOS_1596,935115626,Inactive
+878460959,Dealer_1597,Branch_21,411293,Pune,Maharashtra,Large Applainces,FOS_1597,979359847,Inactive
+492213113,Dealer_1598,Branch_74,411830,Pune,Maharashtra,LFR,FOS_1598,910785766,Active
+431476631,Dealer_1599,Branch_57,411402,Pune,Maharashtra,Spa And Salon,FOS_1599,992239150,Inactive
+119036516,Dealer_1600,Branch_64,411355,Pune,Maharashtra,Others,FOS_1600,956226907,Mod Active
+869605653,Dealer_1601,Branch_17,411281,Pune,Maharashtra,Departmental Stores,FOS_1601,904441416,Inactive
+121809942,Dealer_1602,Branch_90,411599,Pune,Maharashtra,Hotels,FOS_1602,931100352,Mod Active
+930287034,Dealer_1603,Branch_40,411146,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1603,959905425,Active
+790878826,Dealer_1604,Branch_74,411543,Pune,Maharashtra,Eyewear,FOS_1604,965117452,Inactive
+867082687,Dealer_1605,Branch_24,411898,Pune,Maharashtra,Cycles,FOS_1605,991847289,Active
+739722528,Dealer_1606,Branch_46,411251,Pune,Maharashtra,Handicrafts,FOS_1606,949183118,Active
+919629094,Dealer_1607,Branch_87,411267,Pune,Maharashtra,Small Appliances,FOS_1607,942251047,Active
+837633204,Dealer_1608,Branch_57,411069,Pune,Maharashtra,Pharmacy,FOS_1608,942043898,Inactive
+850755604,Dealer_1609,Branch_70,411808,Pune,Maharashtra,Gyms And Spas,FOS_1609,998931910,Mod Active
+874050682,Dealer_1610,Branch_85,411731,Pune,Maharashtra,Luggage,FOS_1610,967003803,Inactive
+746427048,Dealer_1611,Branch_45,411563,Pune,Maharashtra,Medical Accessories,FOS_1611,901133937,Inactive
+966650307,Dealer_1612,Branch_49,411081,Pune,Maharashtra,Pets Accessories,FOS_1612,999242763,Inactive
+735111657,Dealer_1613,Branch_50,411523,Pune,Maharashtra,Pharmacy,FOS_1613,998221074,Active
+298101984,Dealer_1614,Branch_94,411027,Pune,Maharashtra,Furnishing,FOS_1614,999929750,Active
+295162296,Dealer_1615,Branch_97,411136,Pune,Maharashtra,Water Purifier,FOS_1615,918454812,Active
+493708529,Dealer_1616,Branch_35,411027,Pune,Maharashtra,Power Tools,FOS_1616,996211396,Inactive
+502974814,Dealer_1617,Branch_20,411844,Pune,Maharashtra,Bike Accessories,FOS_1617,999566758,Mod Active
+620245714,Dealer_1618,Branch_3,411271,Pune,Maharashtra,Musical Instruments,FOS_1618,908057511,Inactive
+270306036,Dealer_1619,Branch_4,411594,Pune,Maharashtra,Handicrafts,FOS_1619,967376257,Active
+520004746,Dealer_1620,Branch_23,411916,Pune,Maharashtra,LFR,FOS_1620,993838262,Inactive
+667361753,Dealer_1621,Branch_52,411255,Pune,Maharashtra,Apparels,FOS_1621,995107469,Inactive
+542307760,Dealer_1622,Branch_16,411932,Pune,Maharashtra,Diagnostics,FOS_1622,904621213,Mod Active
+594758232,Dealer_1623,Branch_39,411885,Pune,Maharashtra,Small Appliances,FOS_1623,961359914,Mod Active
+936103708,Dealer_1624,Branch_2,411133,Pune,Maharashtra,Computer Accessories,FOS_1624,977012846,Mod Active
+817520438,Dealer_1625,Branch_64,411861,Pune,Maharashtra,Tyres,FOS_1625,963718337,Mod Active
+402717065,Dealer_1626,Branch_11,411388,Pune,Maharashtra,Power Backup,FOS_1626,918300343,Inactive
+498441240,Dealer_1627,Branch_99,411375,Pune,Maharashtra,Remi Gas Kit,FOS_1627,998297761,Inactive
+420711478,Dealer_1628,Branch_86,411265,Pune,Maharashtra,Toys,FOS_1628,987068616,Inactive
+243930574,Dealer_1629,Branch_39,411950,Pune,Maharashtra,Sports Equipment,FOS_1629,960604994,Active
+905623156,Dealer_1630,Branch_53,411548,Pune,Maharashtra,Handicrafts,FOS_1630,975008515,Inactive
+250309021,Dealer_1631,Branch_63,411294,Pune,Maharashtra,Eyewear,FOS_1631,957310181,Active
+753687869,Dealer_1632,Branch_25,411313,Pune,Maharashtra,Medical Accessories,FOS_1632,905246029,Mod Active
+681793792,Dealer_1633,Branch_11,411519,Pune,Maharashtra,Pets Accessories,FOS_1633,983839610,Active
+179347485,Dealer_1634,Branch_40,411854,Pune,Maharashtra,Hotels,FOS_1634,983331166,Inactive
+418622144,Dealer_1635,Branch_97,411458,Pune,Maharashtra,Footwear,FOS_1635,924934397,Inactive
+594953385,Dealer_1636,Branch_64,411642,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1636,998699021,Inactive
+507741415,Dealer_1637,Branch_75,411659,Pune,Maharashtra,Others,FOS_1637,905914368,Inactive
+183033269,Dealer_1638,Branch_53,411824,Pune,Maharashtra,Home Security Systems,FOS_1638,991017939,Active
+711374024,Dealer_1639,Branch_25,411415,Pune,Maharashtra,Water Purifier,FOS_1639,959483473,Active
+129631134,Dealer_1640,Branch_45,411458,Pune,Maharashtra,Musical Instruments,FOS_1640,907878748,Mod Active
+102371234,Dealer_1641,Branch_75,411641,Pune,Maharashtra,Spa And Salon,FOS_1641,966176512,Mod Active
+766583482,Dealer_1642,Branch_6,411771,Pune,Maharashtra,Luggage,FOS_1642,973776137,Inactive
+552647195,Dealer_1643,Branch_40,411098,Pune,Maharashtra,E-Bike,FOS_1643,955427576,Inactive
+477962036,Dealer_1644,Branch_65,411062,Pune,Maharashtra,Pharmacy,FOS_1644,980340187,Active
+368575099,Dealer_1645,Branch_42,411755,Pune,Maharashtra,Departmental Stores,FOS_1645,943941451,Mod Active
+319860049,Dealer_1646,Branch_32,411772,Pune,Maharashtra,Gyms And Spas,FOS_1646,991746010,Inactive
+160408080,Dealer_1647,Branch_98,411360,Pune,Maharashtra,E-Bike,FOS_1647,921065713,Active
+129423727,Dealer_1648,Branch_67,411160,Pune,Maharashtra,Bike Accessories,FOS_1648,950788922,Inactive
+570233251,Dealer_1649,Branch_83,411179,Pune,Maharashtra,Medical Accessories,FOS_1649,943385562,Inactive
+335004917,Dealer_1650,Branch_4,411808,Pune,Maharashtra,Diagnostics,FOS_1650,983463651,Active
+728581844,Dealer_1651,Branch_47,411213,Pune,Maharashtra,Apparels,FOS_1651,997292896,Active
+752852908,Dealer_1652,Branch_56,411767,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1652,967546591,Inactive
+778250894,Dealer_1653,Branch_39,411705,Pune,Maharashtra,Musical Instruments,FOS_1653,912198903,Mod Active
+763566321,Dealer_1654,Branch_9,411364,Pune,Maharashtra,Large Applainces,FOS_1654,916159697,Mod Active
+746792767,Dealer_1655,Branch_3,411377,Pune,Maharashtra,Gyms And Spas,FOS_1655,984329047,Inactive
+273938573,Dealer_1656,Branch_78,411564,Pune,Maharashtra,Travel Agencies,FOS_1656,966549042,Active
+867313240,Dealer_1657,Branch_19,411931,Pune,Maharashtra,Remi Gas Kit,FOS_1657,911919860,Mod Active
+156560673,Dealer_1658,Branch_42,411315,Pune,Maharashtra,Lighting,FOS_1658,934712137,Inactive
+828520014,Dealer_1659,Branch_96,411033,Pune,Maharashtra,Sewing Machines.,FOS_1659,957398581,Inactive
+521752783,Dealer_1660,Branch_39,411468,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1660,978713335,Mod Active
+193722818,Dealer_1661,Branch_74,411551,Pune,Maharashtra,Small Appliances,FOS_1661,938580764,Active
+686488828,Dealer_1662,Branch_58,411163,Pune,Maharashtra,Furnishing,FOS_1662,904300800,Mod Active
+342622714,Dealer_1663,Branch_69,411589,Pune,Maharashtra,Lighting,FOS_1663,948302227,Active
+752148445,Dealer_1664,Branch_72,411369,Pune,Maharashtra,Hotels,FOS_1664,964786337,Inactive
+251935482,Dealer_1665,Branch_50,411963,Pune,Maharashtra,Pets Accessories,FOS_1665,946463722,Inactive
+246276450,Dealer_1666,Branch_39,411612,Pune,Maharashtra,Water Purifier,FOS_1666,989566109,Mod Active
+436704100,Dealer_1667,Branch_53,411699,Pune,Maharashtra,Water Purifier,FOS_1667,957002875,Active
+929396872,Dealer_1668,Branch_85,411759,Pune,Maharashtra,Travel Agencies,FOS_1668,900304450,Active
+697844247,Dealer_1669,Branch_10,411875,Pune,Maharashtra,Crockery And House Hold Items,FOS_1669,929864135,Inactive
+446086676,Dealer_1670,Branch_36,411757,Pune,Maharashtra,Large Applainces,FOS_1670,981280229,Mod Active
+279943410,Dealer_1671,Branch_55,411858,Pune,Maharashtra,Bike Accessories,FOS_1671,951225112,Inactive
+350786843,Dealer_1672,Branch_93,411667,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1672,908283609,Mod Active
+966676365,Dealer_1673,Branch_76,411722,Pune,Maharashtra,Handicrafts,FOS_1673,909069453,Mod Active
+157100857,Dealer_1674,Branch_80,411465,Pune,Maharashtra,Water Purifier,FOS_1674,963121640,Mod Active
+281651486,Dealer_1675,Branch_95,411532,Pune,Maharashtra,Computer Accessories,FOS_1675,908509948,Mod Active
+245200757,Dealer_1676,Branch_92,411044,Pune,Maharashtra,Apparels,FOS_1676,906561284,Inactive
+721983743,Dealer_1677,Branch_46,411743,Pune,Maharashtra,Pets Accessories,FOS_1677,957226359,Inactive
+683387242,Dealer_1678,Branch_98,411769,Pune,Maharashtra,Departmental Stores,FOS_1678,969904873,Active
+509049828,Dealer_1679,Branch_24,411244,Pune,Maharashtra,Sports Equipment,FOS_1679,973435616,Inactive
+540387770,Dealer_1680,Branch_56,411711,Pune,Maharashtra,Power Backup,FOS_1680,950439606,Mod Active
+370973133,Dealer_1681,Branch_31,411414,Pune,Maharashtra,Luggage,FOS_1681,959604431,Mod Active
+711101102,Dealer_1682,Branch_61,411619,Pune,Maharashtra,Pets Accessories,FOS_1682,999034288,Mod Active
+729471133,Dealer_1683,Branch_99,411744,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1683,963265661,Mod Active
+699422371,Dealer_1684,Branch_95,411407,Pune,Maharashtra,Small Appliances,FOS_1684,999385473,Mod Active
+923442065,Dealer_1685,Branch_16,411534,Pune,Maharashtra,Paints And Hardware,FOS_1685,926501868,Mod Active
+177116373,Dealer_1686,Branch_89,411091,Pune,Maharashtra,High End Stationery,FOS_1686,994426051,Inactive
+896535689,Dealer_1687,Branch_61,411272,Pune,Maharashtra,Furnishing,FOS_1687,940433076,Active
+764153435,Dealer_1688,Branch_45,411271,Pune,Maharashtra,Footwear,FOS_1688,960669617,Inactive
+173825153,Dealer_1689,Branch_49,411166,Pune,Maharashtra,Power Backup,FOS_1689,914293861,Mod Active
+536537287,Dealer_1690,Branch_22,411757,Pune,Maharashtra,High End Stationery,FOS_1690,950082785,Mod Active
+386976375,Dealer_1691,Branch_49,411630,Pune,Maharashtra,Medical Accessories,FOS_1691,925975963,Mod Active
+842830769,Dealer_1692,Branch_83,411719,Pune,Maharashtra,Travel Agencies,FOS_1692,966758607,Mod Active
+227764345,Dealer_1693,Branch_94,411517,Pune,Maharashtra,Crockery And House Hold Items,FOS_1693,959641334,Mod Active
+906351209,Dealer_1694,Branch_18,411295,Pune,Maharashtra,High End Stationery,FOS_1694,904183695,Active
+503110627,Dealer_1695,Branch_28,411665,Pune,Maharashtra,Apparels,FOS_1695,931525025,Mod Active
+597786474,Dealer_1696,Branch_68,411815,Pune,Maharashtra,Toys,FOS_1696,927973570,Inactive
+278091269,Dealer_1697,Branch_50,411066,Pune,Maharashtra,Power Tools,FOS_1697,952680963,Inactive
+416448095,Dealer_1698,Branch_77,411283,Pune,Maharashtra,Tyres,FOS_1698,935551045,Mod Active
+359028133,Dealer_1699,Branch_65,411420,Pune,Maharashtra,Sewing Machines.,FOS_1699,931333582,Active
+277366828,Dealer_1700,Branch_96,411265,Pune,Maharashtra,Pets Accessories,FOS_1700,917423602,Active
+834155409,Dealer_1701,Branch_68,411104,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1701,953424346,Active
+620288883,Dealer_1702,Branch_96,411645,Pune,Maharashtra,E-Bike,FOS_1702,934612614,Active
+179480544,Dealer_1703,Branch_28,411084,Pune,Maharashtra,Power Tools,FOS_1703,931509414,Inactive
+460371254,Dealer_1704,Branch_50,411671,Pune,Maharashtra,Gyms And Spas,FOS_1704,967952886,Inactive
+439688285,Dealer_1705,Branch_95,411248,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1705,962699711,Mod Active
+117271722,Dealer_1706,Branch_40,411748,Pune,Maharashtra,Power Tools,FOS_1706,910894846,Active
+206983952,Dealer_1707,Branch_1,411218,Pune,Maharashtra,Spa And Salon,FOS_1707,968643329,Mod Active
+179197717,Dealer_1708,Branch_6,411682,Pune,Maharashtra,Home Security Systems,FOS_1708,959847532,Mod Active
+464067116,Dealer_1709,Branch_71,411292,Pune,Maharashtra,Power Backup,FOS_1709,924279440,Mod Active
+338358140,Dealer_1710,Branch_23,411311,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1710,976555991,Inactive
+390221332,Dealer_1711,Branch_95,411111,Pune,Maharashtra,Hotels,FOS_1711,972037550,Inactive
+103430372,Dealer_1712,Branch_95,411168,Pune,Maharashtra,Power Backup,FOS_1712,962207125,Active
+177543354,Dealer_1713,Branch_33,411686,Pune,Maharashtra,Bike Accessories,FOS_1713,918887058,Inactive
+545629827,Dealer_1714,Branch_46,411124,Pune,Maharashtra,Large Applainces,FOS_1714,938652565,Active
+821402742,Dealer_1715,Branch_24,411007,Pune,Maharashtra,Travel Agencies,FOS_1715,957515477,Active
+616611699,Dealer_1716,Branch_95,411311,Pune,Maharashtra,Insurance,FOS_1716,962126268,Mod Active
+101802343,Dealer_1717,Branch_99,411896,Pune,Maharashtra,Eyewear,FOS_1717,919784812,Mod Active
+947967983,Dealer_1718,Branch_65,411652,Pune,Maharashtra,Tyres,FOS_1718,921498778,Inactive
+539475051,Dealer_1719,Branch_35,411903,Pune,Maharashtra,Cycles,FOS_1719,999463192,Inactive
+252683769,Dealer_1720,Branch_34,411509,Pune,Maharashtra,Lighting,FOS_1720,978877340,Mod Active
+391296047,Dealer_1721,Branch_47,411370,Pune,Maharashtra,Luggage,FOS_1721,949877434,Mod Active
+965331010,Dealer_1722,Branch_89,411252,Pune,Maharashtra,Spa And Salon,FOS_1722,957439898,Mod Active
+759031783,Dealer_1723,Branch_8,411848,Pune,Maharashtra,Pharmacy,FOS_1723,969391275,Active
+149282603,Dealer_1724,Branch_45,411489,Pune,Maharashtra,Cycles,FOS_1724,952648921,Mod Active
+450970122,Dealer_1725,Branch_43,411392,Pune,Maharashtra,Handicrafts,FOS_1725,933390703,Inactive
+883649128,Dealer_1726,Branch_33,411965,Pune,Maharashtra,Spa And Salon,FOS_1726,901068666,Active
+784581400,Dealer_1727,Branch_19,411017,Pune,Maharashtra,Power Backup,FOS_1727,976093638,Inactive
+990715609,Dealer_1728,Branch_36,411759,Pune,Maharashtra,Apparels,FOS_1728,987600562,Active
+251324777,Dealer_1729,Branch_84,411676,Pune,Maharashtra,Musical Instruments,FOS_1729,967459408,Active
+624593515,Dealer_1730,Branch_14,411983,Pune,Maharashtra,Footwear,FOS_1730,952197405,Inactive
+284868397,Dealer_1731,Branch_22,411735,Pune,Maharashtra,High End Stationery,FOS_1731,979798617,Inactive
+980030448,Dealer_1732,Branch_23,411382,Pune,Maharashtra,Large Applainces,FOS_1732,945336250,Active
+749434647,Dealer_1733,Branch_91,411641,Pune,Maharashtra,Insurance,FOS_1733,963246750,Active
+837514681,Dealer_1734,Branch_93,411075,Pune,Maharashtra,Spa And Salon,FOS_1734,933500710,Active
+901246012,Dealer_1735,Branch_77,411134,Pune,Maharashtra,E-Bike,FOS_1735,989269610,Mod Active
+903428082,Dealer_1736,Branch_45,411615,Pune,Maharashtra,Others,FOS_1736,972320487,Mod Active
+421084985,Dealer_1737,Branch_31,411242,Pune,Maharashtra,Crockery And House Hold Items,FOS_1737,964756186,Inactive
+804769971,Dealer_1738,Branch_81,411468,Pune,Maharashtra,Bike Accessories,FOS_1738,973825641,Active
+855093156,Dealer_1739,Branch_69,411888,Pune,Maharashtra,Watches,FOS_1739,960858227,Mod Active
+369707156,Dealer_1740,Branch_58,411184,Pune,Maharashtra,Lighting,FOS_1740,902876955,Active
+622380859,Dealer_1741,Branch_64,411279,Pune,Maharashtra,Pets Accessories,FOS_1741,997445988,Active
+469338610,Dealer_1742,Branch_47,411024,Pune,Maharashtra,Diagnostics,FOS_1742,961724709,Inactive
+139829116,Dealer_1743,Branch_8,411031,Pune,Maharashtra,Toys,FOS_1743,982567663,Mod Active
+875014811,Dealer_1744,Branch_30,411373,Pune,Maharashtra,Travel Agencies,FOS_1744,905447427,Active
+268749692,Dealer_1745,Branch_47,411379,Pune,Maharashtra,Paints And Hardware,FOS_1745,934954762,Inactive
+958846151,Dealer_1746,Branch_75,411750,Pune,Maharashtra,E-Bike,FOS_1746,927778993,Active
+359857562,Dealer_1747,Branch_23,411405,Pune,Maharashtra,E-Bike,FOS_1747,966979903,Active
+465538181,Dealer_1748,Branch_92,411982,Pune,Maharashtra,Tyres,FOS_1748,917508586,Inactive
+646779902,Dealer_1749,Branch_72,411381,Pune,Maharashtra,Small Appliances,FOS_1749,951474578,Mod Active
+495799433,Dealer_1750,Branch_98,411213,Pune,Maharashtra,Home Security Systems,FOS_1750,971948491,Active
+668809147,Dealer_1751,Branch_87,411781,Pune,Maharashtra,Lighting,FOS_1751,988854941,Active
+831755033,Dealer_1752,Branch_25,411937,Pune,Maharashtra,LFR,FOS_1752,933204190,Inactive
+361266690,Dealer_1753,Branch_83,411814,Pune,Maharashtra,Small Appliances,FOS_1753,910521127,Mod Active
+182284640,Dealer_1754,Branch_11,411115,Pune,Maharashtra,Eyewear,FOS_1754,992919353,Mod Active
+926508093,Dealer_1755,Branch_92,411116,Pune,Maharashtra,Cycles,FOS_1755,932760750,Active
+473175362,Dealer_1756,Branch_55,411717,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1756,931689838,Mod Active
+420520788,Dealer_1757,Branch_62,411163,Pune,Maharashtra,Cycles,FOS_1757,967686939,Mod Active
+579786338,Dealer_1758,Branch_43,411411,Pune,Maharashtra,Eyewear,FOS_1758,975622787,Inactive
+556197588,Dealer_1759,Branch_19,411827,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1759,930110677,Inactive
+650730919,Dealer_1760,Branch_59,411512,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1760,950381614,Active
+943519069,Dealer_1761,Branch_69,411416,Pune,Maharashtra,E-Bike,FOS_1761,910133935,Mod Active
+742094242,Dealer_1762,Branch_63,411006,Pune,Maharashtra,Travel Agencies,FOS_1762,900112347,Active
+578883289,Dealer_1763,Branch_3,411976,Pune,Maharashtra,Remi Gas Kit,FOS_1763,945414839,Mod Active
+940289015,Dealer_1764,Branch_65,411781,Pune,Maharashtra,Computer Accessories,FOS_1764,956278023,Active
+424305552,Dealer_1765,Branch_4,411299,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1765,938131807,Active
+140017563,Dealer_1766,Branch_55,411839,Pune,Maharashtra,Departmental Stores,FOS_1766,986214958,Active
+944824980,Dealer_1767,Branch_3,411432,Pune,Maharashtra,Others,FOS_1767,917915812,Inactive
+594424272,Dealer_1768,Branch_42,411705,Pune,Maharashtra,Power Tools,FOS_1768,971879485,Active
+806958771,Dealer_1769,Branch_30,411002,Pune,Maharashtra,Departmental Stores,FOS_1769,981060968,Mod Active
+725443907,Dealer_1770,Branch_70,411903,Pune,Maharashtra,Remi Gas Kit,FOS_1770,985683850,Inactive
+492635601,Dealer_1771,Branch_97,411162,Pune,Maharashtra,Water Purifier,FOS_1771,927991063,Mod Active
+642038974,Dealer_1772,Branch_87,411738,Pune,Maharashtra,Sports Equipment,FOS_1772,980310586,Inactive
+491016896,Dealer_1773,Branch_17,411382,Pune,Maharashtra,Paints And Hardware,FOS_1773,952968625,Inactive
+820066976,Dealer_1774,Branch_92,411781,Pune,Maharashtra,Handicrafts,FOS_1774,914139265,Active
+813560387,Dealer_1775,Branch_58,411662,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1775,902057533,Active
+944244468,Dealer_1776,Branch_49,411112,Pune,Maharashtra,Crockery And House Hold Items,FOS_1776,948004486,Inactive
+334638882,Dealer_1777,Branch_73,411051,Pune,Maharashtra,Gyms And Spas,FOS_1777,952687538,Mod Active
+716822786,Dealer_1778,Branch_65,411929,Pune,Maharashtra,High End Stationery,FOS_1778,918163748,Mod Active
+597576007,Dealer_1779,Branch_52,411236,Pune,Maharashtra,Bike Accessories,FOS_1779,928084106,Mod Active
+119771383,Dealer_1780,Branch_56,411258,Pune,Maharashtra,Insurance,FOS_1780,986094884,Mod Active
+472488282,Dealer_1781,Branch_28,411950,Pune,Maharashtra,High End Stationery,FOS_1781,974007543,Mod Active
+851392870,Dealer_1782,Branch_66,411647,Pune,Maharashtra,Water Purifier,FOS_1782,976800163,Mod Active
+205699917,Dealer_1783,Branch_46,411870,Pune,Maharashtra,Medical Accessories,FOS_1783,956187076,Active
+252717194,Dealer_1784,Branch_55,411802,Pune,Maharashtra,Lighting,FOS_1784,911958976,Active
+920971626,Dealer_1785,Branch_83,411254,Pune,Maharashtra,Diagnostics,FOS_1785,972883203,Active
+115639043,Dealer_1786,Branch_72,411006,Pune,Maharashtra,Pharmacy,FOS_1786,906201820,Mod Active
+998897861,Dealer_1787,Branch_69,411109,Pune,Maharashtra,LFR,FOS_1787,965478828,Active
+996450689,Dealer_1788,Branch_91,411915,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1788,999051027,Mod Active
+483960543,Dealer_1789,Branch_97,411978,Pune,Maharashtra,Remi Gas Kit,FOS_1789,924208932,Inactive
+463001453,Dealer_1790,Branch_19,411538,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1790,911039803,Mod Active
+655003482,Dealer_1791,Branch_54,411871,Pune,Maharashtra,Eyewear,FOS_1791,900742996,Inactive
+243823393,Dealer_1792,Branch_19,411073,Pune,Maharashtra,Watches,FOS_1792,936928599,Inactive
+556757928,Dealer_1793,Branch_10,411389,Pune,Maharashtra,E-Bike,FOS_1793,992447739,Active
+928117851,Dealer_1794,Branch_87,411099,Pune,Maharashtra,High End Stationery,FOS_1794,917319967,Inactive
+456416128,Dealer_1795,Branch_35,411646,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1795,924642405,Active
+734542165,Dealer_1796,Branch_14,411648,Pune,Maharashtra,Pets Accessories,FOS_1796,974708780,Inactive
+316810287,Dealer_1797,Branch_69,411773,Pune,Maharashtra,LFR,FOS_1797,906278930,Inactive
+107056466,Dealer_1798,Branch_91,411860,Pune,Maharashtra,Hotels,FOS_1798,943429387,Active
+350049563,Dealer_1799,Branch_70,411641,Pune,Maharashtra,Others,FOS_1799,962237126,Active
+538055852,Dealer_1800,Branch_73,411058,Pune,Maharashtra,Diagnostics,FOS_1800,915033443,Mod Active
+830573261,Dealer_1801,Branch_32,411096,Pune,Maharashtra,Hotels,FOS_1801,954055429,Mod Active
+262674962,Dealer_1802,Branch_72,411346,Pune,Maharashtra,E-Bike,FOS_1802,970865046,Inactive
+220848883,Dealer_1803,Branch_22,411563,Pune,Maharashtra,Handicrafts,FOS_1803,982949440,Mod Active
+630431153,Dealer_1804,Branch_20,411979,Pune,Maharashtra,Diagnostics,FOS_1804,958320486,Inactive
+693755097,Dealer_1805,Branch_15,411974,Pune,Maharashtra,High End Stationery,FOS_1805,988774890,Active
+813730262,Dealer_1806,Branch_76,411526,Pune,Maharashtra,Medical Accessories,FOS_1806,940466224,Mod Active
+258837298,Dealer_1807,Branch_84,411443,Pune,Maharashtra,Home Security Systems,FOS_1807,997330366,Active
+437788993,Dealer_1808,Branch_93,411258,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1808,986979035,Active
+605084013,Dealer_1809,Branch_27,411034,Pune,Maharashtra,Handicrafts,FOS_1809,925456818,Active
+574660461,Dealer_1810,Branch_31,411841,Pune,Maharashtra,Apparels,FOS_1810,906980657,Mod Active
+581733614,Dealer_1811,Branch_31,411849,Pune,Maharashtra,Departmental Stores,FOS_1811,962471367,Inactive
+140120238,Dealer_1812,Branch_68,411934,Pune,Maharashtra,E-Bike,FOS_1812,953369121,Active
+521225213,Dealer_1813,Branch_43,411830,Pune,Maharashtra,Cycles,FOS_1813,950358099,Active
+654071451,Dealer_1814,Branch_81,411737,Pune,Maharashtra,Water Purifier,FOS_1814,928750672,Active
+777709103,Dealer_1815,Branch_84,411587,Pune,Maharashtra,Departmental Stores,FOS_1815,983565536,Mod Active
+549211528,Dealer_1816,Branch_28,411824,Pune,Maharashtra,Gyms And Spas,FOS_1816,977849009,Inactive
+712039528,Dealer_1817,Branch_96,411069,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1817,902075928,Mod Active
+329450483,Dealer_1818,Branch_54,411409,Pune,Maharashtra,Small Appliances,FOS_1818,967078034,Mod Active
+526831808,Dealer_1819,Branch_20,411627,Pune,Maharashtra,Medical Accessories,FOS_1819,938190161,Inactive
+907230773,Dealer_1820,Branch_99,411153,Pune,Maharashtra,Insurance,FOS_1820,932901538,Inactive
+904808255,Dealer_1821,Branch_96,411745,Pune,Maharashtra,Power Tools,FOS_1821,959585717,Active
+459615759,Dealer_1822,Branch_99,411320,Pune,Maharashtra,Water Purifier,FOS_1822,973871661,Mod Active
+604734869,Dealer_1823,Branch_59,411594,Pune,Maharashtra,Others,FOS_1823,948381024,Mod Active
+895984821,Dealer_1824,Branch_6,411720,Pune,Maharashtra,Remi Gas Kit,FOS_1824,910310327,Active
+908505194,Dealer_1825,Branch_10,411940,Pune,Maharashtra,Power Tools,FOS_1825,987115447,Inactive
+179308365,Dealer_1826,Branch_41,411287,Pune,Maharashtra,Watches,FOS_1826,924858900,Active
+107225390,Dealer_1827,Branch_48,411393,Pune,Maharashtra,E-Bike,FOS_1827,939191159,Mod Active
+527877855,Dealer_1828,Branch_60,411407,Pune,Maharashtra,Hotels,FOS_1828,920131531,Inactive
+609141003,Dealer_1829,Branch_53,411745,Pune,Maharashtra,Lighting,FOS_1829,956873870,Active
+953344782,Dealer_1830,Branch_78,411011,Pune,Maharashtra,Home Security Systems,FOS_1830,984063344,Inactive
+306394731,Dealer_1831,Branch_97,411138,Pune,Maharashtra,Toys,FOS_1831,924173987,Active
+908140492,Dealer_1832,Branch_47,411833,Pune,Maharashtra,Tyres,FOS_1832,936140525,Inactive
+748743451,Dealer_1833,Branch_24,411581,Pune,Maharashtra,Home Security Systems,FOS_1833,929372573,Mod Active
+329637269,Dealer_1834,Branch_29,411815,Pune,Maharashtra,Power Tools,FOS_1834,950348877,Active
+468665828,Dealer_1835,Branch_69,411005,Pune,Maharashtra,Lighting,FOS_1835,959073297,Inactive
+330332799,Dealer_1836,Branch_39,411810,Pune,Maharashtra,Large Applainces,FOS_1836,936860049,Mod Active
+453989067,Dealer_1837,Branch_65,411624,Pune,Maharashtra,Lighting,FOS_1837,915033034,Active
+646845413,Dealer_1838,Branch_27,411918,Pune,Maharashtra,Crockery And House Hold Items,FOS_1838,985892075,Mod Active
+627708280,Dealer_1839,Branch_34,411871,Pune,Maharashtra,Power Backup,FOS_1839,907324182,Active
+539813944,Dealer_1840,Branch_30,411715,Pune,Maharashtra,Power Backup,FOS_1840,925148008,Inactive
+918527579,Dealer_1841,Branch_5,411078,Pune,Maharashtra,Musical Instruments,FOS_1841,994242293,Mod Active
+663377493,Dealer_1842,Branch_51,411912,Pune,Maharashtra,Footwear,FOS_1842,902525017,Mod Active
+887969090,Dealer_1843,Branch_31,411275,Pune,Maharashtra,Furnishing,FOS_1843,958193337,Mod Active
+199682967,Dealer_1844,Branch_3,411474,Pune,Maharashtra,Departmental Stores,FOS_1844,934866733,Mod Active
+333716403,Dealer_1845,Branch_51,411742,Pune,Maharashtra,Small Appliances,FOS_1845,944482173,Active
+337362393,Dealer_1846,Branch_33,411549,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1846,932883499,Inactive
+893263846,Dealer_1847,Branch_86,411908,Pune,Maharashtra,Apparels,FOS_1847,902004599,Mod Active
+310091595,Dealer_1848,Branch_1,411040,Pune,Maharashtra,Apparels,FOS_1848,978428005,Inactive
+474047761,Dealer_1849,Branch_7,411612,Pune,Maharashtra,Pharmacy,FOS_1849,911933567,Active
+737987637,Dealer_1850,Branch_4,411673,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1850,979676136,Inactive
+700806483,Dealer_1851,Branch_58,411944,Pune,Maharashtra,Remi Gas Kit,FOS_1851,981225837,Inactive
+180952153,Dealer_1852,Branch_47,411090,Pune,Maharashtra,LFR,FOS_1852,997646562,Inactive
+248510316,Dealer_1853,Branch_20,411262,Pune,Maharashtra,Water Purifier,FOS_1853,978593511,Inactive
+347157708,Dealer_1854,Branch_72,411736,Pune,Maharashtra,Lighting,FOS_1854,997839169,Active
+378014814,Dealer_1855,Branch_14,411739,Pune,Maharashtra,Paints And Hardware,FOS_1855,916491427,Inactive
+939804027,Dealer_1856,Branch_41,411733,Pune,Maharashtra,Handicrafts,FOS_1856,980127863,Inactive
+131334512,Dealer_1857,Branch_88,411081,Pune,Maharashtra,Eyewear,FOS_1857,917942124,Active
+900849546,Dealer_1858,Branch_60,411070,Pune,Maharashtra,Home Security Systems,FOS_1858,924778836,Active
+678656657,Dealer_1859,Branch_86,411917,Pune,Maharashtra,Crockery And House Hold Items,FOS_1859,966021793,Inactive
+207399708,Dealer_1860,Branch_39,411516,Pune,Maharashtra,Luggage,FOS_1860,963560367,Inactive
+170115506,Dealer_1861,Branch_76,411013,Pune,Maharashtra,Luggage,FOS_1861,923937345,Mod Active
+136241221,Dealer_1862,Branch_20,411226,Pune,Maharashtra,Small Appliances,FOS_1862,900388318,Active
+419537111,Dealer_1863,Branch_71,411501,Pune,Maharashtra,Sports Equipment,FOS_1863,954132795,Mod Active
+600302993,Dealer_1864,Branch_80,411757,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1864,997135810,Mod Active
+667823864,Dealer_1865,Branch_37,411450,Pune,Maharashtra,Departmental Stores,FOS_1865,996752315,Active
+536014365,Dealer_1866,Branch_5,411043,Pune,Maharashtra,Apparels,FOS_1866,904217603,Inactive
+130946707,Dealer_1867,Branch_59,411777,Pune,Maharashtra,Power Backup,FOS_1867,904337504,Inactive
+768315757,Dealer_1868,Branch_53,411690,Pune,Maharashtra,Travel Agencies,FOS_1868,931179496,Active
+198892509,Dealer_1869,Branch_26,411923,Pune,Maharashtra,Toys,FOS_1869,930784329,Active
+809844129,Dealer_1870,Branch_98,411162,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1870,959271687,Inactive
+957354029,Dealer_1871,Branch_65,411711,Pune,Maharashtra,Pets Accessories,FOS_1871,994012157,Active
+320931378,Dealer_1872,Branch_3,411566,Pune,Maharashtra,High End Stationery,FOS_1872,990627769,Mod Active
+674454054,Dealer_1873,Branch_2,411197,Pune,Maharashtra,Toys,FOS_1873,900006774,Mod Active
+839951206,Dealer_1874,Branch_85,411977,Pune,Maharashtra,Tyres,FOS_1874,947921322,Inactive
+389913623,Dealer_1875,Branch_59,411643,Pune,Maharashtra,Luggage,FOS_1875,921712224,Mod Active
+948606973,Dealer_1876,Branch_28,411298,Pune,Maharashtra,Small Appliances,FOS_1876,981541150,Mod Active
+904455183,Dealer_1877,Branch_17,411807,Pune,Maharashtra,Diagnostics,FOS_1877,919561906,Mod Active
+867220836,Dealer_1878,Branch_51,411775,Pune,Maharashtra,E-Bike,FOS_1878,976442565,Active
+699913216,Dealer_1879,Branch_13,411872,Pune,Maharashtra,Furnishing,FOS_1879,905350567,Mod Active
+468548984,Dealer_1880,Branch_64,411785,Pune,Maharashtra,Home Security Systems,FOS_1880,913096949,Active
+417171682,Dealer_1881,Branch_91,411532,Pune,Maharashtra,Sports Equipment,FOS_1881,943171722,Inactive
+945229685,Dealer_1882,Branch_37,411920,Pune,Maharashtra,Sewing Machines.,FOS_1882,993518204,Inactive
+926327305,Dealer_1883,Branch_5,411322,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1883,909404786,Active
+199118021,Dealer_1884,Branch_91,411712,Pune,Maharashtra,Watches,FOS_1884,915414162,Active
+220124463,Dealer_1885,Branch_97,411652,Pune,Maharashtra,Handicrafts,FOS_1885,926883584,Mod Active
+757883167,Dealer_1886,Branch_67,411733,Pune,Maharashtra,Travel Agencies,FOS_1886,954710921,Inactive
+119708037,Dealer_1887,Branch_71,411559,Pune,Maharashtra,Luggage,FOS_1887,986137511,Active
+795094613,Dealer_1888,Branch_61,411816,Pune,Maharashtra,Luggage,FOS_1888,927974919,Active
+370119461,Dealer_1889,Branch_45,411959,Pune,Maharashtra,Luggage,FOS_1889,929185368,Mod Active
+552588889,Dealer_1890,Branch_24,411358,Pune,Maharashtra,Large Applainces,FOS_1890,918858812,Active
+744144132,Dealer_1891,Branch_93,411342,Pune,Maharashtra,Footwear,FOS_1891,999184139,Mod Active
+318160902,Dealer_1892,Branch_22,411011,Pune,Maharashtra,Spa And Salon,FOS_1892,986489730,Inactive
+146695650,Dealer_1893,Branch_32,411822,Pune,Maharashtra,Paints And Hardware,FOS_1893,999762853,Active
+857038810,Dealer_1894,Branch_73,411013,Pune,Maharashtra,Gyms And Spas,FOS_1894,910147928,Active
+256096086,Dealer_1895,Branch_95,411528,Pune,Maharashtra,Diagnostics,FOS_1895,987241077,Mod Active
+849661444,Dealer_1896,Branch_41,411162,Pune,Maharashtra,Departmental Stores,FOS_1896,978584597,Mod Active
+807202576,Dealer_1897,Branch_3,411836,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1897,965656380,Active
+996448518,Dealer_1898,Branch_39,411985,Pune,Maharashtra,Pharmacy,FOS_1898,994351835,Inactive
+178383281,Dealer_1899,Branch_23,411575,Pune,Maharashtra,Pharmacy,FOS_1899,959650343,Active
+684678811,Dealer_1900,Branch_93,411023,Pune,Maharashtra,Luggage,FOS_1900,914414915,Inactive
+169094471,Dealer_1901,Branch_62,411885,Pune,Maharashtra,Tyres,FOS_1901,996709268,Inactive
+518613670,Dealer_1902,Branch_4,411155,Pune,Maharashtra,Hotels,FOS_1902,965954544,Inactive
+179733190,Dealer_1903,Branch_69,411300,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1903,950724383,Inactive
+729866990,Dealer_1904,Branch_87,411059,Pune,Maharashtra,Diagnostics,FOS_1904,983947596,Active
+193349675,Dealer_1905,Branch_71,411595,Pune,Maharashtra,E-Bike,FOS_1905,939818549,Mod Active
+972888147,Dealer_1906,Branch_5,411541,Pune,Maharashtra,Bike Accessories,FOS_1906,980861087,Active
+233196716,Dealer_1907,Branch_86,411564,Pune,Maharashtra,Insurance,FOS_1907,910276998,Mod Active
+979908646,Dealer_1908,Branch_71,411905,Pune,Maharashtra,Remi Gas Kit,FOS_1908,934488365,Active
+939985234,Dealer_1909,Branch_3,411022,Pune,Maharashtra,Handicrafts,FOS_1909,949145259,Active
+190837678,Dealer_1910,Branch_50,411784,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1910,911313227,Inactive
+789043705,Dealer_1911,Branch_17,411142,Pune,Maharashtra,Remi Gas Kit,FOS_1911,920816525,Inactive
+652356646,Dealer_1912,Branch_52,411417,Pune,Maharashtra,Furnishing,FOS_1912,989915896,Active
+666635112,Dealer_1913,Branch_92,411706,Pune,Maharashtra,Pharmacy,FOS_1913,934530899,Inactive
+459172595,Dealer_1914,Branch_36,411669,Pune,Maharashtra,Power Backup,FOS_1914,962033681,Active
+323814319,Dealer_1915,Branch_78,411831,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1915,984940352,Mod Active
+388678314,Dealer_1916,Branch_78,411843,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1916,903638865,Mod Active
+351985325,Dealer_1917,Branch_99,411530,Pune,Maharashtra,Pharmacy,FOS_1917,990100108,Inactive
+213684028,Dealer_1918,Branch_64,411353,Pune,Maharashtra,Car Accessories / Auto Ancillaries,FOS_1918,954646429,Active
+685389451,Dealer_1919,Branch_59,411817,Pune,Maharashtra,Medical Accessories,FOS_1919,925399310,Mod Active
+535264686,Dealer_1920,Branch_82,411458,Pune,Maharashtra,Paints And Hardware,FOS_1920,905475839,Mod Active
+712443036,Dealer_1921,Branch_23,411751,Pune,Maharashtra,Sports Equipment,FOS_1921,932852635,Active
+878855871,Dealer_1922,Branch_46,411549,Pune,Maharashtra,Watches,FOS_1922,981211667,Inactive
+773284584,Dealer_1923,Branch_32,411394,Pune,Maharashtra,LFR,FOS_1923,975776668,Active
+124685771,Dealer_1924,Branch_19,411063,Pune,Maharashtra,Handicrafts,FOS_1924,962550360,Mod Active
+544288016,Dealer_1925,Branch_6,411790,Pune,Maharashtra,Tyres,FOS_1925,976231759,Active
+648265528,Dealer_1926,Branch_30,411414,Pune,Maharashtra,Sewing Machines.,FOS_1926,906732275,Active
+214403785,Dealer_1927,Branch_57,411698,Pune,Maharashtra,Power Tools,FOS_1927,959508073,Mod Active
+885807404,Dealer_1928,Branch_16,411375,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1928,914583515,Active
+965104721,Dealer_1929,Branch_90,411593,Pune,Maharashtra,High End Stationery,FOS_1929,959978950,Active
+844849398,Dealer_1930,Branch_27,411759,Pune,Maharashtra,Gyms And Spas,FOS_1930,949311183,Mod Active
+287534925,Dealer_1931,Branch_23,411618,Pune,Maharashtra,Departmental Stores,FOS_1931,953264872,Active
+293270077,Dealer_1932,Branch_11,411895,Pune,Maharashtra,Handicrafts,FOS_1932,918461479,Inactive
+995091028,Dealer_1933,Branch_35,411977,Pune,Maharashtra,Paints And Hardware,FOS_1933,930002784,Mod Active
+351896033,Dealer_1934,Branch_5,411256,Pune,Maharashtra,Power Tools,FOS_1934,924642080,Inactive
+871203765,Dealer_1935,Branch_20,411721,Pune,Maharashtra,Water Purifier,FOS_1935,955132784,Inactive
+601441617,Dealer_1936,Branch_62,411246,Pune,Maharashtra,Musical Instruments,FOS_1936,982020427,Active
+615171573,Dealer_1937,Branch_90,411411,Pune,Maharashtra,Furnishing,FOS_1937,939919630,Active
+325540329,Dealer_1938,Branch_58,411408,Pune,Maharashtra,Hotels,FOS_1938,968139465,Mod Active
+217621442,Dealer_1939,Branch_91,411904,Pune,Maharashtra,Lighting,FOS_1939,998160948,Mod Active
+998609241,Dealer_1940,Branch_80,411604,Pune,Maharashtra,Pets Accessories,FOS_1940,911533701,Inactive
+992710749,Dealer_1941,Branch_16,411080,Pune,Maharashtra,Eyewear,FOS_1941,909302356,Inactive
+848266473,Dealer_1942,Branch_68,411495,Pune,Maharashtra,Sewing Machines.,FOS_1942,904336027,Active
+721142588,Dealer_1943,Branch_4,411095,Pune,Maharashtra,Lighting,FOS_1943,929129464,Inactive
+605037940,Dealer_1944,Branch_24,411132,Pune,Maharashtra,Departmental Stores,FOS_1944,974810323,Mod Active
+656765479,Dealer_1945,Branch_97,411005,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1945,990988450,Inactive
+804524052,Dealer_1946,Branch_74,411922,Pune,Maharashtra,Tyres,FOS_1946,917250050,Inactive
+244729200,Dealer_1947,Branch_32,411965,Pune,Maharashtra,Footwear,FOS_1947,924138643,Mod Active
+469861277,Dealer_1948,Branch_37,411106,Pune,Maharashtra,Insurance,FOS_1948,949947835,Inactive
+628826886,Dealer_1949,Branch_11,411320,Pune,Maharashtra,High End Stationery,FOS_1949,950357040,Active
+235378144,Dealer_1950,Branch_15,411161,Pune,Maharashtra,Spa And Salon,FOS_1950,973286500,Active
+390105861,Dealer_1951,Branch_24,411829,Pune,Maharashtra,High End Stationery,FOS_1951,994278919,Inactive
+954745846,Dealer_1952,Branch_12,411520,Pune,Maharashtra,Home Security Systems,FOS_1952,970065867,Active
+981266190,Dealer_1953,Branch_41,411715,Pune,Maharashtra,Large Applainces,FOS_1953,930298074,Inactive
+457854016,Dealer_1954,Branch_9,411100,Pune,Maharashtra,Large Applainces,FOS_1954,980160835,Active
+764556313,Dealer_1955,Branch_55,411798,Pune,Maharashtra,Cycles,FOS_1955,993227831,Mod Active
+350533651,Dealer_1956,Branch_93,411370,Pune,Maharashtra,Lighting,FOS_1956,983922440,Mod Active
+435132584,Dealer_1957,Branch_20,411987,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1957,956699796,Mod Active
+968305258,Dealer_1958,Branch_65,411183,Pune,Maharashtra,Spa And Salon,FOS_1958,970224964,Mod Active
+451145041,Dealer_1959,Branch_42,411353,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1959,975462064,Mod Active
+979923888,Dealer_1960,Branch_21,411326,Pune,Maharashtra,Power Tools,FOS_1960,982147751,Active
+794497796,Dealer_1961,Branch_88,411976,Pune,Maharashtra,Water Purifier,FOS_1961,946118745,Mod Active
+901962409,Dealer_1962,Branch_45,411379,Pune,Maharashtra,Sewing Machines.,FOS_1962,951718074,Inactive
+966214230,Dealer_1963,Branch_94,411181,Pune,Maharashtra,Handicrafts,FOS_1963,981696592,Mod Active
+220736968,Dealer_1964,Branch_39,411962,Pune,Maharashtra,Large Applainces,FOS_1964,923231405,Active
+944769864,Dealer_1965,Branch_74,411378,Pune,Maharashtra,Furnishing,FOS_1965,911058164,Mod Active
+741853044,Dealer_1966,Branch_66,411640,Pune,Maharashtra,Water Purifier,FOS_1966,985238453,Active
+312381532,Dealer_1967,Branch_92,411608,Pune,Maharashtra,Travel Agencies,FOS_1967,947492920,Active
+508344160,Dealer_1968,Branch_22,411858,Pune,Maharashtra,Toys,FOS_1968,951693481,Active
+384401757,Dealer_1969,Branch_11,411129,Pune,Maharashtra,Water Purifier,FOS_1969,968665132,Active
+933208601,Dealer_1970,Branch_69,411887,Pune,Maharashtra,Travel Agencies,FOS_1970,916326714,Active
+674895692,Dealer_1971,Branch_89,411811,Pune,Maharashtra,Pets Accessories,FOS_1971,975275215,Active
+378949702,Dealer_1972,Branch_73,411948,Pune,Maharashtra,Power Backup,FOS_1972,974487766,Active
+296526592,Dealer_1973,Branch_3,411236,Pune,Maharashtra,Sports Equipment,FOS_1973,950514040,Inactive
+757216679,Dealer_1974,Branch_8,411694,Pune,Maharashtra,Bike Accessories,FOS_1974,902629816,Mod Active
+977835286,Dealer_1975,Branch_88,411840,Pune,Maharashtra,Travel Agencies,FOS_1975,990363595,Active
+809265745,Dealer_1976,Branch_90,411384,Pune,Maharashtra,Handicrafts,FOS_1976,928747138,Inactive
+751022819,Dealer_1977,Branch_79,411210,Pune,Maharashtra,Remi Gas Kit,FOS_1977,999713626,Inactive
+418672002,Dealer_1978,Branch_1,411173,Pune,Maharashtra,Tyres,FOS_1978,940402083,Mod Active
+210465119,Dealer_1979,Branch_44,411822,Pune,Maharashtra,Toys,FOS_1979,963923443,Mod Active
+557640610,Dealer_1980,Branch_44,411880,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1980,920462613,Mod Active
+186448160,Dealer_1981,Branch_55,411600,Pune,Maharashtra,Watches,FOS_1981,991749211,Active
+272767628,Dealer_1982,Branch_72,411491,Pune,Maharashtra,Toys,FOS_1982,935297611,Inactive
+274877749,Dealer_1983,Branch_34,411349,Pune,Maharashtra,Vehicle Care / Servicing,FOS_1983,946477288,Inactive
+660620303,Dealer_1984,Branch_53,411605,Pune,Maharashtra,Crockery And House Hold Items,FOS_1984,986725789,Active
+261796995,Dealer_1985,Branch_13,411874,Pune,Maharashtra,Large Applainces,FOS_1985,913108575,Mod Active
+409409680,Dealer_1986,Branch_44,411797,Pune,Maharashtra,Medical Accessories,FOS_1986,979570127,Inactive
+437681828,Dealer_1987,Branch_9,411685,Pune,Maharashtra,Fine Dining/Organized Dining,FOS_1987,982911344,Active
+901014133,Dealer_1988,Branch_80,411720,Pune,Maharashtra,Large Applainces,FOS_1988,934883309,Inactive
+215129260,Dealer_1989,Branch_45,411129,Pune,Maharashtra,Departmental Stores,FOS_1989,981553598,Inactive
+597641181,Dealer_1990,Branch_66,411826,Pune,Maharashtra,Small Appliances,FOS_1990,993246857,Mod Active
+909441036,Dealer_1991,Branch_8,411414,Pune,Maharashtra,Furnishing,FOS_1991,960414713,Active
+886172060,Dealer_1992,Branch_98,411455,Pune,Maharashtra,Crockery And House Hold Items,FOS_1992,937377811,Mod Active
+853867709,Dealer_1993,Branch_77,411139,Pune,Maharashtra,Footwear,FOS_1993,923994454,Active
+168714455,Dealer_1994,Branch_45,411891,Pune,Maharashtra,Small Appliances,FOS_1994,913765075,Active
+624677757,Dealer_1995,Branch_66,411810,Pune,Maharashtra,Fragmented Multi Brand Stores,FOS_1995,980259775,Mod Active
+135359077,Dealer_1996,Branch_65,411530,Pune,Maharashtra,Medical Accessories,FOS_1996,986797485,Active
+949054060,Dealer_1997,Branch_33,411258,Pune,Maharashtra,Tyres,FOS_1997,908714966,Mod Active
+177743733,Dealer_1998,Branch_82,411898,Pune,Maharashtra,Musical Instruments,FOS_1998,979218604,Inactive
+764247793,Dealer_1999,Branch_77,411196,Pune,Maharashtra,Tyres,FOS_1999,982397756,Mod Active

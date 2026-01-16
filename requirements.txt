@@ -1,0 +1,36 @@
+# langchain-core
+# langchain-community
+# langchain
+# langchain-text-splitters
+langchain
+langchain-community
+langchain-core
+docx2txt
+python-docx
+typing-extensions
+tqdm
+ollama
+python-dotenv
+numpy
+pandas
+scipy
+pyttsx3
+speechrecognition
+whisper
+googletrans
+rapidfuzz
+phonetics
+ollama
+edge-tts
+pygame
+langdetect
+sounddevice
+faiss-cpu
+asyncio
+fastapi
+uvicorn[standard]
+sentence-transformers
+langchain_groq
+supabase
+langchain-nvidia-ai-endpoints
+langgraph
