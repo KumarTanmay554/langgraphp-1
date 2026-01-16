@@ -49,6 +49,7 @@ from pydantic import BaseModel, Field
 from langgraph.graph import StateGraph, START, END
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
+import streamlit as st
 
 load_dotenv()
 
@@ -468,7 +469,7 @@ class LLMClient:
     def __init__(self, model:str|None = None, api_key:str|None = None):
         # self.model = self._find_default_model()
         self.model = model or os.environ.get("GEMINI_MODEL","gemini-3-pro-preview")
-        self.api_key = api_key or os.environ.get("API_KEY")
+        self.api_key = api_key or os.environ.get("API_KEY") or st.secrets["API_KEY"]
         try:
             self.client = genai.Client(api_key=self.api_key) if self.api_key else genai.Client()
             print(f"Gemini intialised using {self.model}")

@@ -18,17 +18,17 @@ from supabase import Client, create_client
 from operator import add
 from langchain_nvidia import ChatNVIDIA
 from utils import generate_followup_suggestions, check_remi_eligibility
-
+import streamlit as st
 dotenv.load_dotenv()
 
-url = os.environ.get("SUPABASE_URL")
-key = os.environ.get("SUPABASE_KEY")
+url = os.environ.get("SUPABASE_URL") or st.secrets["SUPABASE_URL"]
+key = os.environ.get("SUPABASE_KEY") or st.secrets["SUPABASE_KEY"]
 supabase: Client = create_client(url, key)
-nvapi = os.environ.get("NV_API_KEY")
+nvapi = os.environ.get("NV_API_KEY") or st.secrets["NV_API_KEY"]
 
 llm_client = ChatGroq(
     model= "openai/gpt-oss-120b",
-    api_key= os.environ.get("GROQ_API_KEY") 
+    api_key= os.environ.get("GROQ_API_KEY") or st.secrets["GROQ_API_KEY"]
 )
 
 suggestion_client = ChatNVIDIA(
