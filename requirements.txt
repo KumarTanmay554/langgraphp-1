@@ -13,6 +13,7 @@ ollama
 python-dotenv
 numpy
 pandas
+google-genai
 scipy
 pyttsx3
 speechrecognition

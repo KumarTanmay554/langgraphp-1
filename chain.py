@@ -9,7 +9,7 @@ from langchain_community.llms import Ollama
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 # from langchain.llms.base import LLM
-from google import genai
+# from google import genai
 from typing import Optional,List, Any
 import os
 load_dotenv()
