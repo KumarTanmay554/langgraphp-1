@@ -34,5 +34,6 @@ sentence-transformers
 langchain_groq
 supabase
 langchain-nvidia-ai-endpoints
+streamlit
 langgraph
 langchain-huggingface

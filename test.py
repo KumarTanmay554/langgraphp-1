@@ -24,11 +24,11 @@ dotenv.load_dotenv()
 url = os.environ.get("SUPABASE_URL")
 key = os.environ.get("SUPABASE_KEY")
 supabase: Client = create_client(url, key)
-nvapi = os.getenv("NV_API_KEY")
+nvapi = os.environ.get("NV_API_KEY")
 
 llm_client = ChatGroq(
     model= "openai/gpt-oss-120b",
-    api_key= os.getenv("GROQ_API_KEY") 
+    api_key= os.environ.get("GROQ_API_KEY") 
 )
 
 suggestion_client = ChatNVIDIA(

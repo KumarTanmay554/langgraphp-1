@@ -468,7 +468,7 @@ class LLMClient:
     def __init__(self, model:str|None = None, api_key:str|None = None):
         # self.model = self._find_default_model()
         self.model = model or os.environ.get("GEMINI_MODEL","gemini-3-pro-preview")
-        self.api_key = api_key or os.getenv("API_KEY")
+        self.api_key = api_key or os.environ.get("API_KEY")
         try:
             self.client = genai.Client(api_key=self.api_key) if self.api_key else genai.Client()
             print(f"Gemini intialised using {self.model}")
@@ -655,7 +655,7 @@ class LLMClient:
 llm_client = None
 llm = ChatGroq(
                 model="llama-3.3-70b-versatile",
-                api_key=os.getenv("GROQ_API_KEY") 
+                api_key=os.environ.get("GROQ_API_KEY") 
                 )
 try:
     llm_client = LLMClient()

@@ -8,7 +8,7 @@ import httpx
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
 class Intent(Enum):
     ELIGIBILITY = "eligibility"
@@ -24,7 +24,7 @@ class IntentResult:
 class LLMIntentDetector:
     
     def __init__(self, api_key: str = None):
-        self.api_key = api_key or os.getenv("API_KEY_1")
+        self.api_key = api_key or os.environ.get("API_KEY_1")
         self.client = None
         self._setup_client()
     
