@@ -12,6 +12,8 @@ from dotenv import load_dotenv
 # from google import genai
 from typing import Optional,List, Any
 import os
+
+
 load_dotenv()
 # class GeminiLLM(LLM):
 #     model: str = "gemini-2.5-flash"
@@ -81,7 +83,7 @@ def create_rag_chain_csv(retriever):
 
     llm = ChatGroq(
                 model="llama-3.3-70b-versatile",
-                api_key=os.getenv("GROQ_API_KEY")
+                api_key=os.environ.get("GROQ_API_KEY")
                 )
     memory = ConversationBufferWindowMemory(k=2,memory_key="chat_history", return_messages=True)
     
